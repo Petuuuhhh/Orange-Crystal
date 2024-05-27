@@ -18,6 +18,7 @@ keys = [
     'catchrate',
     'padding',
     'expyield',
+    # 'evs',
     'itemcommon',
     'itemrare',
     'genderratio',
