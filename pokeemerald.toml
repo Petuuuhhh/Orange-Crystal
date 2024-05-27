@@ -21,7 +21,7 @@ DefaultHash = '''8A7A6B06'''
 [[NamedAnchors]]
 Name = '''data.pokemon.info'''
 Address = 0xB16524
-Format = '''[hp. attack. defense. speed. spatk. spdef. BST|=hp+attack+defense+speed+spatk+spdef type1.data.pokemon.type.info type2.data.pokemon.type.info catchrate. padding. expyield: evs:|t|hp:|atk:|defense:|spd:|spatk:|spdef:|padding:: itemcommon:data.items.info itemrare:data.items.info genderratio.genderratiovalues eggcycles. friendship. growthrate.growthrates egggroup1.egggroups egggroup2.egggroups ability1:data.abilities.info ability2:data.abilities.info hiddenability:data.abilities.info safarizonefleerate. categoryname""13 speciesname""11 cryid:|h natdexnum:|h height:|h weight:|h pokemonscale:|h pokemonoffset:|h trainerscale:|h traineroffset:|h padding. description:.|h graphics:|t|bodycolor:::.|noflip. frontanimdelay. frontanimid. backanimid. frontanimframes<> frontpic<> frontpicfemale<> backpic<> backpicfemale<> palette<> palettefemale<> shinypalette<> shinypalettefemale<> iconsprite<> iconspritefemale<> footprint<> frontpicsize. frontpicsizefemale. frontpicyoffset. backpicsize. backpicsizefemale. backpicyoffset. iconpal.|t|index:.|indexfemale:.|enemymonelevation. flags:.|t|legendary.|mythical.|ultrabeast.|totem.|paradox.|megaevolution.|primalreversion.|ultraburst.|gigantamax.|alolan.|galarian.|hisuian.|paldean.|trade.|perfectivs.|dexforce. flags2:|t|tmilleterate.|padding:::::::. leveluplearnset<[move:data.pokemon.moves.info level:]!FFFF0000> teachablelearnset<[move:data.pokemon.moves.info]!FFFF> evolutions<[method:evolutionmethods param: targetspecies:data.pokemon.names padding:]!FFFF> formspeciesidtable<> formchangetable<>]data.pokemon.names'''
+Format = '''[hp. attack. defense. speed. spatk. spdef. BST|=hp+attack+defense+speed+spatk+spdef type1.data.pokemon.type.info type2.data.pokemon.type.info catchrate. padding. expyield: evs:|t|hp:|atk:|defense:|spd:|spatk:|spdef:|padding:: itemcommon:data.items.info itemrare:data.items.info genderratio.genderratiovalues eggcycles. friendship. growthrate.growthrates egggroup1.egggroups egggroup2.egggroups ability1:data.abilities.info ability2:data.abilities.info hiddenability:data.abilities.info safarizonefleerate. categoryname""13 speciesname""11 cryid:|h natdexnum:|h height:|h weight:|h pokemonscale:|h pokemonoffset:|h trainerscale:|h traineroffset:|h padding. description:.|h graphics:|t|bodycolor:::.|noflip. frontanimdelay. frontanimid. backanimid. frontanimframes<> frontpic<> frontpicfemale<> backpic<> backpicfemale<> palette<> palettefemale<> shinypalette<> shinypalettefemale<> iconsprite<> iconspritefemale<> footprint<> frontpicsize. frontpicsizefemale. frontpicyoffset. backpicsize. backpicsizefemale. backpicyoffset. iconpal.|t|index:.|indexfemale:. enemymonelevation.  flags:|t|legendary.|mythical.|ultrabeast.|totem.|paradox.|megaevolution.|primalreversion.|ultraburst.|gigantamax.|alolan.|galarian.|hisuian.|paldean.|trade.|perfectivs.|dexforce. flags2:|t|tmilleterate.|padding:::::::. leveluplearnset<[move:data.pokemon.moves.info level:]!FFFF0000> teachablelearnset<[move:data.pokemon.moves.info]!FFFF> evolutions<[method:evolutionmethods param: targetspecies:data.pokemon.names padding:]!FFFF> formspeciesidtable<> formchangetable<[method:formchangemethods targetspecies:data.pokemon.names param1: param2: param3: padding:]!0000>]data.pokemon.names'''
 DefaultHash = '''3DF8788F'''
 
 [[NamedAnchors]]
@@ -1311,6 +1311,34 @@ DefaultHash = '''721F046F'''
    '''EVO_LEVEL_MOVE_TWENTY_TIMES''',
    '''EVO_LEVEL_RECOIL_DAMAGE_MALE''',
    '''EVO_LEVEL_RECOIL_DAMAGE_FEMALE''',
+]
+
+[[List]]
+Name = '''formchangemethods'''
+DefaultHash = '''721F046F'''
+0 = [
+   '''FORM_CHANGE_TERMINATOR''',
+   '''FORM_CHANGE_ITEM_HOLD''',
+   '''FORM_CHANGE_ITEM_USE''',
+   '''FORM_CHANGE_MOVE''',
+   '''FORM_CHANGE_WITHDRAW''',
+   '''FORM_CHANGE_FAINT''',
+   '''FORM_CHANGE_BEGIN_BATTLE''',
+   '''FORM_CHANGE_END_BATTLE''',
+   '''FORM_CHANGE_END_BATTLE_TERRAIN''',
+   '''FORM_CHANGE_BATTLE_SWITCH''',
+   '''FORM_CHANGE_BATTLE_HP_PERCENT''',
+   '''FORM_CHANGE_BATTLE_MEGA_EVOLUTION_ITEM''',
+   '''FORM_CHANGE_BATTLE_MEGA_EVOLUTION_MOVE''',
+   '''FORM_CHANGE_BATTLE_PRIMAL_REVERSION''',
+   '''FORM_CHANGE_BATTLE_WEATHER''',
+   '''FORM_CHANGE_BATTLE_TURN_END''',
+   '''FORM_CHANGE_BATTLE_ULTRA_BURST''',
+   '''FORM_CHANGE_BATTLE_GIGANTAMAX''',
+   '''FORM_CHANGE_TIME_OF_DAY''',
+   '''FORM_CHANGE_ITEM_USE_MULTICHOICE''',
+   '''FORM_CHANGE_STATUS''',
+   '''FORM_CHANGE_HIT_BY_MOVE''',
 ]
 
 [[List]]
