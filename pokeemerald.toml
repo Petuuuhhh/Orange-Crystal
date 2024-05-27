@@ -21,7 +21,7 @@ DefaultHash = '''8A7A6B06'''
 [[NamedAnchors]]
 Name = '''data.pokemon.info'''
 Address = 0xB16524
-Format = '''[hp. attack. defense. speed. spatk. spdef. BST|=hp+attack+defense+speed+spatk+spdef type1.data.pokemon.type.info type2.data.pokemon.type.info catchrate. padding. expyield: evs:|t|hp:|atk:|defense:|spd:|spatk:|spdef:|padding:: itemcommon:data.items.info itemrare:data.items.info genderratio.genderratiovalues eggcycles. friendship. growthrate.growthrates egggroup1.egggroups egggroup2.egggroups ability1:data.abilities.info ability2:data.abilities.info hiddenability:data.abilities.info safarizonefleerate. categoryname""13 speciesname""11 cryid:|h natdexnum:|h height:|h weight:|h pokemonscale:|h pokemonoffset:|h trainerscale:|h traineroffset:|h padding. description:.|h graphics:|t|bodycolor:::.|noflip. frontanimdelay. frontanimid. backanimid. frontanimframes<> frontpic<> frontpicfemale<> backpic<> backpicfemale<> palette<> palettefemale<> shinypalette<> shinypalettefemale<> iconsprite<> iconspritefemale<> footprint<> frontpicsize. frontpicsizefemale. frontpicyoffset. backpicsize. backpicsizefemale. backpicyoffset. iconpal.|t|index:.|indexfemale:.|enemymonelevation. flags:.|t|legendary.|mythical.|ultrabeast.|totem.|paradox.|megaevolution.|primalreversion.|ultraburst.|gigantamax.|alolan.|galarian.|hisuian.|paldean.|trade.|perfectivs.|dexforce. flags2:|t|tmilleterate.|padding:::::::. leveluplearnset<[move:data.pokemon.moves.info level:]!FFFF0000> teachablelearnset<[move:data.pokemon.moves.info]!FFFF> evolutions<> formspeciesidtable<> formchangetable<>]data.pokemon.names'''
+Format = '''[hp. attack. defense. speed. spatk. spdef. BST|=hp+attack+defense+speed+spatk+spdef type1.data.pokemon.type.info type2.data.pokemon.type.info catchrate. padding. expyield: evs:|t|hp:|atk:|defense:|spd:|spatk:|spdef:|padding:: itemcommon:data.items.info itemrare:data.items.info genderratio.genderratiovalues eggcycles. friendship. growthrate.growthrates egggroup1.egggroups egggroup2.egggroups ability1:data.abilities.info ability2:data.abilities.info hiddenability:data.abilities.info safarizonefleerate. categoryname""13 speciesname""11 cryid:|h natdexnum:|h height:|h weight:|h pokemonscale:|h pokemonoffset:|h trainerscale:|h traineroffset:|h padding. description:.|h graphics:|t|bodycolor:::.|noflip. frontanimdelay. frontanimid. backanimid. frontanimframes<> frontpic<> frontpicfemale<> backpic<> backpicfemale<> palette<> palettefemale<> shinypalette<> shinypalettefemale<> iconsprite<> iconspritefemale<> footprint<> frontpicsize. frontpicsizefemale. frontpicyoffset. backpicsize. backpicsizefemale. backpicyoffset. iconpal.|t|index:.|indexfemale:.|enemymonelevation. flags:.|t|legendary.|mythical.|ultrabeast.|totem.|paradox.|megaevolution.|primalreversion.|ultraburst.|gigantamax.|alolan.|galarian.|hisuian.|paldean.|trade.|perfectivs.|dexforce. flags2:|t|tmilleterate.|padding:::::::. leveluplearnset<[move:data.pokemon.moves.info level:]!FFFF0000> teachablelearnset<[move:data.pokemon.moves.info]!FFFF> evolutions<[method:evolutionmethods param: targetspecies:data.pokemon.names padding:]!FFFF> formspeciesidtable<> formchangetable<>]data.pokemon.names'''
 DefaultHash = '''3DF8788F'''
 
 [[NamedAnchors]]
@@ -1261,22 +1261,56 @@ DefaultHash = '''F1BAB4AA'''
 Name = '''evolutionmethods'''
 DefaultHash = '''721F046F'''
 0 = [
-   '''None''',
-   '''Happiness''',
-   '''Happy Day''',
-   '''Happy Night''',
-   '''Level''',
-   '''Trade''',
-   '''Trade Item''',
-   '''Stone''',
-   '''Level High Attack''',
-   '''Level Attack matches Defense''',
-   '''Level High Defense''',
-   '''Level Odd Personality''',
-   '''Level Even Personality''',
-   '''Level And New Pokemon''',
-   '''Level But New Pokemon''',
-   '''Beauty''',
+   '''EVO_NONE''',
+   '''EVO_FRIENDSHIP''',
+   '''EVO_FRIENDSHIP_DAY''',
+   '''EVO_FRIENDSHIP_NIGHT''',
+   '''EVO_LEVEL''',
+   '''EVO_TRADE''',
+   '''EVO_TRADE_ITEM''',
+   '''EVO_ITEM''',
+   '''EVO_LEVEL_ATK_GT_DEF''',
+   '''EVO_LEVEL_ATK_EQ_DEF''',
+   '''EVO_LEVEL_ATK_LT_DEF''',
+   '''EVO_LEVEL_SILCOON''',
+   '''EVO_LEVEL_CASCOON''',
+   '''EVO_LEVEL_NINJASK''',
+   '''EVO_LEVEL_SHEDINJA''',
+   '''EVO_BEAUTY''',
+   '''EVO_LEVEL_FEMALE''',
+   '''EVO_LEVEL_MALE''',
+   '''EVO_LEVEL_NIGHT''',
+   '''EVO_LEVEL_DAY''',
+   '''EVO_LEVEL_DUSK''',
+   '''EVO_ITEM_HOLD_DAY''',
+   '''EVO_ITEM_HOLD_NIGHT''',
+   '''EVO_MOVE''',
+   '''EVO_FRIENDSHIP_MOVE_TYPE''',
+   '''EVO_MAPSEC''',
+   '''EVO_ITEM_MALE''',
+   '''EVO_ITEM_FEMALE''',
+   '''EVO_LEVEL_RAIN''',
+   '''EVO_SPECIFIC_MON_IN_PARTY''',
+   '''EVO_LEVEL_DARK_TYPE_MON_IN_PARTY''',
+   '''EVO_TRADE_SPECIFIC_MON''',
+   '''EVO_SPECIFIC_MAP''',
+   '''EVO_LEVEL_NATURE_AMPED''',
+   '''EVO_LEVEL_NATURE_LOW_KEY''',
+   '''EVO_CRITICAL_HITS''',
+   '''EVO_SCRIPT_TRIGGER_DMG''',
+   '''EVO_DARK_SCROLL''',
+   '''EVO_WATER_SCROLL''',
+   '''EVO_ITEM_NIGHT''',
+   '''EVO_ITEM_DAY''',
+   '''EVO_ITEM_HOLD''',
+   '''EVO_LEVEL_FOG''',
+   '''EVO_MOVE_TWO_SEGMENT''',
+   '''EVO_MOVE_THREE_SEGMENT''',
+   '''EVO_LEVEL_FAMILY_OF_THREE''',
+   '''EVO_LEVEL_FAMILY_OF_FOUR''',
+   '''EVO_LEVEL_MOVE_TWENTY_TIMES''',
+   '''EVO_LEVEL_RECOIL_DAMAGE_MALE''',
+   '''EVO_LEVEL_RECOIL_DAMAGE_FEMALE''',
 ]
 
 [[List]]
