@@ -18,7 +18,6 @@ keys = [
     'catchrate',
     'padding',
     'expyield',
-    # 'evs',
     'itemcommon',
     'itemrare',
     'genderratio',
@@ -60,10 +59,7 @@ keys = [
     # 'evolutions',
     # 'formchangetable',
 ]
-def method(i):
-    exec_scope = {}
-    exec("method = 'method" + str(i) + "'", exec_scope)
-    return exec_scope['method']
+
 for mon in data.pokemon.info:
   speciesname = mon.speciesname
   if speciesname not in mons:
