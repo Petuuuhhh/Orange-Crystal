@@ -8,12 +8,13 @@ Select later Gen items
 - C injection
 No later Gen Abilities
 Gen 4-9 mons with Gen 3 Abilities
-- Showdown ripper
+- pokeemerald-expansion ripper
+- Haven
 Physical/Special/Status Split
 Exp All
 Soft level caps
 - pokeemerald port
-Badge level scaling (& evolutions) on select trainers and areas
+Badge mon/level scaling (& evolutions) on select trainers and areas
 Move relearner mods
 - 5 stages (competitive)
 More move tutors
