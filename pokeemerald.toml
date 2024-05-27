@@ -1,6 +1,6 @@
 [General]
 ApplicationVersion = '''0.5.6'''
-FreeSpaceSearch = '''000200'''
+FreeSpaceSearch = '''16FF200'''
 FreeSpaceBuffer = '''040'''
 NextExportID = '''0'''
 ShowRawIVByteForTrainer = False
@@ -8,20 +8,20 @@ ShowRawIVByteForTrainer = False
 #################################
 [[NamedAnchors]]
 Name = '''data.pokemon.type.info'''
-Address = 0x49771c
+Address = 0x49771C
 Format = '''[name""7 generic""17 palette. zmove: maxmove: padding:.]19'''
-DefaultHash = '''0E9784EA'''
+DefaultHash = '''E9AFCF51'''
 
 [[NamedAnchors]]
 Name = '''data.abilities.info'''
 Address = 0x653148
 Format = '''[name""17 padding:. description<""> aiRating. flags:.|t|copy.|swap.|trace.|suppress.|overwrite.|break.|imposter.]311'''
-DefaultHash = '''691941BB'''
+DefaultHash = '''8A7A6B06'''
 
 [[NamedAnchors]]
 Name = '''data.pokemon.stats'''
-Address = 0xb16524
-Format = '''[hp. attack. defense. speed. spatk. spdef. BST|=hp+attack+defense+speed+spatk+spdef type1.data.pokemon.type.info type2.data.pokemon.type.info catchrate. padding. expyield. evs::|t|hp:|atk:|defense:|spd:|spatk:|spdef: itemcommon:data.items.info itemrare:data.items.info genderratio.genderratiovalues eggcycles. friendship. growthrate.growthrates egggroup1.egggroups egggroup2.egggroups ability1:data.abilities.info ability2:data.abilities.info hiddenability:data.abilities.info categoryname""13 speciesname""11 cryid: natdexnum: height: weight: pokemonscale: pokemonoffset: trainerscale: traineroffset: description<""> graphics:|t|bodycolor:::.|noflip. frontanimdelay. frontanimid. backanimid. frontanimframes<> frontpic<> frontpicfemale<> backpic<> backpicfemale<> palette<> palettefemale<> shinypalette<> shinypalettefemale<> iconsprite<> iconspritefemale<> footprint<> frontpicsize. frontpicsizefemale. frontpicyoffset. backpicsize. backpicsizefemale. backpicyoffset. iconpal.|t|index:.|indexfemale:.|enemymonelevation. flags::|t|legendary.|mythical.|ultrabeast.|totem.|paradox.|megaevolution.|primalreversion.|ultraburst.|gigantamax.|alolan.|galarian.|hisuian.|palean. trade.|perfectivs.|dexforce.|tmilleterate. leveluplearnset<> teachablelearnset<> evolutions<> formspeciesidtable<> formchangetable<>]1525'''
+Address = 0xB16524
+Format = '''[hp. attack. defense. speed. spatk. spdef. BST|=hp+attack+defense+speed+spatk+spdef type1.data.pokemon.type.info type2.data.pokemon.type.info catchrate. padding. expyield. evs::|t|hp:|atk:|defense:|spd:|spatk:|spdef: itemcommon:data.items.info itemrare:data.items.info genderratio.genderratiovalues eggcycles. friendship. growthrate.growthrates egggroup1.egggroups egggroup2.egggroups ability1:data.abilities.info ability2:data.abilities.info hiddenability:data.abilities.info categoryname""13 speciesname""11 cryid: natdexnum: height: weight: pokemonscale: pokemonoffset: trainerscale: traineroffset: description<""> graphics:|t|bodycolor:::.|noflip. frontanimdelay. frontanimid. backanimid. frontanimframes<> frontpic<> frontpicfemale<> backpic<> backpicfemale<> palette<> palettefemale<> shinypalette<> shinypalettefemale<> iconsprite<> iconspritefemale<> footprint<> frontpicsize. frontpicsizefemale. frontpicyoffset. backpicsize. backpicsizefemale. backpicyoffset. iconpal.|t|index:.|indexfemale:.|enemymonelevation. flags::|t|legendary.|mythical.|ultrabeast.|totem.|paradox.|megaevolution.|primalreversion.|ultraburst.|gigantamax.|alolan.|galarian.|hisuian.|palean. trade.|perfectivs.|dexforce.|tmilleterate. leveluplearnset<> teachablelearnset<> evolutions<> formspeciesidtable<> formchangetable<>]data.pokemon.names'''
 DefaultHash = '''3DF8788F'''
 
 [[NamedAnchors]]
@@ -75,8 +75,8 @@ DefaultHash = '''0B1A0708'''
 [[NamedAnchors]]
 Name = '''data.items.info'''
 Address = 0x616D30
-Format = '''[price:: secondaryid: padding: itemusefunc<> description<""> effect<""> name""14 pluralname""16 holdeffect.holdeffects holdeffectparam. importance. pocket.pocketid type.|s=pocket(0=itemtype|1=itemtype|3=itemtype|4=itemtype|5=itemtype) battleusage:: flingpower.]828'''
-DefaultHash = '''96642A43'''
+Format = '''[price:: secondaryid: padding: itemusefunc<> description<""> effect<""> name""14 pluralname""16 holdeffect.holdeffects holdeffectparam. importance. pocket.pocketid type.|s=pocket(0=itemtype|1=itemtype|3=itemtype|4=itemtype|5=itemtype) battleusage:: flingpower.]data.items.names'''
+DefaultHash = '''CE341A53'''
 
 [[NamedAnchors]]
 Name = '''scripts.battle.badge.obey.flags'''
@@ -118,7 +118,7 @@ DefaultHash = '''F8F2B863'''
 Name = '''data.pokemon.moves.info'''
 Address = 0x64716C
 Format = '''[name<""> description<""> effect:moveeffectoptions flags1::|t|type::.data.pokemon.type.info|category:|power::::.|accuracy:::.|target::::.movetarget pp. zeffect. zpoweroverride. flags2::|t|priority::|recoil::.|strikecount::|criticalhitstage:|alwayscrit.|numadditionaleffects:|contact.|protect.|magiccoat.|snatch.|kingsrock.|punching.|biting.|pulse.|sound.|ballistic.|powder.|dance.|wind.|slicing. flags3:.|t|healing.|minimize.|ignoreability.|ignoreevasion.|underground.|underwater.|airborne.|airbornedoubledamage.|ignoreflyingungrounded.|thaws.|ignoresubstitute.|pressure.|cantusetwice. banflags::|t|gravity.|mirrormove.|mefirst.|mimic.|metronome.|copycat.|assist.|sleeptalk.|instruct.|encore.|parentalbond.|skybattle.|sketch. argument:: additionaleffects<> contesteffect. contestcategory. contestcombostarterid. contestcombomoves1.data.pokemon.moves.info contestcombomoves2.data.pokemon.moves.info contestcombomoves3.data.pokemon.moves.info contestcombomoves4.data.pokemon.moves.info contestcombomoves5.data.pokemon.moves.info]935'''
-DefaultHash = '''2136B223'''
+DefaultHash = '''C0F0B648'''
 
 [[NamedAnchors]]
 Name = '''data.pokemon.moves.details.fallback.names'''
@@ -149,6 +149,18 @@ Name = '''graphics.newgame.pokemon.selection.palette'''
 Address = 0x5B0D44
 Format = '''`ucp4:0123`'''
 DefaultHash = '''0A8C74DF'''
+
+[[NamedAnchors]]
+Name = '''data.items.names'''
+Address = 0x1F0417C
+Format = '''[name""14]828'''
+DefaultHash = '''76EC5DE5'''
+
+[[NamedAnchors]]
+Name = '''data.pokemon.names'''
+Address = 0x1F00000
+Format = '''[name""11]1524'''
+DefaultHash = '''747F95CC'''
 
 #################################
 #################################
@@ -2853,7 +2865,7 @@ DefaultHash = '''E74F20C6'''
    '''ChooseStarter''',
    '''StartWallyTutorialBattle''',
    '''ChangePokemonNickname''',
-   '''ChoosePartyMon''',# Selected index will be stored in var4. var4=1 for lead pokemon, var4=6 for last pokemon, var4=7 for cancel. Requires `waitstate` after.
+   '''ChoosePartyMon''',
    '''GetFirstFreePokeblockSlot''',
    '''DoBerryBlending''',
    '''PlayRoulette''',
@@ -3020,7 +3032,7 @@ DefaultHash = '''E74F20C6'''
    '''SetRoute119Weather''',
    '''SetRoute123Weather''',
    '''GetContestMultiplayerId''',
-   '''GetPartyMonSpecies''',# Read party index from var4, return species.
+   '''GetPartyMonSpecies''',
    '''IsSelectedMonEgg''',
    '''TryInitBattleTowerAwardManObjectEvent''',
    '''MoveOutOfSecretBaseFromOutside''',
