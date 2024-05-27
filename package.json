@@ -1,0 +1,16 @@
+{
+  "name": "orange-crystal",
+  "version": "1.0.0",
+  "description": "A hack of CFRU-less (vanilla) FireRed that aims to add the Orange Islands and Johto, along with a new plot and select Gen 4-9 features.",
+  "main": "pokemonizer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@pkmn/data": "^0.9.4",
+    "@pkmn/dex": "^0.9.4"
+  }
+}
