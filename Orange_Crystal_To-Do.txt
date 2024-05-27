@@ -1,0 +1,119 @@
+TMs expanded to 120
+- Figure out what TMs
+Select later Gen moves
+- Akame
+- C injection
+Select later Gen items
+- Akame
+- C injection
+No later Gen Abilities
+Gen 4-9 mons with Gen 3 Abilities
+- Showdown ripper
+Physical/Special/Status Split
+Exp All
+Soft level caps
+- pokeemerald port
+Badge level scaling (& evolutions) on select trainers and areas
+Move relearner mods
+- 5 stages (competitive)
+More move tutors
+- Figure out what tutor moves
+Tweaked level-up learnsets
+New areas
+- Demonheadge
+- Vytron
+Later Gen move updates
+
+---------------------------------------------
+---------------------------------------------
+
+TMs:
+
+Later Gen moves:
+U-Turn
+Stealth Rock
+Close Combat
+Roost
+Defog
+Earth Power
+Moonblast
+Volt Switch
+Body Press
+Draco Meteor
+Stone Edge
+Focus Blast
+Scald
+Dark Pulse
+Sucker Punch
+Flip Turn
+Iron Head
+Psyshock
+Nasty Plot
+Hurricane
+Flare Blitz
+Shadow Sneak
+Play Rough
+Ice Spinner
+Flash Cannon
+Bullet Punch
+Drain Punch
+Trick Room
+Aqua Jet
+Dazzling Gleam
+Liquidation
+Sticky Web
+Poltergeist
+Mystical Fire
+Sludge Wave
+Air Slash
+Triple Axel
+Stored Power
+Brave Bird
+Poison Jab
+Power Whip
+Quiver Dance
+Aura Sphere
+Energy Ball
+Gyro Ball
+Leaf Storm
+Scorching Sands
+Freeze-Dry
+Scale Shot
+Bug Buzz
+Toxic Spikes
+Foul Play
+Heavy Slam
+Shell Smash
+Ice Shard
+Dual Wingbeat
+Grassy Glide
+Zen Headbutt
+Grass Knot
+Power Gem
+Wild Charge
+
+Later Gen items:
+Heavy-Duty Boots
+Focus Sash
+Choice Scarf
+Life Orb
+Rocky Helmet
+Choice Specs
+Assault Vest
+Expert Belt
+
+Gen 4-9 mons:
+
+Level caps:
+
+Badge level scaling trainers:
+
+Badge level scaling areas:
+
+Move relearner mods:
+
+Move tutors:
+
+Level-up learnset changes:
+
+New areas:
