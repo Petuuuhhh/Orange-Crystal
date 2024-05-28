@@ -120,3 +120,12 @@ Move tutors:
 Level-up learnset changes:
 
 New areas:
+
+Quest types:
+KO certain wild Pokemon certain amount of times
+Catch certain amount of certain wild Pokemon
+Defeat gym leader and gather detailed species info on their team
+Visit certain map and catch certain amount of Pokemon in wild
+Visit certain map and defeat certain amount of trainers, gathering detailed species info on their teams
+Visit certain map and defeat certain amount of Pokemon in wild
+Obtain certain item by finding it on a wild Pokemon (25% chance, only found specifically on those quests)
