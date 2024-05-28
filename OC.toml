@@ -1,6 +1,6 @@
 [General]
 ApplicationVersion = '''0.5.6'''
-FreeSpaceSearch = '''234C80'''
+FreeSpaceSearch = '''EB8C40'''
 FreeSpaceBuffer = '''040'''
 NextExportID = '''0'''
 ShowRawIVByteForTrainer = False
@@ -8,7 +8,7 @@ ShowRawIVByteForTrainer = False
 #################################
 [[NamedAnchors]]
 Name = '''graphics.pokemon.sprites.footprint'''
-Address = 0x894F40
+Address = 0xCE4200
 Format = '''[footprint<`ucs1x2x2`>]data.pokemon.names'''
 DefaultHash = '''21D7E9E7'''
 
@@ -86,7 +86,7 @@ DefaultHash = '''B8699391'''
 
 [[NamedAnchors]]
 Name = '''graphics.pokemon.sprites.front'''
-Address = 0x72B6A0
+Address = 0xCE5C80
 Format = '''^[sprite<`lzs4x8x8`> uncompressedLength: index:]data.pokemon.names'''
 DefaultHash = '''F83847D4'''
 
@@ -254,13 +254,13 @@ DefaultHash = '''F0E91415'''
 
 [[NamedAnchors]]
 Name = '''data.pokemon.names'''
-Address = 0x71A328
-Format = '''[name""11]1640'''
+Address = 0xCDFA00
+Format = '''[name""11]1668'''
 DefaultHash = '''747F95CC'''
 
 [[NamedAnchors]]
 Name = '''graphics.pokemon.sprites.back'''
-Address = 0x72E9E0
+Address = 0xCE9100
 Format = '''[sprite<`lzs4x8x8`> uncompressedLength: index:]data.pokemon.names'''
 DefaultHash = '''8DF98E0A'''
 
@@ -290,7 +290,7 @@ DefaultHash = '''37B1CAEE'''
 
 [[NamedAnchors]]
 Name = '''graphics.pokemon.sprites.elevation'''
-Address = 0x73B6E0
+Address = 0xCEC580
 Format = '''[elevation.]data.pokemon.names'''
 DefaultHash = '''052A8530'''
 
@@ -302,7 +302,7 @@ DefaultHash = '''7FDD7071'''
 
 [[NamedAnchors]]
 Name = '''graphics.pokemon.sprites.coordinates.back'''
-Address = 0x7383A0
+Address = 0xCECC80
 Format = '''[size.|t|width::|height:: yOffset. render|render=graphics.battle.background.sprites/0/battlemap/|0|0|240|112|graphics.pokemon.sprites.back|40|48||yOffset unused:]data.pokemon.names'''
 DefaultHash = '''D4789932'''
 
@@ -314,7 +314,7 @@ DefaultHash = '''F6FAD69B'''
 
 [[NamedAnchors]]
 Name = '''graphics.pokemon.palettes.normal'''
-Address = 0x731D20
+Address = 0xCEE700
 Format = '''^[palette<`lzp4`> index: unused:]data.pokemon.names'''
 DefaultHash = '''60567F56'''
 
@@ -326,13 +326,13 @@ DefaultHash = '''765677D6'''
 
 [[NamedAnchors]]
 Name = '''graphics.pokemon.icons.sprites'''
-Address = 0x867D48
+Address = 0xCF1B80
 Format = '''[icon<`ucs4x4x8|graphics.pokemon.icons.index`>]data.pokemon.names'''
 DefaultHash = '''D2DEB9B6'''
 
 [[NamedAnchors]]
 Name = '''graphics.pokemon.icons.index'''
-Address = 0x8696E8
+Address = 0xCF3600
 Format = '''[index.graphics.pokemon.icons.palettes]data.pokemon.names'''
 DefaultHash = '''87C57C4B'''
 
@@ -608,7 +608,7 @@ DefaultHash = '''03CB9517'''
 
 [[NamedAnchors]]
 Name = '''data.pokemon.stats'''
-Address = 0x71E9A0
+Address = 0xCF3D00
 Format = '''[hp. attack. def. speed. spatk. spdef. baseStatTotal|=hp+attack+def+speed+spatk+spdef type1.data.pokemon.type.names type2.data.pokemon.type.names catchRate. baseExp. evs:|t|hp:|atk:|def:|spd:|spatk:|spdef: item1:data.items.stats item2:data.items.stats genderratio.genderratiovalues steps2hatch. basehappiness. growthrate.growthrates egg1.egggroups egg2.egggroups ability1.data.abilities.names ability2.data.abilities.names runrate. dex.|t|color:::.bodycolors|noFlip. padding:]data.pokemon.names'''
 DefaultHash = '''3DF8788F'''
 
@@ -620,8 +620,8 @@ DefaultHash = '''B4DDE1FD'''
 
 [[NamedAnchors]]
 Name = '''data.pokemon.moves.tutorcompatibility'''
-Address = 0x86EA38
-Format = ''''''
+Address = 0xEB0B40
+Format = '''[moves|b[]data.pokemon.moves.tutors]data.pokemon.names'''
 DefaultHash = '''CDD25BE9'''
 
 [[NamedAnchors]]
@@ -950,7 +950,7 @@ DefaultHash = '''D8EBB975'''
 
 [[NamedAnchors]]
 Name = '''data.pokedex.regional'''
-Address = 0x86AA24
+Address = 0xEB1880
 Format = '''[index:]data.pokemon.names-1'''
 DefaultHash = '''9A7B740C'''
 
@@ -980,7 +980,7 @@ DefaultHash = '''372DB1AA'''
 
 [[NamedAnchors]]
 Name = '''data.pokedex.search.type'''
-Address = 0x4448FE
+Address = 0xEB2600
 Format = '''[species:data.pokemon.names]data.pokedex.national'''
 DefaultHash = '''121F4AFC'''
 
@@ -3092,7 +3092,7 @@ DefaultHash = '''A5CA6020'''
 
 [[NamedAnchors]]
 Name = '''sound.pokemon.cry.growl'''
-Address = 0x8862D4
+Address = 0xEB3380
 Format = '''^[type.|h key. length. pan_sweep. p<> attack. decay. sustain. release.]data.pokemon.names-24'''
 DefaultHash = '''39732051'''
 
@@ -3104,7 +3104,7 @@ DefaultHash = '''39732051'''
 
 [[NamedAnchors]]
 Name = '''sound.pokemon.cry.hoennconversion'''
-Address = 0x88AE94
+Address = 0xEB8100
 Format = '''[index:]data.pokemon.names-277'''
 DefaultHash = '''B7663BC2'''
 
@@ -3230,7 +3230,7 @@ DefaultHash = '''7A0E7181'''
 
 [[NamedAnchors]]
 Name = '''data.pokemon.evolutions'''
-Address = 0x86F6D0
+Address = 0xEB8C40
 Format = '''[method1:evolutionmethods arg1:|s=method1(6=data.items.stats|7=data.items.stats) species1:data.pokemon.names unused1: method2:evolutionmethods arg2:|s=method2(6=data.items.stats|7=data.items.stats) species2:data.pokemon.names unused2: method3:evolutionmethods arg3:|s=method3(6=data.items.stats|7=data.items.stats) species3:data.pokemon.names unused3: method4:evolutionmethods arg4:|s=method4(6=data.items.stats|7=data.items.stats) species4:data.pokemon.names unused4: method5:evolutionmethods arg5:|s=method5(6=data.items.stats|7=data.items.stats) species5:data.pokemon.names unused5:]data.pokemon.names'''
 DefaultHash = '''6D76E2E4'''
 

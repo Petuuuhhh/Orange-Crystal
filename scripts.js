@@ -1545,9 +1545,9 @@ const movetutormoves = [
 	'explosion',
 	'rockslide',
 	'substitute',
-	'frenzyplant',
-    'blastburn',
-    'hydrocannon'
+	// 'frenzyplant',
+    // 'blastburn',
+    // 'hydrocannon'
 ]
 
 const tms = [
@@ -1612,6 +1612,8 @@ const tms = [
 ]
 var output = '';
 var output2 = '';
+var output3 = '';
+var output4 = '';
 for (const mon of mons) {
     var hpev = 0;
     var atkev = 0;
@@ -1642,6 +1644,18 @@ for (const mon of mons) {
     output += HMAJSON[mon].hp + ', ' + HMAJSON[mon].attack + ', ' + HMAJSON[mon].defense + ', ' + HMAJSON[mon].speed + ', ' + HMAJSON[mon].spatk + ', ' + HMAJSON[mon].spdef + ', ' + HMAJSON[mon].type1 + ', ' + HMAJSON[mon].type2 + ', ' + HMAJSON[mon].catchrate + ', ' + expyield + ', (' + hpev + ', ' + atkev + ', ' + defev + ', ' + speev + ', ' + spaev + ', ' + spdev + '), "' + itemcommon + '", "' + itemrare + '", "' + HMAJSON[mon].genderratio + '", ' + HMAJSON[mon].eggcycles + ', ' + friendship + ', "' + HMAJSON[mon].growthrate + '", "' + HMAJSON[mon].egggroup1 + '", "' + HMAJSON[mon].egggroup2 + '", "' + ability1 + '", "' + ability2 + '", ' + HMAJSON[mon].safarizonefleerate + ', (Red false), 0\n';
     if (HMAJSON[mon].iconpal) output2 += HMAJSON[mon].iconpal.index + ', ';
     else output2 += 0 + ', ';
+    for (const move of movetutormoves) {
+        const movename = gens.get(3).moves.get(move).name;
+        if (HMAJSON[mon].teachablelearnset && HMAJSON[mon].teachablelearnset.includes(movename)) output3 += '"' + movename.replace('Soft-Boiled', 'Softboiled') + '" ';
+    }
+    output3 += '/\n';
+    for (const move of tms) {
+        const movename = gens.get(3).moves.get(move).name;
+        if (HMAJSON[mon].teachablelearnset && HMAJSON[mon].teachablelearnset.includes(movename)) output4 += '"' + movename.replace('Solar Beam', 'Solarbeam') + '" ';
+    }
+    output4 += '/\n';
 }
 fs.writeFileSync('output.txt', output);
 fs.writeFileSync('output2.txt', output2);
+fs.writeFileSync('output3.txt', output3);
+fs.writeFileSync('output4.txt', output4);

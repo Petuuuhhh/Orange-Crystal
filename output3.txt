@@ -1,0 +1,1522 @@
+"Swords Dance" "Body Slam" "Double-Edge" /
+"Swords Dance" "Body Slam" "Double-Edge" /
+"Swords Dance" "Body Slam" "Double-Edge" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+/
+/
+"Double-Edge" "Dream Eater" /
+/
+/
+"Swords Dance" "Double-Edge" /
+"Double-Edge" /
+"Double-Edge" /
+"Double-Edge" /
+"Body Slam" "Double-Edge" "Counter" "Thunder Wave" /
+"Swords Dance" "Body Slam" "Double-Edge" "Counter" "Thunder Wave" /
+"Double-Edge" /
+"Double-Edge" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Thunder Wave" /
+"Swords Dance" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+"Swords Dance" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+"Body Slam" "Double-Edge" "Counter" /
+"Body Slam" "Double-Edge" "Counter" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+"Body Slam" "Double-Edge" "Counter" /
+"Body Slam" "Double-Edge" "Counter" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Softboiled" "Dream Eater" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Softboiled" "Dream Eater" "Thunder Wave" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" "Dream Eater" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Dream Eater" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Dream Eater" "Thunder Wave" /
+"Double-Edge" /
+"Double-Edge" /
+"Swords Dance" "Double-Edge" /
+"Swords Dance" "Double-Edge" /
+"Swords Dance" "Body Slam" "Double-Edge" /
+"Swords Dance" "Body Slam" "Double-Edge" "Counter" /
+"Swords Dance" "Body Slam" "Double-Edge" "Counter" /
+"Double-Edge" /
+"Double-Edge" "Dream Eater" /
+"Swords Dance" "Body Slam" "Double-Edge" "Rock Slide" /
+"Swords Dance" "Body Slam" "Double-Edge" "Rock Slide" /
+"Body Slam" "Double-Edge" "Dream Eater" "Thunder Wave" /
+"Body Slam" "Double-Edge" "Dream Eater" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Rock Slide" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Dream Eater" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Dream Eater" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Dream Eater" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Rock Slide" /
+"Swords Dance" "Double-Edge" /
+"Swords Dance" "Body Slam" "Double-Edge" /
+"Swords Dance" "Body Slam" "Double-Edge" /
+"Swords Dance" "Double-Edge" /
+"Swords Dance" "Double-Edge" /
+"Mega Punch" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Explosion" "Rock Slide" /
+"Mega Punch" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Explosion" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Explosion" "Rock Slide" /
+"Body Slam" "Double-Edge" /
+"Swords Dance" "Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" "Dream Eater" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Dream Eater" "Thunder Wave" /
+"Double-Edge" "Thunder Wave" "Explosion" /
+"Double-Edge" "Thunder Wave" "Explosion" /
+"Swords Dance" "Body Slam" "Double-Edge" /
+"Swords Dance" "Body Slam" "Double-Edge" /
+"Swords Dance" "Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Metronome" "Explosion" "Rock Slide" /
+"Body Slam" "Metronome" "Explosion" "Rock Slide" /
+"Double-Edge" "Explosion" /
+"Body Slam" "Double-Edge" "Explosion" /
+"Dream Eater" "Explosion" /
+"Metronome" "Dream Eater" "Explosion" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Dream Eater" "Thunder Wave" "Explosion" /
+"Body Slam" "Double-Edge" "Explosion" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Dream Eater" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Dream Eater" "Thunder Wave" /
+"Swords Dance" "Body Slam" "Double-Edge" "Rock Slide" /
+"Swords Dance" "Body Slam" "Double-Edge" "Rock Slide" /
+"Double-Edge" "Thunder Wave" "Explosion" /
+"Double-Edge" "Thunder Wave" "Explosion" /
+"Swords Dance" "Double-Edge" "Dream Eater" "Explosion" /
+"Swords Dance" "Body Slam" "Double-Edge" "Dream Eater" "Explosion" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Dream Eater" "Rock Slide" /
+"Body Slam" "Explosion" /
+"Body Slam" "Explosion" /
+"Swords Dance" "Body Slam" "Double-Edge" "Counter" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Softboiled" "Dream Eater" "Thunder Wave" "Rock Slide" /
+"Swords Dance" "Body Slam" "Double-Edge" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+"Double-Edge" /
+"Double-Edge" /
+"Swords Dance" "Body Slam" "Double-Edge" /
+"Swords Dance" "Body Slam" "Double-Edge" /
+"Double-Edge" "Thunder Wave" /
+"Double-Edge" "Dream Eater" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Dream Eater" "Thunder Wave" /
+"Swords Dance" "Double-Edge" "Counter" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Dream Eater" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" /
+"Swords Dance" "Body Slam" "Double-Edge" "Seismic Toss" "Rock Slide" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+/
+"Body Slam" "Double-Edge" "Thunder Wave" /
+"Body Slam" "Double-Edge" "Dream Eater" /
+/
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" "Thunder Wave" /
+"Body Slam" "Double-Edge" /
+"Double-Edge" "Dream Eater" "Thunder Wave" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Body Slam" "Double-Edge" "Seismic Toss" "Rock Slide" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Seismic Toss" "Rock Slide" /
+"Double-Edge" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Rock Slide" /
+"Double-Edge" /
+"Double-Edge" "Thunder Wave" /
+"Double-Edge" /
+"Body Slam" "Double-Edge" "Thunder Wave" /
+"Body Slam" "Double-Edge" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Metronome" "Thunder Wave" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Dream Eater" "Thunder Wave" "Rock Slide" /
+/
+"Swords Dance" "Body Slam" "Double-Edge" "Counter" /
+"Swords Dance" "Body Slam" "Double-Edge" "Counter" /
+"Swords Dance" "Body Slam" "Double-Edge" "Counter" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" /
+"Double-Edge" "Dream Eater" /
+"Body Slam" "Double-Edge" "Dream Eater" /
+"Mega Punch" "Swords Dance" "Double-Edge" "Counter" /
+"Mega Punch" "Swords Dance" "Double-Edge" "Counter" /
+"Body Slam" "Double-Edge" /
+"Swords Dance" "Body Slam" "Double-Edge" /
+"Double-Edge" /
+"Double-Edge" "Thunder Wave" /
+"Double-Edge" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Softboiled" "Dream Eater" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Dream Eater" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Softboiled" "Dream Eater" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Softboiled" "Dream Eater" "Thunder Wave" /
+"Double-Edge" "Dream Eater" "Thunder Wave" /
+"Double-Edge" "Dream Eater" "Thunder Wave" /
+"Body Slam" "Double-Edge" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Thunder Wave" /
+"Swords Dance" "Double-Edge" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Seismic Toss" "Metronome" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Seismic Toss" "Metronome" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Explosion" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" /
+"Swords Dance" "Double-Edge" /
+"Swords Dance" "Double-Edge" /
+"Swords Dance" "Double-Edge" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Dream Eater" "Thunder Wave" /
+"Swords Dance" "Double-Edge" /
+"Swords Dance" "Double-Edge" /
+"Swords Dance" "Double-Edge" "Dream Eater" /
+"Body Slam" "Double-Edge" "Counter" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+"Body Slam" "Double-Edge" "Dream Eater" "Thunder Wave" /
+"Body Slam" "Double-Edge" "Dream Eater" "Thunder Wave" /
+"Double-Edge" "Dream Eater" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Dream Eater" "Thunder Wave" "Rock Slide" /
+"Double-Edge" "Dream Eater" "Thunder Wave" /
+/
+"Counter" /
+"Body Slam" "Double-Edge" "Dream Eater" "Thunder Wave" /
+"Body Slam" "Double-Edge" "Counter" "Explosion" "Rock Slide" /
+"Body Slam" "Double-Edge" "Counter" "Thunder Wave" "Explosion" "Rock Slide" /
+"Body Slam" "Double-Edge" "Counter" "Dream Eater" "Thunder Wave" "Rock Slide" /
+"Swords Dance" "Double-Edge" "Counter" "Dream Eater" "Rock Slide" /
+"Body Slam" "Double-Edge" "Explosion" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Thunder Wave" "Rock Slide" /
+"Swords Dance" "Double-Edge" "Thunder Wave" "Explosion" /
+"Swords Dance" "Double-Edge" "Counter" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Swords Dance" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Double-Edge" "Counter" "Dream Eater" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Rock Slide" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Body Slam" "Double-Edge" "Explosion" "Rock Slide" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Body Slam" "Double-Edge" "Explosion" "Rock Slide" /
+"Double-Edge" "Thunder Wave" /
+"Double-Edge" "Seismic Toss" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Swords Dance" "Double-Edge" "Counter" "Rock Slide" /
+"Body Slam" "Double-Edge" "Counter" "Dream Eater" /
+"Body Slam" "Double-Edge" "Counter" "Dream Eater" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" "Counter" "Rock Slide" /
+"Body Slam" "Double-Edge" "Counter" "Rock Slide" /
+"Double-Edge" "Dream Eater" "Thunder Wave" /
+"Body Slam" "Double-Edge" "Dream Eater" "Thunder Wave" /
+/
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Dream Eater" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Thunder Wave" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Softboiled" "Dream Eater" "Thunder Wave" "Rock Slide" /
+"Body Slam" "Double-Edge" "Thunder Wave" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Thunder Wave" "Rock Slide" /
+"Body Slam" "Double-Edge" "Dream Eater" "Thunder Wave" /
+"Body Slam" "Double-Edge" "Dream Eater" "Thunder Wave" /
+"Swords Dance" "Double-Edge" "Metronome" "Dream Eater" "Thunder Wave" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+"Body Slam" "Double-Edge" "Counter" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+"Body Slam" "Double-Edge" "Counter" /
+"Body Slam" "Double-Edge" "Counter" /
+"Body Slam" "Double-Edge" "Thunder Wave" /
+"Body Slam" "Double-Edge" "Thunder Wave" /
+/
+/
+"Double-Edge" /
+/
+"Double-Edge" /
+"Swords Dance" "Body Slam" "Double-Edge" "Counter" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Metronome" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" /
+"Swords Dance" "Body Slam" "Double-Edge" "Explosion" /
+"Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Explosion" "Rock Slide" /
+"Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Explosion" "Rock Slide" /
+"Double-Edge" "Counter" /
+"Double-Edge" "Counter" /
+"Double-Edge" /
+"Body Slam" "Double-Edge" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Metronome" "Dream Eater" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Metronome" "Dream Eater" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Metronome" "Dream Eater" "Thunder Wave" /
+"Double-Edge" /
+"Double-Edge" /
+"Swords Dance" "Body Slam" "Double-Edge" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Thunder Wave" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Thunder Wave" "Rock Slide" /
+"Double-Edge" /
+"Swords Dance" "Double-Edge" /
+"Double-Edge" "Dream Eater" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Rock Slide" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" "Thunder Wave" "Explosion" "Rock Slide" /
+"Body Slam" "Double-Edge" "Dream Eater" "Thunder Wave" /
+"Body Slam" "Double-Edge" "Dream Eater" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Dream Eater" "Thunder Wave" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Thunder Wave" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Dream Eater" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Dream Eater" "Rock Slide" /
+"Body Slam" "Double-Edge" "Thunder Wave" /
+"Body Slam" "Double-Edge" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Thunder Wave" /
+"Swords Dance" "Body Slam" "Double-Edge" /
+"Swords Dance" "Body Slam" "Double-Edge" "Counter" "Dream Eater" "Thunder Wave" "Explosion" /
+"Swords Dance" "Body Slam" "Double-Edge" "Counter" "Metronome" "Dream Eater" "Thunder Wave" "Explosion" /
+"Double-Edge" /
+"Double-Edge" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Body Slam" "Double-Edge" "Explosion" "Rock Slide" /
+"Body Slam" "Double-Edge" "Explosion" "Rock Slide" /
+"Body Slam" "Double-Edge" "Dream Eater" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Dream Eater" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Dream Eater" "Rock Slide" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" /
+"Body Slam" "Double-Edge" "Dream Eater" /
+"Body Slam" "Double-Edge" "Dream Eater" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Thunder Wave" "Rock Slide" /
+"Swords Dance" "Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" "Dream Eater" "Explosion" "Rock Slide" /
+"Swords Dance" "Body Slam" "Double-Edge" "Dream Eater" "Explosion" "Rock Slide" /
+"Double-Edge" "Rock Slide" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Swords Dance" "Body Slam" "Double-Edge" "Counter" "Rock Slide" /
+"Swords Dance" "Body Slam" "Double-Edge" "Counter" "Rock Slide" /
+"Double-Edge" "Dream Eater" "Explosion" "Rock Slide" /
+"Double-Edge" "Dream Eater" "Explosion" "Rock Slide" /
+"Swords Dance" "Body Slam" "Double-Edge" "Rock Slide" /
+"Swords Dance" "Body Slam" "Double-Edge" "Rock Slide" /
+"Swords Dance" "Body Slam" "Double-Edge" "Rock Slide" /
+"Swords Dance" "Body Slam" "Double-Edge" "Seismic Toss" "Rock Slide" /
+"Double-Edge" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Thunder Wave" "Rock Slide" /
+"Body Slam" "Double-Edge" "Metronome" "Dream Eater" "Thunder Wave" /
+"Swords Dance" "Body Slam" "Double-Edge" "Metronome" "Dream Eater" "Thunder Wave" /
+"Body Slam" "Double-Edge" "Dream Eater" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Dream Eater" "Rock Slide" /
+"Swords Dance" "Body Slam" "Double-Edge" /
+"Double-Edge" "Dream Eater" "Thunder Wave" /
+"Swords Dance" "Body Slam" "Double-Edge" "Counter" "Dream Eater" "Thunder Wave" "Rock Slide" /
+"Counter" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" "Explosion" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Swords Dance" "Body Slam" "Double-Edge" "Rock Slide" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Double-Edge" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+/
+"Body Slam" "Double-Edge" "Explosion" "Rock Slide" /
+"Body Slam" "Double-Edge" "Explosion" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Thunder Wave" "Explosion" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Thunder Wave" "Explosion" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Thunder Wave" "Explosion" "Rock Slide" /
+"Body Slam" "Double-Edge" "Dream Eater" "Thunder Wave" /
+"Body Slam" "Double-Edge" "Dream Eater" "Thunder Wave" /
+"Body Slam" "Double-Edge" "Thunder Wave" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Thunder Wave" "Rock Slide" /
+"Swords Dance" "Body Slam" "Double-Edge" "Thunder Wave" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Metronome" "Dream Eater" "Thunder Wave" /
+"Body Slam" "Double-Edge" "Seismic Toss" "Dream Eater" "Thunder Wave" "Rock Slide" /
+"Swords Dance" "Body Slam" "Double-Edge" /
+"Swords Dance" "Body Slam" "Double-Edge" /
+"Swords Dance" "Body Slam" "Double-Edge" "Rock Slide" /
+"Swords Dance" "Double-Edge" "Counter" "Metronome" "Rock Slide" /
+"Swords Dance" "Double-Edge" "Counter" "Metronome" "Rock Slide" /
+"Swords Dance" "Body Slam" "Double-Edge" "Counter" "Metronome" "Rock Slide" /
+"Double-Edge" /
+"Double-Edge" /
+"Swords Dance" "Body Slam" "Double-Edge" "Rock Slide" /
+"Double-Edge" /
+"Double-Edge" /
+"Double-Edge" /
+"Swords Dance" "Double-Edge" "Thunder Wave" /
+"Swords Dance" "Double-Edge" "Thunder Wave" /
+/
+"Swords Dance" /
+"Double-Edge" "Thunder Wave" /
+"Double-Edge" "Thunder Wave" /
+"Body Slam" "Double-Edge" "Thunder Wave" /
+"Swords Dance" /
+"Swords Dance" "Body Slam" /
+"Swords Dance" "Body Slam" "Double-Edge" "Rock Slide" /
+"Swords Dance" "Body Slam" "Double-Edge" "Rock Slide" /
+"Body Slam" "Double-Edge" "Counter" "Rock Slide" /
+"Body Slam" "Double-Edge" "Counter" "Rock Slide" /
+/
+"Dream Eater" /
+"Dream Eater" /
+/
+/
+"Thunder Wave" /
+/
+"Body Slam" "Double-Edge" "Metronome" /
+"Swords Dance" "Double-Edge" /
+"Swords Dance" "Double-Edge" /
+"Body Slam" "Counter" "Rock Slide" /
+"Body Slam" "Counter" "Rock Slide" /
+"Double-Edge" "Counter" "Metronome" "Dream Eater" "Thunder Wave" /
+"Body Slam" "Dream Eater" "Thunder Wave" "Explosion" /
+"Body Slam" "Dream Eater" "Thunder Wave" "Explosion" /
+"Mega Punch" "Mega Kick" "Double-Edge" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Double-Edge" "Thunder Wave" /
+"Dream Eater" "Thunder Wave" /
+"Double-Edge" "Dream Eater" "Thunder Wave" /
+"Double-Edge" "Dream Eater" /
+"Body Slam" "Double-Edge" "Dream Eater" /
+"Double-Edge" "Dream Eater" "Thunder Wave" /
+"Body Slam" "Double-Edge" "Explosion" /
+"Body Slam" "Double-Edge" "Explosion" /
+"Body Slam" "Dream Eater" "Rock Slide" /
+"Body Slam" "Dream Eater" "Explosion" "Rock Slide" /
+"Body Slam" "Double-Edge" "Counter" "Explosion" "Rock Slide" /
+"Dream Eater" "Thunder Wave" /
+"Double-Edge" "Counter" "Seismic Toss" "Metronome" "Softboiled" "Dream Eater" "Thunder Wave" /
+/
+"Body Slam" "Dream Eater" /
+"Swords Dance" "Body Slam" "Double-Edge" "Rock Slide" /
+"Swords Dance" "Body Slam" "Double-Edge" "Rock Slide" /
+"Swords Dance" "Body Slam" "Double-Edge" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Metronome" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Counter" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Counter" "Metronome" "Rock Slide" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Swords Dance" /
+"Swords Dance" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Counter" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Counter" "Rock Slide" /
+"Swords Dance" /
+/
+/
+"Double-Edge" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Body Slam" "Double-Edge" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Counter" "Metronome" "Dream Eater" /
+"Body Slam" "Double-Edge" "Thunder Wave" "Explosion" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Dream Eater" "Explosion" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Rock Slide" /
+"Swords Dance" "Body Slam" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Metronome" "Thunder Wave" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Metronome" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Metronome" "Dream Eater" "Thunder Wave" /
+"Swords Dance" "Double-Edge" "Dream Eater" /
+"Swords Dance" "Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" /
+"Swords Dance" "Double-Edge" "Counter" "Rock Slide" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Double-Edge" "Dream Eater" "Thunder Wave" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Metronome" "Dream Eater" "Thunder Wave" "Rock Slide" /
+"Body Slam" "Double-Edge" "Thunder Wave" "Explosion" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Metronome" "Dream Eater" "Rock Slide" /
+"Body Slam" "Dream Eater" "Thunder Wave" /
+"Dream Eater" "Thunder Wave" /
+"Metronome" "Dream Eater" "Thunder Wave" /
+"Double-Edge" "Metronome" "Dream Eater" "Thunder Wave" /
+"Double-Edge" "Metronome" "Dream Eater" "Thunder Wave" "Explosion" /
+"Body Slam" "Thunder Wave" "Rock Slide" /
+"Body Slam" "Thunder Wave" "Rock Slide" /
+"Body Slam" "Explosion" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Thunder Wave" "Rock Slide" /
+"Body Slam" "Dream Eater" "Thunder Wave" /
+"Body Slam" "Dream Eater" "Thunder Wave" /
+/
+/
+"Swords Dance" "Dream Eater" "Thunder Wave" "Rock Slide" /
+"Swords Dance" "Double-Edge" /
+"Swords Dance" "Body Slam" "Double-Edge" "Seismic Toss" "Dream Eater" "Thunder Wave" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Double-Edge" "Thunder Wave" /
+"Swords Dance" "Double-Edge" /
+"Swords Dance" "Double-Edge" /
+"Swords Dance" "Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Swords Dance" /
+"Swords Dance" /
+"Swords Dance" "Body Slam" /
+"Swords Dance" /
+"Swords Dance" "Dream Eater" "Thunder Wave" /
+"Thunder Wave" /
+"Thunder Wave" /
+"Thunder Wave" /
+"Dream Eater" "Thunder Wave" /
+"Dream Eater" "Thunder Wave" /
+/
+"Rock Slide" /
+/
+"Rock Slide" /
+/
+"Rock Slide" /
+"Dream Eater" "Thunder Wave" "Rock Slide" /
+"Dream Eater" "Thunder Wave" "Rock Slide" /
+/
+/
+/
+"Body Slam" "Double-Edge" "Thunder Wave" /
+"Body Slam" "Double-Edge" "Thunder Wave" /
+"Explosion" "Rock Slide" /
+"Explosion" "Rock Slide" /
+"Explosion" "Rock Slide" /
+"Dream Eater" "Thunder Wave" /
+"Dream Eater" "Thunder Wave" /
+"Swords Dance" "Double-Edge" "Rock Slide" /
+"Swords Dance" "Body Slam" "Double-Edge" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Dream Eater" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Double-Edge" "Counter" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Double-Edge" "Counter" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Rock Slide" /
+/
+/
+"Mega Punch" "Mega Kick" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Seismic Toss" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Counter" "Rock Slide" /
+"Dream Eater" /
+"Dream Eater" /
+"Swords Dance" "Dream Eater" /
+"Double-Edge" /
+"Double-Edge" /
+"Swords Dance" "Double-Edge" "Rock Slide" /
+"Dream Eater" /
+"Dream Eater" /
+"Dream Eater" /
+"Swords Dance" "Dream Eater" /
+"Double-Edge" /
+"Body Slam" "Double-Edge" "Counter" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Rock Slide" /
+/
+"Swords Dance" "Counter" "Rock Slide" /
+"Swords Dance" "Counter" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Double-Edge" "Counter" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Metronome" "Rock Slide" /
+"Dream Eater" "Thunder Wave" /
+"Dream Eater" /
+"Dream Eater" /
+"Body Slam" "Rock Slide" /
+"Body Slam" "Rock Slide" /
+"Rock Slide" /
+"Rock Slide" /
+"Explosion" /
+"Body Slam" "Explosion" /
+"Swords Dance" "Counter" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Counter" /
+"Thunder Wave" /
+"Double-Edge" "Thunder Wave" /
+"Dream Eater" "Thunder Wave" "Rock Slide" /
+"Metronome" "Dream Eater" "Thunder Wave" "Rock Slide" /
+"Body Slam" "Metronome" "Dream Eater" "Thunder Wave" "Rock Slide" /
+"Dream Eater" "Thunder Wave" "Explosion" "Rock Slide" /
+"Dream Eater" "Thunder Wave" "Explosion" "Rock Slide" /
+"Mega Punch" "Body Slam" "Dream Eater" "Thunder Wave" "Explosion" "Rock Slide" /
+"Double-Edge" /
+"Double-Edge" /
+"Explosion" /
+"Explosion" /
+"Explosion" /
+"Body Slam" "Double-Edge" "Thunder Wave" /
+"Swords Dance" "Body Slam" "Double-Edge" "Thunder Wave" /
+"Thunder Wave" /
+"Swords Dance" "Double-Edge" "Counter" /
+"Swords Dance" "Double-Edge" "Counter" /
+"Body Slam" /
+"Body Slam" /
+"Dream Eater" /
+"Dream Eater" /
+"Body Slam" /
+"Thunder Wave" /
+"Thunder Wave" /
+"Thunder Wave" "Explosion" /
+"Swords Dance" "Thunder Wave" "Explosion" /
+"Thunder Wave" /
+"Thunder Wave" /
+"Thunder Wave" /
+"Thunder Wave" /
+"Body Slam" "Thunder Wave" /
+"Body Slam" "Thunder Wave" "Rock Slide" /
+"Dream Eater" "Thunder Wave" "Rock Slide" /
+"Dream Eater" "Thunder Wave" "Rock Slide" /
+"Dream Eater" /
+"Dream Eater" /
+"Dream Eater" /
+"Swords Dance" "Double-Edge" "Counter" /
+"Swords Dance" "Double-Edge" "Counter" /
+"Swords Dance" "Body Slam" "Double-Edge" "Counter" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Rock Slide" /
+"Body Slam" "Explosion" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" /
+"Thunder Wave" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Double-Edge" "Rock Slide" /
+"Mega Punch" "Body Slam" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Rock Slide" /
+"Swords Dance" "Thunder Wave" /
+"Swords Dance" "Thunder Wave" /
+"Swords Dance" "Body Slam" "Rock Slide" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Double-Edge" /
+"Double-Edge" /
+"Body Slam" /
+"Thunder Wave" "Rock Slide" /
+"Body Slam" "Thunder Wave" /
+"Body Slam" "Thunder Wave" /
+"Body Slam" "Thunder Wave" "Rock Slide" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" /
+"Swords Dance" "Body Slam" "Double-Edge" "Thunder Wave" /
+"Swords Dance" "Body Slam" "Double-Edge" "Rock Slide" /
+"Swords Dance" "Body Slam" "Double-Edge" /
+"Body Slam" "Metronome" /
+"Body Slam" "Thunder Wave" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Body Slam" "Double-Edge" "Thunder Wave" "Rock Slide" /
+"Swords Dance" "Body Slam" "Explosion" "Rock Slide" /
+"Body Slam" "Rock Slide" /
+"Swords Dance" "Double-Edge" /
+"Swords Dance" "Metronome" "Dream Eater" "Thunder Wave" /
+"Thunder Wave" "Explosion" /
+"Swords Dance" "Body Slam" "Rock Slide" /
+"Swords Dance" "Body Slam" "Rock Slide" /
+"Swords Dance" "Body Slam" "Double-Edge" "Rock Slide" /
+"Dream Eater" /
+"Dream Eater" /
+"Metronome" "Dream Eater" /
+"Counter" "Rock Slide" /
+"Swords Dance" "Counter" "Rock Slide" /
+"Swords Dance" "Counter" "Rock Slide" /
+"Swords Dance" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Rock Slide" /
+"Swords Dance" "Double-Edge" /
+"Swords Dance" "Double-Edge" /
+"Swords Dance" "Double-Edge" /
+/
+/
+"Dream Eater" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" /
+/
+"Metronome" /
+"Metronome" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Seismic Toss" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Seismic Toss" "Rock Slide" /
+"Thunder Wave" /
+"Dream Eater" "Thunder Wave" /
+"Dream Eater" "Thunder Wave" /
+"Swords Dance" "Rock Slide" /
+"Swords Dance" "Rock Slide" /
+"Swords Dance" "Rock Slide" /
+"Dream Eater" /
+"Metronome" "Dream Eater" /
+"Dream Eater" /
+"Metronome" "Dream Eater" /
+"Rock Slide" /
+"Rock Slide" /
+"Swords Dance" "Rock Slide" /
+"Swords Dance" "Rock Slide" /
+/
+/
+"Swords Dance" "Rock Slide" /
+"Swords Dance" "Body Slam" "Rock Slide" /
+"Thunder Wave" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Thunder Wave" "Rock Slide" /
+"Body Slam" "Rock Slide" /
+"Body Slam" "Rock Slide" /
+"Body Slam" "Dream Eater" "Thunder Wave" "Rock Slide" /
+"Body Slam" "Dream Eater" "Thunder Wave" "Rock Slide" /
+"Body Slam" "Double-Edge" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Rock Slide" /
+"Thunder Wave" /
+"Body Slam" "Double-Edge" "Explosion" "Rock Slide" /
+"Body Slam" "Counter" "Rock Slide" /
+"Body Slam" "Counter" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Counter" "Rock Slide" /
+"Thunder Wave" /
+"Dream Eater" "Rock Slide" /
+"Dream Eater" "Rock Slide" /
+"Dream Eater" "Explosion" "Rock Slide" /
+"Dream Eater" "Explosion" "Rock Slide" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Dream Eater" /
+"Body Slam" "Double-Edge" "Dream Eater" /
+"Body Slam" "Thunder Wave" "Rock Slide" /
+"Body Slam" "Dream Eater" "Rock Slide" /
+"Body Slam" "Rock Slide" /
+"Body Slam" "Metronome" "Explosion" "Rock Slide" /
+"Dream Eater" "Thunder Wave" /
+"Body Slam" "Double-Edge" "Explosion" "Rock Slide" /
+"Swords Dance" /
+"Swords Dance" /
+"Swords Dance" /
+"Swords Dance" "Body Slam" "Double-Edge" /
+"Swords Dance" "Body Slam" "Double-Edge" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" /
+/
+"Body Slam" /
+"Body Slam" /
+"Swords Dance" /
+"Swords Dance" /
+"Swords Dance" /
+"Double-Edge" /
+"Body Slam" "Double-Edge" /
+"Thunder Wave" /
+"Thunder Wave" /
+"Thunder Wave" /
+"Body Slam" "Rock Slide" /
+"Body Slam" "Rock Slide" /
+"Swords Dance" /
+"Dream Eater" /
+"Dream Eater" /
+"Swords Dance" "Body Slam" "Double-Edge" "Rock Slide" /
+"Swords Dance" "Body Slam" "Double-Edge" "Rock Slide" /
+"Double-Edge" /
+/
+"Body Slam" /
+"Mega Kick" "Body Slam" "Double-Edge" "Counter" "Rock Slide" /
+"Mega Kick" "Body Slam" "Double-Edge" "Counter" "Rock Slide" /
+/
+"Body Slam" /
+"Swords Dance" /
+"Swords Dance" /
+"Dream Eater" "Thunder Wave" /
+"Dream Eater" "Thunder Wave" /
+"Thunder Wave" /
+"Body Slam" "Thunder Wave" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Double-Edge" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Rock Slide" /
+/
+/
+"Mega Kick" /
+/
+"Mega Punch" "Mega Kick" "Body Slam" "Dream Eater" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Rock Slide" /
+/
+"Swords Dance" "Rock Slide" /
+"Rock Slide" /
+"Body Slam" "Rock Slide" /
+"Counter" /
+"Swords Dance" "Double-Edge" "Thunder Wave" "Rock Slide" /
+"Swords Dance" "Double-Edge" "Thunder Wave" "Explosion" "Rock Slide" /
+"Double-Edge" "Explosion" "Rock Slide" /
+"Swords Dance" "Body Slam" "Double-Edge" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Explosion" /
+"Thunder Wave" /
+"Swords Dance" "Dream Eater" "Thunder Wave" /
+"Swords Dance" "Dream Eater" /
+"Thunder Wave" "Rock Slide" /
+"Swords Dance" "Rock Slide" /
+"Swords Dance" "Body Slam" "Counter" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Rock Slide" /
+"Thunder Wave" /
+/
+"Mega Punch" "Swords Dance" "Rock Slide" /
+/
+/
+/
+"Body Slam" "Double-Edge" "Thunder Wave" "Rock Slide" /
+"Dream Eater" "Thunder Wave" /
+"Body Slam" "Thunder Wave" "Rock Slide" /
+"Mega Punch" "Body Slam" "Counter" "Rock Slide" /
+/
+"Thunder Wave" /
+"Body Slam" "Double-Edge" "Explosion" "Rock Slide" /
+"Swords Dance" /
+"Mega Punch" "Mega Kick" "Body Slam" "Rock Slide" /
+"Swords Dance" "Body Slam" "Thunder Wave" "Rock Slide" /
+"Body Slam" "Thunder Wave" "Explosion" /
+"Mega Punch" "Mega Kick" "Counter" "Rock Slide" /
+/
+/
+"Mega Kick" "Body Slam" "Double-Edge" "Rock Slide" /
+"Explosion" /
+"Mega Punch" "Mega Kick" "Thunder Wave" /
+"Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Thunder Wave" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" /
+"Mega Kick" "Double-Edge" "Counter" /
+"Swords Dance" "Mega Kick" "Double-Edge" "Counter" /
+"Swords Dance" "Mega Kick" "Double-Edge" "Counter" /
+/
+/
+"Swords Dance" "Metronome" /
+"Body Slam" "Double-Edge" "Counter" /
+"Swords Dance" "Body Slam" "Double-Edge" "Counter" /
+/
+/
+"Body Slam" "Double-Edge" /
+/
+/
+/
+/
+/
+/
+/
+"Double-Edge" "Counter" "Thunder Wave" /
+"Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Thunder Wave" /
+"Body Slam" "Counter" /
+"Swords Dance" "Body Slam" "Double-Edge" "Counter" "Rock Slide" /
+"Double-Edge" "Thunder Wave" /
+"Double-Edge" "Thunder Wave" /
+"Body Slam" "Explosion" "Rock Slide" /
+"Body Slam" "Explosion" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Explosion" "Rock Slide" /
+/
+/
+"Body Slam" /
+"Body Slam" "Rock Slide" /
+"Body Slam" "Rock Slide" /
+/
+"Double-Edge" /
+"Double-Edge" /
+/
+"Mega Punch" "Mega Kick" "Metronome" "Thunder Wave" /
+/
+/
+"Mega Punch" "Body Slam" "Seismic Toss" /
+"Mega Punch" "Body Slam" "Seismic Toss" /
+"Metronome" /
+"Metronome" /
+"Metronome" "Thunder Wave" /
+"Metronome" "Thunder Wave" /
+"Swords Dance" "Metronome" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Metronome" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Metronome" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Metronome" "Thunder Wave" /
+"Mega Punch" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Thunder Wave" /
+"Swords Dance" "Body Slam" "Double-Edge" "Metronome" /
+"Body Slam" "Rock Slide" /
+"Swords Dance" "Body Slam" "Double-Edge" "Counter" /
+"Mega Punch" "Mega Kick" "Body Slam" "Metronome" "Thunder Wave" /
+"Rock Slide" /
+/
+"Metronome" /
+"Swords Dance" "Body Slam" "Counter" "Rock Slide" /
+"Body Slam" "Thunder Wave" /
+/
+/
+"Mega Kick" "Body Slam" "Rock Slide" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Metronome" /
+"Double-Edge" "Thunder Wave" /
+"Mega Kick" "Body Slam" "Double-Edge" "Rock Slide" /
+"Mega Kick" "Body Slam" "Double-Edge" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Thunder Wave" "Rock Slide" /
+"Mega Punch" "Mega Kick" "Body Slam" "Thunder Wave" "Rock Slide" /
+"Mega Kick" "Body Slam" "Rock Slide" /
+"Body Slam" "Rock Slide" /
+"Swords Dance" "Body Slam" "Double-Edge" "Thunder Wave" "Rock Slide" /
+"Thunder Wave" /
+"Double-Edge" "Thunder Wave" /
+"Body Slam" "Double-Edge" "Thunder Wave" /
+"Swords Dance" "Body Slam" /
+"Body Slam" /
+"Body Slam" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Counter" "Rock Slide" /
+"Mega Punch" "Swords Dance" "Mega Kick" "Body Slam" "Double-Edge" "Rock Slide" /
+"Body Slam" "Thunder Wave" "Explosion" /
+"Body Slam" "Explosion" /
+"Swords Dance" "Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" /
+"Metronome" /
+"Body Slam" "Double-Edge" "Thunder Wave" /
+"Swords Dance" "Double-Edge" "Counter" "Rock Slide" /
+"Swords Dance" "Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Rock Slide" /
+"Double-Edge" /
+"Swords Dance" "Counter" "Rock Slide" /
+"Swords Dance" "Double-Edge" /
+"Body Slam" /
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+"Body Slam" /
+"Body Slam" /
+"Body Slam" /
+/
+/
+"Swords Dance" "Mega Kick" "Counter" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" /
+/
+"Body Slam" "Counter" /
+"Body Slam" "Counter" /
+"Counter" /
+"Swords Dance" "Double-Edge" "Counter" /
+"Thunder Wave" /
+"Thunder Wave" /
+"Double-Edge" "Metronome" "Thunder Wave" /
+"Double-Edge" "Thunder Wave" /
+"Double-Edge" "Thunder Wave" /
+/
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" /
+/
+/
+"Metronome" /
+"Double-Edge" /
+/
+/
+/
+"Body Slam" "Rock Slide" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Body Slam" "Double-Edge" "Explosion" "Rock Slide" /
+/
+/
+"Swords Dance" /
+"Thunder Wave" /
+"Thunder Wave" /
+"Thunder Wave" /
+"Thunder Wave" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" /
+"Swords Dance" "Double-Edge" "Metronome" /
+"Swords Dance" "Double-Edge" "Metronome" /
+/
+/
+/
+/
+"Swords Dance" "Body Slam" "Rock Slide" /
+/
+/
+/
+/
+/
+"Body Slam" "Double-Edge" /
+"Swords Dance" "Metronome" "Thunder Wave" "Rock Slide" /
+"Swords Dance" "Metronome" "Thunder Wave" "Rock Slide" /
+"Swords Dance" "Metronome" "Thunder Wave" "Rock Slide" /
+/
+/
+"Rock Slide" /
+"Body Slam" "Counter" /
+"Body Slam" "Counter" /
+/
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Explosion" "Rock Slide" /
+"Explosion" "Rock Slide" /
+"Double-Edge" /
+"Double-Edge" /
+"Swords Dance" "Mega Kick" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Counter" /
+/
+/
+"Body Slam" "Double-Edge" "Counter" "Seismic Toss" "Metronome" "Rock Slide" /
+"Body Slam" "Double-Edge" "Counter" "Rock Slide" /
+"Body Slam" "Double-Edge" "Thunder Wave" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+/
+"Swords Dance" "Thunder Wave" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Body Slam" "Double-Edge" "Metronome" "Thunder Wave" /
+"Body Slam" "Double-Edge" /
+"Thunder Wave" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Thunder Wave" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Body Slam" /
+"Swords Dance" "Body Slam" "Double-Edge" "Seismic Toss" "Metronome" "Rock Slide" /
+"Body Slam" "Double-Edge" /
+/
+"Swords Dance" "Body Slam" "Double-Edge" "Thunder Wave" "Rock Slide" /
+"Swords Dance" "Body Slam" /
+"Swords Dance" "Body Slam" /
+"Swords Dance" "Body Slam" "Double-Edge" /
+/
+/
+"Thunder Wave" /
+"Body Slam" /
+"Swords Dance" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+/
+"Body Slam" "Double-Edge" "Rock Slide" /
+"Swords Dance" "Metronome" "Thunder Wave" /
+"Swords Dance" "Body Slam" "Double-Edge" "Counter" /
+"Swords Dance" "Body Slam" "Thunder Wave" /
+/
+/
+/
+/
+"Body Slam" "Double-Edge" /
+"Swords Dance" "Double-Edge" /
+"Body Slam" /
+/
+/
+/
+/
+"Body Slam" "Double-Edge" "Counter" /
+"Metronome" /
+"Swords Dance" /
+"Swords Dance" "Counter" /
+/
+/
+/
+/
+/
+/
+/
+/
+"Swords Dance" "Body Slam" "Double-Edge" "Thunder Wave" "Rock Slide" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" "Thunder Wave" /
+"Swords Dance" "Body Slam" "Double-Edge" "Counter" /
+"Swords Dance" "Body Slam" "Double-Edge" /
+"Body Slam" "Double-Edge" "Rock Slide" /
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
