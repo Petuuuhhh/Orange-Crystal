@@ -1,8 +1,9 @@
-# output = open("output.txt", "w") 
-#for mon in data.pokemon.stats:
+# output = open("output.txt", "w")
+# for mon in data.pokemon.stats:
   # output.write('+"' + mon.speciesname + '"\n')
 # for item in data.items.info:
   # output.write('+"' + item.name + '"\n')
+
 ### Stats writer ###
 import json
 output = {}
@@ -61,7 +62,15 @@ keys = [
     # 'evolutions',
     # 'formchangetable',
 ]
-
+current = ''
+eggmoves = {}
+monname = ''
+for eggmovesindex in range(len(data.pokemon.moves.egg)):
+  if data.pokemon.moves.egg[eggmovesindex].is_pokemon:
+    monname = data.pokemon.moves.egg[eggmovesindex].name
+    eggmoves[monname] = []
+  elif data.pokemon.moves.egg[eggmovesindex].is_move:
+    eggmoves[monname].append(data.pokemon.moves.egg[eggmovesindex].name)
 for mon in data.pokemon.info:
   speciesname = mon.speciesname
   if speciesname not in mons:
@@ -116,6 +125,10 @@ for mon in data.pokemon.info:
     if type(mon.formchangetable) is not int:
       for keys_ in mon.formchangetable:
         output[speciesname]['formchangetable'][keys_.targetspecies] = {keys_.method: [str(keys_.param1), str(keys_.param2), str(keys_.param3)]}
+    output[speciesname]['eggmoves'] = []
+    if speciesname in eggmoves:
+      for move in eggmoves[speciesname]:
+        output[speciesname]['eggmoves'].append(move)
   else:
     output[speciesname + str(mons.count(speciesname) + 1)] = {}
     for key in keys:
@@ -172,11 +185,12 @@ for mon in data.pokemon.info:
 output = json.dumps(output, indent=4)
 with open("output.json", "w") as outfile:
     outfile.write(output)
+
 ### Icon importer ###
-tab = editor[0]
-tool = tab.Tools.SpriteTool
-for i in range(1, 1523):
-  name = "C:/Users/pswan/Downloads/Other/Tools/Hex Maniac Advance/icons/" + str(i) + ".png"
-  image = graphics.pokemon.icons.sprites[i]
-  tab.Goto.Execute(image.icon)
-  tool.TryImport(name, 'Cautious')
+# tab = editor[0]
+# tool = tab.Tools.SpriteTool
+# for i in range(1, 1523):
+  # name = "C:/Users/pswan/Downloads/Other/Tools/Hex Maniac Advance/icons/" + str(i) + ".png"
+  # image = graphics.pokemon.icons.sprites[i]
+  # tab.Goto.Execute(image.icon)
+  # tool.TryImport(name, 'Cautious')

@@ -903,233 +903,233 @@
 80, 130, 60, 120, 40, 80, Fight, Poison, 20, 102, (0, 2, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Slow", "Field", "Field", "Pressure", "-------", 0, (Red false), 0
 85, 115, 95, 85, 65, 65, Dark, Poison, 45, 179, (0, 2, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Water2", "Water2", "Poison Point", "Swift Swim", 0, (Red false), 0
 74, 115, 70, 106, 135, 80, Fairy, Flying, 3, 116, (0, 0, 0, 0, 3, 0), "????????", "????????", "100% Female", 20, 70, "Slow", "Undiscovered", "Undiscovered", "Cute Charm", "-------", 0, (Red false), 0
-80, 100, 123, 80, 122, 120, Grass, Poison, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "87% Male", 20, 70, "Medium Slow", "Monster", "Grass", "Thick Fat", "Thick Fat", 0, (Red false), 0
-78, 130, 111, 100, 130, 85, Fire, Dragon, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "87% Male", 20, 70, "Medium Slow", "Monster", "Dragon", "-------", "-------", 0, (Red false), 0
-78, 104, 78, 100, 159, 115, Fire, Flying, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "87% Male", 20, 70, "Medium Slow", "Monster", "Dragon", "Drought", "Drought", 0, (Red false), 0
+80, 100, 123, 80, 122, 120, Grass, Poison, 45, 255, (0, 0, 0, 0, 2, 0), "????????", "????????", "87% Male", 20, 70, "Medium Slow", "Monster", "Grass", "Thick Fat", "Thick Fat", 0, (Red false), 0
+78, 130, 111, 100, 130, 85, Fire, Dragon, 45, 255, (0, 0, 0, 0, 3, 0), "????????", "????????", "87% Male", 20, 70, "Medium Slow", "Monster", "Dragon", "-------", "-------", 0, (Red false), 0
+78, 104, 78, 100, 159, 115, Fire, Flying, 45, 255, (0, 0, 0, 0, 3, 0), "????????", "????????", "87% Male", 20, 70, "Medium Slow", "Monster", "Dragon", "Drought", "Drought", 0, (Red false), 0
 79, 103, 120, 78, 135, 115, Water, Water, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "87% Male", 20, 70, "Medium Slow", "Monster", "Water1", "-------", "-------", 0, (Red false), 0
-65, 150, 40, 145, 15, 80, Bug, Poison, 45, 248, (0, 0, 0, 0, 0, 0), "????????", "Poison Barb", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "-------", "-------", 0, (Red false), 0
-83, 80, 80, 121, 135, 80, Normal, Flying, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Slow", "Flying", "Flying", "-------", "-------", 0, (Red false), 0
-55, 50, 65, 150, 175, 105, Psychc, Psychc, 50, 255, (0, 0, 0, 0, 0, 0), "????????", "Twisted Spoon", "75% Male", 20, 70, "Medium Slow", "Human-Like", "Human-Like", "Trace", "Trace", 0, (Red false), 0
-95, 75, 180, 30, 130, 80, Water, Psychc, 75, 207, (0, 0, 0, 0, 0, 0), "????????", "King's Rock", "50% Male & 50% Female", 20, 70, "Medium Fast", "Monster", "Water1", "Shell Armor", "Shell Armor", 0, (Red false), 0
-60, 65, 80, 130, 170, 95, Ghost, Poison, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Slow", "Amorphous", "Amorphous", "Shadow Tag", "Shadow Tag", 0, (Red false), 0
-105, 125, 100, 100, 60, 100, Normal, Normal, 45, 207, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 20, 70, "Medium Fast", "Monster", "Monster", "-------", "-------", 0, (Red false), 0
-65, 155, 120, 105, 65, 90, Bug, Flying, 45, 210, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 25, 70, "Slow", "Bug", "Bug", "-------", "-------", 0, (Red false), 0
-95, 155, 109, 81, 70, 130, Water, Dark, 45, 224, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 5, 70, "Slow", "Water2", "Dragon", "-------", "-------", 0, (Red false), 0
-80, 135, 85, 150, 70, 95, Rock, Flying, 45, 215, (0, 0, 0, 0, 0, 0), "????????", "????????", "87% Male", 35, 70, "Slow", "Flying", "Flying", "-------", "-------", 0, (Red false), 0
-106, 190, 100, 130, 154, 100, Psychc, Fight, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-106, 150, 70, 140, 194, 120, Psychc, Psychc, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "Insomnia", "Insomnia", 0, (Red false), 0
-90, 95, 105, 45, 165, 110, Electr, Dragon, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Slow", "Monster", "Field", "-------", "-------", 0, (Red false), 0
-75, 125, 230, 30, 55, 95, Steel, Ground, 25, 214, (0, 0, 0, 0, 0, 0), "????????", "Metal Coat", "50% Male & 50% Female", 25, 70, "Medium Fast", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
-70, 150, 140, 75, 65, 100, Bug, Steel, 25, 210, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 25, 70, "Medium Fast", "Bug", "Bug", "-------", "-------", 0, (Red false), 0
-80, 185, 115, 75, 40, 105, Bug, Fight, 45, 210, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 25, 70, "Slow", "Bug", "Bug", "-------", "-------", 0, (Red false), 0
-75, 90, 90, 115, 140, 90, Dark, Fire, 45, 210, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 35, "Slow", "Field", "Field", "-------", "-------", 0, (Red false), 0
-100, 164, 150, 71, 95, 120, Rock, Dark, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 40, 35, "Slow", "Monster", "Monster", "Sand Stream", "Sand Stream", 0, (Red false), 0
-70, 110, 75, 145, 145, 85, Grass, Dragon, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "87% Male", 20, 70, "Medium Slow", "Monster", "Dragon", "Lightning Rod", "Lightning Rod", 0, (Red false), 0
-80, 160, 80, 100, 130, 80, Fire, Fight, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "87% Male", 20, 70, "Medium Slow", "Field", "Field", "Speed Boost", "Speed Boost", 0, (Red false), 0
-100, 150, 110, 70, 95, 110, Water, Ground, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "87% Male", 20, 70, "Medium Slow", "Monster", "Water1", "Swift Swim", "Swift Swim", 0, (Red false), 0
-68, 85, 65, 100, 165, 135, Psychc, Fairy, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 35, "Slow", "Human-Like", "Amorphous", "-------", "-------", 0, (Red false), 0
-50, 85, 125, 20, 85, 115, Dark, Ghost, 45, 168, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 25, 35, "Medium Slow", "Human-Like", "Human-Like", "-------", "-------", 0, (Red false), 0
-50, 105, 125, 50, 55, 95, Steel, Fairy, 45, 168, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Fast", "Field", "Fairy", "Huge Power", "Huge Power", 0, (Red false), 0
-70, 140, 230, 50, 60, 80, Steel, Steel, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "Hard Stone", "50% Male & 50% Female", 35, 35, "Slow", "Monster", "Monster", "-------", "-------", 0, (Red false), 0
-60, 100, 85, 100, 80, 85, Fight, Psychc, 90, 179, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Human-Like", "Human-Like", "Pure Power", "Pure Power", 0, (Red false), 0
-70, 75, 80, 135, 135, 80, Electr, Electr, 45, 201, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Slow", "Field", "Field", "Intimidate", "Intimidate", 0, (Red false), 0
-70, 140, 70, 105, 110, 65, Water, Dark, 60, 196, (0, 0, 0, 0, 0, 0), "????????", "DeepSeaTooth", "50% Male & 50% Female", 20, 35, "Slow", "Water2", "Water2", "-------", "-------", 0, (Red false), 0
-70, 120, 100, 20, 145, 105, Fire, Ground, 150, 196, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
+65, 150, 40, 145, 15, 80, Bug, Poison, 45, 248, (0, 2, 0, 0, 0, 0), "????????", "Poison Barb", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "-------", "-------", 0, (Red false), 0
+83, 80, 80, 121, 135, 80, Normal, Flying, 45, 255, (0, 0, 0, 3, 0, 3), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Slow", "Flying", "Flying", "-------", "-------", 0, (Red false), 0
+55, 50, 65, 150, 175, 105, Psychc, Psychc, 50, 255, (0, 0, 0, 0, 3, 0), "????????", "Twisted Spoon", "75% Male", 20, 70, "Medium Slow", "Human-Like", "Human-Like", "Trace", "Trace", 0, (Red false), 0
+95, 75, 180, 30, 130, 80, Water, Psychc, 75, 207, (0, 0, 2, 0, 0, 0), "????????", "King's Rock", "50% Male & 50% Female", 20, 70, "Medium Fast", "Monster", "Water1", "Shell Armor", "Shell Armor", 0, (Red false), 0
+60, 65, 80, 130, 170, 95, Ghost, Poison, 45, 255, (0, 0, 0, 0, 3, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Slow", "Amorphous", "Amorphous", "Shadow Tag", "Shadow Tag", 0, (Red false), 0
+105, 125, 100, 100, 60, 100, Normal, Normal, 45, 207, (2, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 20, 70, "Medium Fast", "Monster", "Monster", "-------", "-------", 0, (Red false), 0
+65, 155, 120, 105, 65, 90, Bug, Flying, 45, 210, (0, 2, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 25, 70, "Slow", "Bug", "Bug", "-------", "-------", 0, (Red false), 0
+95, 155, 109, 81, 70, 130, Water, Dark, 45, 224, (0, 2, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 5, 70, "Slow", "Water2", "Dragon", "-------", "-------", 0, (Red false), 0
+80, 135, 85, 150, 70, 95, Rock, Flying, 45, 215, (0, 0, 0, 2, 0, 2), "????????", "????????", "87% Male", 35, 70, "Slow", "Flying", "Flying", "-------", "-------", 0, (Red false), 0
+106, 190, 100, 130, 154, 100, Psychc, Fight, 3, 255, (0, 0, 0, 0, 3, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+106, 150, 70, 140, 194, 120, Psychc, Psychc, 3, 255, (0, 0, 0, 0, 3, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "Insomnia", "Insomnia", 0, (Red false), 0
+90, 95, 105, 45, 165, 110, Electr, Dragon, 45, 255, (0, 0, 0, 0, 3, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Slow", "Monster", "Field", "-------", "-------", 0, (Red false), 0
+75, 125, 230, 30, 55, 95, Steel, Ground, 25, 214, (0, 0, 2, 0, 0, 0), "????????", "Metal Coat", "50% Male & 50% Female", 25, 70, "Medium Fast", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
+70, 150, 140, 75, 65, 100, Bug, Steel, 25, 210, (0, 2, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 25, 70, "Medium Fast", "Bug", "Bug", "-------", "-------", 0, (Red false), 0
+80, 185, 115, 75, 40, 105, Bug, Fight, 45, 210, (0, 2, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 25, 70, "Slow", "Bug", "Bug", "-------", "-------", 0, (Red false), 0
+75, 90, 90, 115, 140, 90, Dark, Fire, 45, 210, (0, 0, 0, 0, 2, 0), "????????", "????????", "50% Male & 50% Female", 20, 35, "Slow", "Field", "Field", "-------", "-------", 0, (Red false), 0
+100, 164, 150, 71, 95, 120, Rock, Dark, 45, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 40, 35, "Slow", "Monster", "Monster", "Sand Stream", "Sand Stream", 0, (Red false), 0
+70, 110, 75, 145, 145, 85, Grass, Dragon, 45, 255, (0, 0, 0, 3, 0, 3), "????????", "????????", "87% Male", 20, 70, "Medium Slow", "Monster", "Dragon", "Lightning Rod", "Lightning Rod", 0, (Red false), 0
+80, 160, 80, 100, 130, 80, Fire, Fight, 45, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "87% Male", 20, 70, "Medium Slow", "Field", "Field", "Speed Boost", "Speed Boost", 0, (Red false), 0
+100, 150, 110, 70, 95, 110, Water, Ground, 45, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "87% Male", 20, 70, "Medium Slow", "Monster", "Water1", "Swift Swim", "Swift Swim", 0, (Red false), 0
+68, 85, 65, 100, 165, 135, Psychc, Fairy, 45, 255, (0, 0, 0, 0, 3, 0), "????????", "????????", "50% Male & 50% Female", 20, 35, "Slow", "Human-Like", "Amorphous", "-------", "-------", 0, (Red false), 0
+50, 85, 125, 20, 85, 115, Dark, Ghost, 45, 168, (0, 1, 1, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 25, 35, "Medium Slow", "Human-Like", "Human-Like", "-------", "-------", 0, (Red false), 0
+50, 105, 125, 50, 55, 95, Steel, Fairy, 45, 168, (0, 1, 1, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Fast", "Field", "Fairy", "Huge Power", "Huge Power", 0, (Red false), 0
+70, 140, 230, 50, 60, 80, Steel, Steel, 45, 255, (0, 0, 3, 0, 0, 0), "????????", "Hard Stone", "50% Male & 50% Female", 35, 35, "Slow", "Monster", "Monster", "-------", "-------", 0, (Red false), 0
+60, 100, 85, 100, 80, 85, Fight, Psychc, 90, 179, (0, 0, 0, 2, 0, 2), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Human-Like", "Human-Like", "Pure Power", "Pure Power", 0, (Red false), 0
+70, 75, 80, 135, 135, 80, Electr, Electr, 45, 201, (0, 0, 0, 2, 0, 2), "????????", "????????", "50% Male & 50% Female", 20, 70, "Slow", "Field", "Field", "Intimidate", "Intimidate", 0, (Red false), 0
+70, 140, 70, 105, 110, 65, Water, Dark, 60, 196, (0, 2, 0, 0, 0, 0), "????????", "DeepSeaTooth", "50% Male & 50% Female", 20, 35, "Slow", "Water2", "Water2", "-------", "-------", 0, (Red false), 0
+70, 120, 100, 20, 145, 105, Fire, Ground, 150, 196, (0, 1, 0, 0, 1, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
 75, 110, 110, 80, 110, 105, Dragon, Fairy, 45, 207, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Erratic", "Flying", "Dragon", "-------", "-------", 0, (Red false), 0
-64, 165, 75, 75, 93, 83, Ghost, Ghost, 45, 194, (0, 0, 0, 0, 0, 0), "????????", "Spell Tag", "50% Male & 50% Female", 25, 35, "Fast", "Amorphous", "Amorphous", "-------", "-------", 0, (Red false), 0
-65, 150, 60, 115, 115, 60, Dark, Dark, 30, 198, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 25, 35, "Medium Slow", "Field", "Field", "-------", "-------", 0, (Red false), 0
-80, 120, 80, 100, 120, 80, Ice, Ice, 75, 203, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Fairy", "Mineral", "-------", "-------", 0, (Red false), 0
-95, 145, 130, 120, 120, 90, Dragon, Flying, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "Dragon Fang", "50% Male & 50% Female", 40, 35, "Slow", "Dragon", "Dragon", "-------", "-------", 0, (Red false), 0
-80, 145, 150, 110, 105, 110, Steel, Psychc, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "Metal Coat", "Genderless", 40, 35, "Slow", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
+64, 165, 75, 75, 93, 83, Ghost, Ghost, 45, 194, (0, 2, 0, 0, 0, 0), "????????", "Spell Tag", "50% Male & 50% Female", 25, 35, "Fast", "Amorphous", "Amorphous", "-------", "-------", 0, (Red false), 0
+65, 150, 60, 115, 115, 60, Dark, Dark, 30, 198, (0, 2, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 25, 35, "Medium Slow", "Field", "Field", "-------", "-------", 0, (Red false), 0
+80, 120, 80, 100, 120, 80, Ice, Ice, 75, 203, (2, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Fairy", "Mineral", "-------", "-------", 0, (Red false), 0
+95, 145, 130, 120, 120, 90, Dragon, Flying, 45, 255, (0, 3, 0, 0, 0, 0), "????????", "Dragon Fang", "50% Male & 50% Female", 40, 35, "Slow", "Dragon", "Dragon", "-------", "-------", 0, (Red false), 0
+80, 145, 150, 110, 105, 110, Steel, Psychc, 3, 255, (0, 0, 3, 0, 0, 0), "????????", "Metal Coat", "Genderless", 40, 35, "Slow", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
 80, 100, 120, 110, 140, 150, Dragon, Psychc, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 120, 90, "Slow", "Undiscovered", "Undiscovered", "Levitate", "Levitate", 0, (Red false), 0
-80, 130, 100, 110, 160, 120, Dragon, Psychc, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Male", 120, 90, "Slow", "Undiscovered", "Undiscovered", "Levitate", "Levitate", 0, (Red false), 0
-65, 136, 94, 135, 54, 96, Normal, Fight, 60, 203, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 140, "Medium Fast", "Field", "Human-Like", "-------", "-------", 0, (Red false), 0
-108, 170, 115, 92, 120, 95, Dragon, Ground, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 40, 70, "Slow", "Monster", "Dragon", "-------", "-------", 0, (Red false), 0
-70, 145, 88, 112, 140, 70, Fight, Steel, 45, 219, (0, 0, 0, 0, 0, 0), "????????", "????????", "87% Male", 25, 70, "Medium Slow", "Field", "Human-Like", "-------", "-------", 0, (Red false), 0
-90, 132, 105, 30, 132, 105, Grass, Ice, 60, 208, (0, 0, 0, 0, 0, 0), "????????", "Never-MeltIce", "50% Male & 50% Female", 20, 70, "Slow", "Monster", "Grass", "-------", "-------", 0, (Red false), 0
-68, 165, 95, 110, 65, 115, Psychc, Fight, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Male", 20, 35, "Slow", "Human-Like", "Amorphous", "Inner Focus", "Inner Focus", 0, (Red false), 0
-103, 60, 126, 50, 80, 126, Normal, Fairy, 255, 255, (0, 0, 0, 0, 0, 0), "Oran Berry", "Sitrus Berry", "50% Male & 50% Female", 20, 70, "Fast", "Fairy", "Fairy", "-------", "-------", 0, (Red false), 0
-50, 160, 110, 110, 160, 110, Rock, Fairy, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 25, 70, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-105, 180, 100, 115, 180, 100, Dragon, Flying, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-100, 150, 90, 90, 180, 160, Water, Water, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-100, 180, 160, 90, 150, 90, Ground, Fire, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-30, 56, 35, 72, 25, 35, Dark, Normal, 255, 51, (0, 0, 0, 0, 0, 0), "????????", "Pecha Berry", "50% Male & 50% Female", 15, 70, "Medium Fast", "Field", "Field", "-------", "Hustle", 0, (Red false), 0
-75, 71, 70, 77, 40, 80, Dark, Normal, 127, 145, (0, 0, 0, 0, 0, 0), "????????", "Pecha Berry", "50% Male & 50% Female", 15, 70, "Medium Fast", "Field", "Field", "-------", "Hustle", 0, (Red false), 0
-60, 85, 50, 110, 95, 85, Electr, Psychc, 75, 243, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 10, 70, "Medium Fast", "Field", "Fairy", "-------", "-------", 0, (Red false), 0
-50, 75, 90, 40, 10, 35, Ice, Steel, 255, 60, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
-75, 100, 120, 65, 25, 65, Ice, Steel, 90, 158, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
-38, 41, 40, 65, 50, 65, Ice, Ice, 190, 60, (0, 0, 0, 0, 0, 0), "????????", "????????", "75% Female", 20, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
-73, 67, 75, 109, 81, 100, Ice, Fairy, 75, 177, (0, 0, 0, 0, 0, 0), "????????", "????????", "75% Female", 20, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
-10, 55, 30, 90, 35, 45, Ground, Steel, 255, 53, (0, 0, 0, 0, 0, 0), "????????", "Soft Sand", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "Sand Veil", "-------", 0, (Red false), 0
-35, 100, 60, 110, 50, 70, Ground, Steel, 50, 149, (0, 0, 0, 0, 0, 0), "????????", "Soft Sand", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "Sand Veil", "-------", 0, (Red false), 0
-40, 35, 35, 90, 50, 40, Dark, Dark, 255, 58, (0, 0, 0, 0, 0, 0), "????????", "Quick Claw", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "Pickup", "-------", 0, (Red false), 0
-65, 60, 60, 115, 75, 65, Dark, Dark, 90, 154, (0, 0, 0, 0, 0, 0), "????????", "Quick Claw", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
-40, 80, 100, 20, 30, 30, Rock, Electr, 255, 60, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Slow", "Mineral", "Mineral", "Magnet Pull", "Sturdy", 0, (Red false), 0
-55, 95, 115, 35, 45, 45, Rock, Electr, 120, 137, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Slow", "Mineral", "Mineral", "Magnet Pull", "Sturdy", 0, (Red false), 0
-80, 120, 130, 45, 55, 65, Rock, Electr, 45, 248, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Slow", "Mineral", "Mineral", "Magnet Pull", "Sturdy", 0, (Red false), 0
-80, 80, 50, 25, 40, 50, Poison, Dark, 190, 65, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Amorphous", "Amorphous", "-------", "-------", 0, (Red false), 0
-105, 105, 75, 50, 65, 100, Poison, Dark, 75, 175, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Amorphous", "Amorphous", "-------", "-------", 0, (Red false), 0
-95, 105, 85, 45, 125, 75, Grass, Dragon, 45, 186, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Slow", "Grass", "Grass", "-------", "-------", 0, (Red false), 0
-60, 80, 110, 45, 50, 80, Fire, Ghost, 75, 149, (0, 0, 0, 0, 0, 0), "????????", "Thick Club", "50% Male & 50% Female", 20, 70, "Medium Fast", "Monster", "Monster", "-------", "Lightning Rod", 0, (Red false), 0
-50, 65, 55, 40, 40, 40, Steel, Steel, 255, 58, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "Pickup", "-------", 0, (Red false), 0
-50, 85, 55, 90, 65, 65, Psychc, Psychc, 190, 82, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "Run Away", "-------", 0, (Red false), 0
-65, 100, 70, 105, 80, 80, Psychc, Fairy, 60, 175, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "Run Away", "-------", 0, (Red false), 0
-90, 65, 65, 15, 40, 40, Psychc, Psychc, 190, 63, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Monster", "Water1", "-------", "Own Tempo", 0, (Red false), 0
-95, 100, 95, 30, 100, 70, Poison, Psychc, 75, 172, (0, 0, 0, 0, 0, 0), "????????", "King's Rock", "50% Male & 50% Female", 20, 70, "Medium Fast", "Monster", "Water1", "-------", "Own Tempo", 0, (Red false), 0
-52, 95, 55, 55, 58, 62, Fight, Fight, 45, 132, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Flying", "Field", "-------", "-------", 0, (Red false), 0
-65, 90, 120, 60, 85, 70, Poison, Fairy, 60, 172, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Amorphous", "Amorphous", "Levitate", "-------", 0, (Red false), 0
-50, 65, 65, 100, 90, 90, Ice, Psychc, 45, 161, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 25, 70, "Medium Fast", "Human-Like", "Human-Like", "Vital Spirit", "-------", 0, (Red false), 0
-90, 85, 85, 95, 125, 100, Psychc, Flying, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 35, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-90, 125, 90, 100, 85, 90, Fight, Flying, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 35, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+80, 130, 100, 110, 160, 120, Dragon, Psychc, 3, 255, (0, 0, 0, 0, 3, 0), "????????", "????????", "100% Male", 120, 90, "Slow", "Undiscovered", "Undiscovered", "Levitate", "Levitate", 0, (Red false), 0
+65, 136, 94, 135, 54, 96, Normal, Fight, 60, 203, (0, 0, 0, 2, 0, 2), "????????", "????????", "50% Male & 50% Female", 20, 140, "Medium Fast", "Field", "Human-Like", "-------", "-------", 0, (Red false), 0
+108, 170, 115, 92, 120, 95, Dragon, Ground, 45, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 40, 70, "Slow", "Monster", "Dragon", "-------", "-------", 0, (Red false), 0
+70, 145, 88, 112, 140, 70, Fight, Steel, 45, 219, (0, 1, 0, 0, 1, 0), "????????", "????????", "87% Male", 25, 70, "Medium Slow", "Field", "Human-Like", "-------", "-------", 0, (Red false), 0
+90, 132, 105, 30, 132, 105, Grass, Ice, 60, 208, (0, 1, 0, 0, 1, 0), "????????", "Never-MeltIce", "50% Male & 50% Female", 20, 70, "Slow", "Monster", "Grass", "-------", "-------", 0, (Red false), 0
+68, 165, 95, 110, 65, 115, Psychc, Fight, 45, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "100% Male", 20, 35, "Slow", "Human-Like", "Amorphous", "Inner Focus", "Inner Focus", 0, (Red false), 0
+103, 60, 126, 50, 80, 126, Normal, Fairy, 255, 255, (2, 0, 0, 0, 0, 0), "Oran Berry", "Sitrus Berry", "50% Male & 50% Female", 20, 70, "Fast", "Fairy", "Fairy", "-------", "-------", 0, (Red false), 0
+50, 160, 110, 110, 160, 110, Rock, Fairy, 3, 255, (0, 0, 1, 0, 0, 0), "????????", "????????", "Genderless", 25, 70, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+105, 180, 100, 115, 180, 100, Dragon, Flying, 45, 255, (0, 2, 0, 0, 1, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+100, 150, 90, 90, 180, 160, Water, Water, 3, 255, (0, 0, 0, 0, 3, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+100, 180, 160, 90, 150, 90, Ground, Fire, 3, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+30, 56, 35, 72, 25, 35, Dark, Normal, 255, 51, (0, 0, 0, 1, 0, 1), "????????", "Pecha Berry", "50% Male & 50% Female", 15, 70, "Medium Fast", "Field", "Field", "-------", "Hustle", 0, (Red false), 0
+75, 71, 70, 77, 40, 80, Dark, Normal, 127, 145, (0, 0, 0, 2, 0, 2), "????????", "Pecha Berry", "50% Male & 50% Female", 15, 70, "Medium Fast", "Field", "Field", "-------", "Hustle", 0, (Red false), 0
+60, 85, 50, 110, 95, 85, Electr, Psychc, 75, 243, (0, 0, 0, 3, 0, 3), "????????", "????????", "50% Male & 50% Female", 10, 70, "Medium Fast", "Field", "Fairy", "-------", "-------", 0, (Red false), 0
+50, 75, 90, 40, 10, 35, Ice, Steel, 255, 60, (0, 0, 1, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
+75, 100, 120, 65, 25, 65, Ice, Steel, 90, 158, (0, 0, 2, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
+38, 41, 40, 65, 50, 65, Ice, Ice, 190, 60, (0, 0, 0, 1, 0, 1), "????????", "????????", "75% Female", 20, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
+73, 67, 75, 109, 81, 100, Ice, Fairy, 75, 177, (0, 0, 0, 1, 0, 1), "????????", "????????", "75% Female", 20, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
+10, 55, 30, 90, 35, 45, Ground, Steel, 255, 53, (0, 0, 0, 1, 0, 1), "????????", "Soft Sand", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "Sand Veil", "-------", 0, (Red false), 0
+35, 100, 60, 110, 50, 70, Ground, Steel, 50, 149, (0, 0, 0, 2, 0, 2), "????????", "Soft Sand", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "Sand Veil", "-------", 0, (Red false), 0
+40, 35, 35, 90, 50, 40, Dark, Dark, 255, 58, (0, 0, 0, 1, 0, 1), "????????", "Quick Claw", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "Pickup", "-------", 0, (Red false), 0
+65, 60, 60, 115, 75, 65, Dark, Dark, 90, 154, (0, 0, 0, 2, 0, 2), "????????", "Quick Claw", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
+40, 80, 100, 20, 30, 30, Rock, Electr, 255, 60, (0, 0, 1, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Slow", "Mineral", "Mineral", "Magnet Pull", "Sturdy", 0, (Red false), 0
+55, 95, 115, 35, 45, 45, Rock, Electr, 120, 137, (0, 0, 2, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Slow", "Mineral", "Mineral", "Magnet Pull", "Sturdy", 0, (Red false), 0
+80, 120, 130, 45, 55, 65, Rock, Electr, 45, 248, (0, 0, 3, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Slow", "Mineral", "Mineral", "Magnet Pull", "Sturdy", 0, (Red false), 0
+80, 80, 50, 25, 40, 50, Poison, Dark, 190, 65, (1, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Amorphous", "Amorphous", "-------", "-------", 0, (Red false), 0
+105, 105, 75, 50, 65, 100, Poison, Dark, 75, 175, (1, 1, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Amorphous", "Amorphous", "-------", "-------", 0, (Red false), 0
+95, 105, 85, 45, 125, 75, Grass, Dragon, 45, 186, (0, 0, 0, 0, 2, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Slow", "Grass", "Grass", "-------", "-------", 0, (Red false), 0
+60, 80, 110, 45, 50, 80, Fire, Ghost, 75, 149, (0, 0, 2, 0, 0, 0), "????????", "Thick Club", "50% Male & 50% Female", 20, 70, "Medium Fast", "Monster", "Monster", "-------", "Lightning Rod", 0, (Red false), 0
+50, 65, 55, 40, 40, 40, Steel, Steel, 255, 58, (0, 1, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "Pickup", "-------", 0, (Red false), 0
+50, 85, 55, 90, 65, 65, Psychc, Psychc, 190, 82, (0, 0, 0, 1, 0, 1), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "Run Away", "-------", 0, (Red false), 0
+65, 100, 70, 105, 80, 80, Psychc, Fairy, 60, 175, (0, 0, 0, 2, 0, 2), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "Run Away", "-------", 0, (Red false), 0
+90, 65, 65, 15, 40, 40, Psychc, Psychc, 190, 63, (1, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Monster", "Water1", "-------", "Own Tempo", 0, (Red false), 0
+95, 100, 95, 30, 100, 70, Poison, Psychc, 75, 172, (0, 2, 0, 0, 0, 0), "????????", "King's Rock", "50% Male & 50% Female", 20, 70, "Medium Fast", "Monster", "Water1", "-------", "Own Tempo", 0, (Red false), 0
+52, 95, 55, 55, 58, 62, Fight, Fight, 45, 132, (0, 1, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Flying", "Field", "-------", "-------", 0, (Red false), 0
+65, 90, 120, 60, 85, 70, Poison, Fairy, 60, 172, (0, 0, 2, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Amorphous", "Amorphous", "Levitate", "-------", 0, (Red false), 0
+50, 65, 65, 100, 90, 90, Ice, Psychc, 45, 161, (0, 0, 0, 2, 0, 2), "????????", "????????", "50% Male & 50% Female", 25, 70, "Medium Fast", "Human-Like", "Human-Like", "Vital Spirit", "-------", 0, (Red false), 0
+90, 85, 85, 95, 125, 100, Psychc, Flying, 3, 255, (0, 0, 0, 0, 3, 0), "????????", "????????", "Genderless", 120, 35, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+90, 125, 90, 100, 85, 90, Fight, Flying, 3, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 35, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
 90, 85, 90, 90, 100, 125, Dark, Flying, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 35, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
 95, 65, 80, 30, 110, 110, Poison, Psychc, 70, 172, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Monster", "Water1", "-------", "Own Tempo", 0, (Red false), 0
 60, 55, 100, 30, 65, 100, Ghost, Ghost, 60, 144, (0, 0, 0, 0, 0, 0), "????????", "????????", "75% Female", 20, 70, "Fast", "Water1", "Water3", "-------", "-------", 0, (Red false), 0
-38, 30, 41, 60, 30, 41, Dark, Normal, 255, 56, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Field", "Field", "Pickup", "-------", 0, (Red false), 0
-78, 70, 61, 100, 50, 61, Dark, Normal, 90, 147, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Field", "Field", "Pickup", "-------", 0, (Red false), 0
-70, 90, 45, 50, 15, 45, Ice, Ice, 120, 63, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Slow", "Field", "Field", "Hustle", "-------", 0, (Red false), 0
-105, 140, 55, 95, 30, 55, Ice, Ice, 60, 168, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Slow", "Field", "Field", "-------", "-------", 0, (Red false), 0
-38, 55, 85, 30, 30, 65, Ground, Ghost, 190, 61, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 25, 70, "Medium Fast", "Mineral", "Amorphous", "-------", "-------", 0, (Red false), 0
-109, 81, 99, 32, 66, 84, Ground, Steel, 75, 165, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Water1", "Amorphous", "-------", "-------", 0, (Red false), 0
-60, 75, 45, 55, 65, 50, Fire, Rock, 190, 70, (0, 0, 0, 0, 0, 0), "????????", "????????", "75% Male", 20, 70, "Slow", "Field", "Field", "Intimidate", "Flash Fire", 0, (Red false), 0
-95, 115, 80, 90, 95, 80, Fire, Rock, 75, 194, (0, 0, 0, 0, 0, 0), "????????", "????????", "75% Male", 20, 70, "Slow", "Field", "Field", "Intimidate", "Flash Fire", 0, (Red false), 0
-40, 30, 50, 100, 55, 55, Electr, Grass, 190, 66, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 20, 70, "Medium Fast", "Mineral", "Mineral", "Soundproof", "Static", 0, (Red false), 0
-60, 50, 70, 150, 80, 80, Electr, Grass, 60, 172, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 20, 70, "Medium Fast", "Mineral", "Mineral", "Soundproof", "Static", 0, (Red false), 0
-73, 84, 78, 95, 119, 85, Fire, Ghost, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "87% Male", 20, 70, "Medium Slow", "Field", "Field", "Blaze", "-------", 0, (Red false), 0
-65, 95, 85, 85, 55, 55, Dark, Poison, 45, 88, (0, 0, 0, 0, 0, 0), "????????", "Poison Barb", "50% Male & 50% Female", 20, 70, "Medium Fast", "Water2", "Water2", "Poison Point", "Swift Swim", 0, (Red false), 0
-55, 95, 55, 115, 35, 75, Fight, Poison, 60, 86, (0, 0, 0, 0, 0, 0), "????????", "Quick Claw", "50% Male & 50% Female", 20, 35, "Medium Slow", "Field", "Field", "Inner Focus", "Keen Eye", 0, (Red false), 0
-90, 108, 80, 85, 100, 65, Water, Dark, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "87% Male", 20, 70, "Medium Slow", "Field", "Field", "Torrent", "-------", 0, (Red false), 0
-70, 105, 75, 105, 50, 75, Grass, Fight, 75, 168, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 20, 70, "Medium Fast", "Grass", "Grass", "Chlorophyll", "Hustle", 0, (Red false), 0
-35, 60, 40, 70, 85, 40, Normal, Ghost, 75, 66, (0, 0, 0, 0, 0, 0), "????????", "????????", "87% Male", 25, 70, "Medium Slow", "Field", "Field", "-------", "-------", 0, (Red false), 0
-55, 100, 60, 110, 125, 60, Normal, Ghost, 45, 179, (0, 0, 0, 0, 0, 0), "????????", "????????", "87% Male", 20, 70, "Medium Slow", "Field", "Field", "-------", "-------", 0, (Red false), 0
-110, 83, 70, 65, 112, 70, Psychc, Flying, 60, 179, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Male", 20, 70, "Slow", "Flying", "Flying", "Keen Eye", "-------", 0, (Red false), 0
+38, 30, 41, 60, 30, 41, Dark, Normal, 255, 56, (0, 0, 0, 1, 0, 1), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Field", "Field", "Pickup", "-------", 0, (Red false), 0
+78, 70, 61, 100, 50, 61, Dark, Normal, 90, 147, (0, 0, 0, 2, 0, 2), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Field", "Field", "Pickup", "-------", 0, (Red false), 0
+70, 90, 45, 50, 15, 45, Ice, Ice, 120, 63, (0, 1, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Slow", "Field", "Field", "Hustle", "-------", 0, (Red false), 0
+105, 140, 55, 95, 30, 55, Ice, Ice, 60, 168, (0, 2, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Slow", "Field", "Field", "-------", "-------", 0, (Red false), 0
+38, 55, 85, 30, 30, 65, Ground, Ghost, 190, 61, (0, 0, 1, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 25, 70, "Medium Fast", "Mineral", "Amorphous", "-------", "-------", 0, (Red false), 0
+109, 81, 99, 32, 66, 84, Ground, Steel, 75, 165, (2, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Water1", "Amorphous", "-------", "-------", 0, (Red false), 0
+60, 75, 45, 55, 65, 50, Fire, Rock, 190, 70, (0, 1, 0, 0, 0, 0), "????????", "????????", "75% Male", 20, 70, "Slow", "Field", "Field", "Intimidate", "Flash Fire", 0, (Red false), 0
+95, 115, 80, 90, 95, 80, Fire, Rock, 75, 194, (0, 2, 0, 0, 0, 0), "????????", "????????", "75% Male", 20, 70, "Slow", "Field", "Field", "Intimidate", "Flash Fire", 0, (Red false), 0
+40, 30, 50, 100, 55, 55, Electr, Grass, 190, 66, (0, 0, 0, 1, 0, 1), "????????", "????????", "Genderless", 20, 70, "Medium Fast", "Mineral", "Mineral", "Soundproof", "Static", 0, (Red false), 0
+60, 50, 70, 150, 80, 80, Electr, Grass, 60, 172, (0, 0, 0, 2, 0, 2), "????????", "????????", "Genderless", 20, 70, "Medium Fast", "Mineral", "Mineral", "Soundproof", "Static", 0, (Red false), 0
+73, 84, 78, 95, 119, 85, Fire, Ghost, 45, 255, (0, 0, 0, 0, 3, 0), "????????", "????????", "87% Male", 20, 70, "Medium Slow", "Field", "Field", "Blaze", "-------", 0, (Red false), 0
+65, 95, 85, 85, 55, 55, Dark, Poison, 45, 88, (0, 1, 0, 0, 0, 0), "????????", "Poison Barb", "50% Male & 50% Female", 20, 70, "Medium Fast", "Water2", "Water2", "Poison Point", "Swift Swim", 0, (Red false), 0
+55, 95, 55, 115, 35, 75, Fight, Poison, 60, 86, (0, 0, 0, 1, 0, 1), "????????", "Quick Claw", "50% Male & 50% Female", 20, 35, "Medium Slow", "Field", "Field", "Inner Focus", "Keen Eye", 0, (Red false), 0
+90, 108, 80, 85, 100, 65, Water, Dark, 45, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "87% Male", 20, 70, "Medium Slow", "Field", "Field", "Torrent", "-------", 0, (Red false), 0
+70, 105, 75, 105, 50, 75, Grass, Fight, 75, 168, (0, 1, 0, 1, 0, 1), "????????", "????????", "100% Female", 20, 70, "Medium Fast", "Grass", "Grass", "Chlorophyll", "Hustle", 0, (Red false), 0
+35, 60, 40, 70, 85, 40, Normal, Ghost, 75, 66, (0, 0, 0, 0, 1, 0), "????????", "????????", "87% Male", 25, 70, "Medium Slow", "Field", "Field", "-------", "-------", 0, (Red false), 0
+55, 100, 60, 110, 125, 60, Normal, Ghost, 45, 179, (0, 0, 0, 0, 2, 0), "????????", "????????", "87% Male", 20, 70, "Medium Slow", "Field", "Field", "-------", "-------", 0, (Red false), 0
+110, 83, 70, 65, 112, 70, Psychc, Flying, 60, 179, (0, 0, 0, 0, 2, 0), "????????", "????????", "100% Male", 20, 70, "Slow", "Flying", "Flying", "Keen Eye", "-------", 0, (Red false), 0
 58, 75, 83, 40, 83, 113, Dragon, Steel, 45, 158, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 40, 35, "Slow", "Dragon", "Dragon", "-------", "Shell Armor", 0, (Red false), 0
 80, 100, 100, 60, 110, 150, Dragon, Steel, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 40, 35, "Slow", "Dragon", "Dragon", "-------", "Shell Armor", 0, (Red false), 0
-95, 127, 184, 38, 34, 36, Ice, Rock, 55, 180, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Monster", "Mineral", "-------", "-------", 0, (Red false), 0
-88, 112, 80, 60, 95, 95, Grass, Fight, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "87% Male", 15, 70, "Medium Slow", "Flying", "Flying", "Overgrow", "-------", 0, (Red false), 0
-35, 55, 40, 90, 50, 50, Electr, Electr, 190, 112, (0, 0, 0, 0, 0, 0), "????????", "Light Ball", "100% Female", 10, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Static", "-------", 0, (Red false), 0
-35, 55, 40, 90, 50, 50, Electr, Electr, 190, 112, (0, 0, 0, 0, 0, 0), "????????", "Light Ball", "100% Female", 10, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Static", "-------", 0, (Red false), 0
-35, 55, 40, 90, 50, 50, Electr, Electr, 190, 112, (0, 0, 0, 0, 0, 0), "????????", "Light Ball", "100% Female", 10, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Static", "-------", 0, (Red false), 0
-35, 55, 40, 90, 50, 50, Electr, Electr, 190, 112, (0, 0, 0, 0, 0, 0), "????????", "Light Ball", "100% Female", 10, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Static", "-------", 0, (Red false), 0
-35, 55, 40, 90, 50, 50, Electr, Electr, 190, 112, (0, 0, 0, 0, 0, 0), "????????", "Light Ball", "100% Female", 10, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Static", "-------", 0, (Red false), 0
-35, 55, 40, 90, 50, 50, Electr, Electr, 190, 112, (0, 0, 0, 0, 0, 0), "????????", "Light Ball", "100% Female", 10, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Static", "-------", 0, (Red false), 0
-35, 55, 40, 90, 50, 50, Electr, Electr, 190, 112, (0, 0, 0, 0, 0, 0), "????????", "Light Ball", "100% Male", 10, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Static", "-------", 0, (Red false), 0
-35, 55, 40, 90, 50, 50, Electr, Electr, 190, 112, (0, 0, 0, 0, 0, 0), "????????", "Light Ball", "100% Male", 10, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Static", "-------", 0, (Red false), 0
-35, 55, 40, 90, 50, 50, Electr, Electr, 190, 112, (0, 0, 0, 0, 0, 0), "????????", "Light Ball", "100% Male", 10, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Static", "-------", 0, (Red false), 0
-35, 55, 40, 90, 50, 50, Electr, Electr, 190, 112, (0, 0, 0, 0, 0, 0), "????????", "Light Ball", "100% Male", 10, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Static", "-------", 0, (Red false), 0
-35, 55, 40, 90, 50, 50, Electr, Electr, 190, 112, (0, 0, 0, 0, 0, 0), "????????", "Light Ball", "100% Male", 10, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Static", "-------", 0, (Red false), 0
-35, 55, 40, 90, 50, 50, Electr, Electr, 190, 112, (0, 0, 0, 0, 0, 0), "????????", "Light Ball", "100% Male", 10, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Static", "-------", 0, (Red false), 0
-35, 55, 40, 90, 50, 50, Electr, Electr, 190, 112, (0, 0, 0, 0, 0, 0), "????????", "Light Ball", "100% Male", 10, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Static", "-------", 0, (Red false), 0
-35, 55, 40, 90, 50, 50, Electr, Electr, 190, 112, (0, 0, 0, 0, 0, 0), "????????", "Light Ball", "100% Male", 10, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Static", "-------", 0, (Red false), 0
-20, 40, 15, 60, 35, 35, Electr, Electr, 190, 41, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 10, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Static", "-------", 0, (Red false), 0
-48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
-48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
-48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
-48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
-48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
-48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
-48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
-48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
-48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
-48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
-48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
-48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
-48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
-48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
-48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
-48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
-48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
-48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
-48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
-48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
-48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
-48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
-48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
-48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
-48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
-48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
-48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
-70, 70, 70, 70, 70, 70, Fire, Fire, 45, 147, (0, 0, 0, 0, 0, 0), "Mystic Water", "Mystic Water", "50% Male & 50% Female", 25, 70, "Medium Fast", "Fairy", "Amorphous", "Forecast", "-------", 0, (Red false), 0
-70, 70, 70, 70, 70, 70, Water, Water, 45, 147, (0, 0, 0, 0, 0, 0), "Mystic Water", "Mystic Water", "50% Male & 50% Female", 25, 70, "Medium Fast", "Fairy", "Amorphous", "Forecast", "-------", 0, (Red false), 0
-70, 70, 70, 70, 70, 70, Ice, Ice, 45, 147, (0, 0, 0, 0, 0, 0), "Mystic Water", "Mystic Water", "50% Male & 50% Female", 25, 70, "Medium Fast", "Fairy", "Amorphous", "Forecast", "-------", 0, (Red false), 0
-50, 180, 20, 150, 180, 20, Psychc, Psychc, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "Pressure", "-------", 0, (Red false), 0
-50, 70, 160, 90, 70, 160, Psychc, Psychc, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "Pressure", "-------", 0, (Red false), 0
-50, 95, 90, 180, 95, 90, Psychc, Psychc, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "Pressure", "-------", 0, (Red false), 0
+95, 127, 184, 38, 34, 36, Ice, Rock, 55, 180, (0, 0, 2, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Monster", "Mineral", "-------", "-------", 0, (Red false), 0
+88, 112, 80, 60, 95, 95, Grass, Fight, 45, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "87% Male", 15, 70, "Medium Slow", "Flying", "Flying", "Overgrow", "-------", 0, (Red false), 0
+35, 55, 40, 90, 50, 50, Electr, Electr, 190, 112, (0, 0, 0, 2, 0, 2), "????????", "Light Ball", "100% Female", 10, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Static", "-------", 0, (Red false), 0
+35, 55, 40, 90, 50, 50, Electr, Electr, 190, 112, (0, 0, 0, 2, 0, 2), "????????", "Light Ball", "100% Female", 10, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Static", "-------", 0, (Red false), 0
+35, 55, 40, 90, 50, 50, Electr, Electr, 190, 112, (0, 0, 0, 2, 0, 2), "????????", "Light Ball", "100% Female", 10, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Static", "-------", 0, (Red false), 0
+35, 55, 40, 90, 50, 50, Electr, Electr, 190, 112, (0, 0, 0, 2, 0, 2), "????????", "Light Ball", "100% Female", 10, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Static", "-------", 0, (Red false), 0
+35, 55, 40, 90, 50, 50, Electr, Electr, 190, 112, (0, 0, 0, 2, 0, 2), "????????", "Light Ball", "100% Female", 10, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Static", "-------", 0, (Red false), 0
+35, 55, 40, 90, 50, 50, Electr, Electr, 190, 112, (0, 0, 0, 2, 0, 2), "????????", "Light Ball", "100% Female", 10, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Static", "-------", 0, (Red false), 0
+35, 55, 40, 90, 50, 50, Electr, Electr, 190, 112, (0, 0, 0, 2, 0, 2), "????????", "Light Ball", "100% Male", 10, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Static", "-------", 0, (Red false), 0
+35, 55, 40, 90, 50, 50, Electr, Electr, 190, 112, (0, 0, 0, 2, 0, 2), "????????", "Light Ball", "100% Male", 10, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Static", "-------", 0, (Red false), 0
+35, 55, 40, 90, 50, 50, Electr, Electr, 190, 112, (0, 0, 0, 2, 0, 2), "????????", "Light Ball", "100% Male", 10, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Static", "-------", 0, (Red false), 0
+35, 55, 40, 90, 50, 50, Electr, Electr, 190, 112, (0, 0, 0, 2, 0, 2), "????????", "Light Ball", "100% Male", 10, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Static", "-------", 0, (Red false), 0
+35, 55, 40, 90, 50, 50, Electr, Electr, 190, 112, (0, 0, 0, 2, 0, 2), "????????", "Light Ball", "100% Male", 10, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Static", "-------", 0, (Red false), 0
+35, 55, 40, 90, 50, 50, Electr, Electr, 190, 112, (0, 0, 0, 2, 0, 2), "????????", "Light Ball", "100% Male", 10, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Static", "-------", 0, (Red false), 0
+35, 55, 40, 90, 50, 50, Electr, Electr, 190, 112, (0, 0, 0, 2, 0, 2), "????????", "Light Ball", "100% Male", 10, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Static", "-------", 0, (Red false), 0
+35, 55, 40, 90, 50, 50, Electr, Electr, 190, 112, (0, 0, 0, 2, 0, 2), "????????", "Light Ball", "100% Male", 10, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Static", "-------", 0, (Red false), 0
+20, 40, 15, 60, 35, 35, Electr, Electr, 190, 41, (0, 0, 0, 1, 0, 1), "????????", "????????", "50% Male & 50% Female", 10, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Static", "-------", 0, (Red false), 0
+48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 1, 0, 0, 1, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
+48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 1, 0, 0, 1, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
+48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 1, 0, 0, 1, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
+48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 1, 0, 0, 1, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
+48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 1, 0, 0, 1, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
+48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 1, 0, 0, 1, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
+48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 1, 0, 0, 1, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
+48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 1, 0, 0, 1, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
+48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 1, 0, 0, 1, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
+48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 1, 0, 0, 1, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
+48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 1, 0, 0, 1, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
+48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 1, 0, 0, 1, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
+48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 1, 0, 0, 1, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
+48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 1, 0, 0, 1, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
+48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 1, 0, 0, 1, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
+48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 1, 0, 0, 1, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
+48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 1, 0, 0, 1, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
+48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 1, 0, 0, 1, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
+48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 1, 0, 0, 1, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
+48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 1, 0, 0, 1, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
+48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 1, 0, 0, 1, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
+48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 1, 0, 0, 1, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
+48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 1, 0, 0, 1, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
+48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 1, 0, 0, 1, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
+48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 1, 0, 0, 1, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
+48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 1, 0, 0, 1, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
+48, 72, 48, 48, 72, 48, Psychc, Psychc, 225, 118, (0, 1, 0, 0, 1, 0), "????????", "????????", "Genderless", 40, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
+70, 70, 70, 70, 70, 70, Fire, Fire, 45, 147, (1, 0, 0, 0, 0, 0), "Mystic Water", "Mystic Water", "50% Male & 50% Female", 25, 70, "Medium Fast", "Fairy", "Amorphous", "Forecast", "-------", 0, (Red false), 0
+70, 70, 70, 70, 70, 70, Water, Water, 45, 147, (1, 0, 0, 0, 0, 0), "Mystic Water", "Mystic Water", "50% Male & 50% Female", 25, 70, "Medium Fast", "Fairy", "Amorphous", "Forecast", "-------", 0, (Red false), 0
+70, 70, 70, 70, 70, 70, Ice, Ice, 45, 147, (1, 0, 0, 0, 0, 0), "Mystic Water", "Mystic Water", "50% Male & 50% Female", 25, 70, "Medium Fast", "Fairy", "Amorphous", "Forecast", "-------", 0, (Red false), 0
+50, 180, 20, 150, 180, 20, Psychc, Psychc, 3, 255, (0, 2, 0, 0, 1, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "Pressure", "-------", 0, (Red false), 0
+50, 70, 160, 90, 70, 160, Psychc, Psychc, 3, 255, (0, 0, 2, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "Pressure", "-------", 0, (Red false), 0
+50, 95, 90, 180, 95, 90, Psychc, Psychc, 3, 255, (0, 0, 0, 3, 0, 3), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "Pressure", "-------", 0, (Red false), 0
 40, 29, 45, 36, 29, 45, Bug, Bug, 120, 45, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
 40, 29, 45, 36, 29, 45, Bug, Bug, 120, 45, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
-60, 79, 105, 36, 59, 85, Bug, Ground, 45, 148, (0, 0, 0, 0, 0, 0), "????????", "Silver Powder", "100% Female", 15, 70, "Medium Fast", "Bug", "Bug", "-------", "-------", 0, (Red false), 0
-60, 69, 95, 36, 69, 95, Bug, Steel, 45, 148, (0, 0, 0, 0, 0, 0), "????????", "Silver Powder", "100% Female", 15, 70, "Medium Fast", "Bug", "Bug", "-------", "-------", 0, (Red false), 0
-70, 60, 70, 85, 87, 78, Grass, Grass, 75, 158, (0, 0, 0, 0, 0, 0), "????????", "Miracle Seed", "50% Male & 50% Female", 20, 70, "Medium Fast", "Fairy", "Grass", "-------", "-------", 0, (Red false), 0
-76, 48, 48, 34, 57, 62, Water, Water, 190, 65, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Water1", "Amorphous", "Sticky Hold", "-------", 0, (Red false), 0
-111, 83, 68, 39, 92, 82, Water, Ground, 75, 166, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Water1", "Amorphous", "Sticky Hold", "-------", 0, (Red false), 0
-50, 65, 107, 86, 105, 107, Electr, Fire, 45, 182, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 20, 70, "Medium Fast", "Amorphous", "Amorphous", "Levitate", "-------", 0, (Red false), 0
-50, 65, 107, 86, 105, 107, Electr, Water, 45, 182, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 20, 70, "Medium Fast", "Amorphous", "Amorphous", "Levitate", "-------", 0, (Red false), 0
-50, 65, 107, 86, 105, 107, Electr, Ice, 45, 182, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 20, 70, "Medium Fast", "Amorphous", "Amorphous", "Levitate", "-------", 0, (Red false), 0
-50, 65, 107, 86, 105, 107, Electr, Flying, 45, 182, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 20, 70, "Medium Fast", "Amorphous", "Amorphous", "Levitate", "-------", 0, (Red false), 0
-50, 65, 107, 86, 105, 107, Electr, Grass, 45, 182, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 20, 70, "Medium Fast", "Amorphous", "Amorphous", "Levitate", "-------", 0, (Red false), 0
-100, 100, 120, 90, 150, 120, Steel, Dragon, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "Pressure", "-------", 0, (Red false), 0
-90, 100, 100, 120, 150, 120, Water, Dragon, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "Pressure", "-------", 0, (Red false), 0
-150, 120, 100, 90, 120, 100, Ghost, Dragon, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
-100, 103, 75, 127, 120, 75, Grass, Flying, 45, 255, (0, 0, 0, 0, 0, 0), "Lum Berry", "Lum Berry", "Genderless", 120, 100, "Medium Slow", "Undiscovered", "Undiscovered", "Serene Grace", "-------", 0, (Red false), 0
-120, 120, 120, 120, 120, 120, Fight, Fight, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-120, 120, 120, 120, 120, 120, Flying, Flying, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-120, 120, 120, 120, 120, 120, Poison, Poison, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-120, 120, 120, 120, 120, 120, Ground, Ground, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-120, 120, 120, 120, 120, 120, Rock, Rock, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-120, 120, 120, 120, 120, 120, Bug, Bug, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-120, 120, 120, 120, 120, 120, Ghost, Ghost, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-120, 120, 120, 120, 120, 120, Steel, Steel, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-120, 120, 120, 120, 120, 120, Fire, Fire, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-120, 120, 120, 120, 120, 120, Water, Water, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-120, 120, 120, 120, 120, 120, Grass, Grass, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-120, 120, 120, 120, 120, 120, Electr, Electr, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-120, 120, 120, 120, 120, 120, Psychc, Psychc, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-120, 120, 120, 120, 120, 120, Ice, Ice, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-120, 120, 120, 120, 120, 120, Dragon, Dragon, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-120, 120, 120, 120, 120, 120, Dark, Dark, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-120, 120, 120, 120, 120, 120, Fairy, Fairy, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-70, 92, 65, 98, 80, 55, Water, Water, 190, 161, (0, 0, 0, 0, 0, 0), "????????", "DeepSeaScale", "50% Male & 50% Female", 40, 70, "Medium Fast", "Water2", "Water2", "Rock Head", "-------", 0, (Red false), 0
-70, 92, 65, 98, 80, 55, Water, Water, 190, 161, (0, 0, 0, 0, 0, 0), "????????", "DeepSeaScale", "50% Male & 50% Female", 40, 70, "Medium Fast", "Water2", "Water2", "-------", "-------", 0, (Red false), 0
-105, 30, 105, 55, 140, 105, Fire, Psychc, 60, 189, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Slow", "Field", "Field", "-------", "-------", 0, (Red false), 0
-105, 160, 55, 135, 30, 55, Ice, Fire, 60, 189, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Slow", "Field", "Field", "-------", "-------", 0, (Red false), 0
-60, 60, 50, 75, 40, 50, Normal, Grass, 190, 67, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "Chlorophyll", "-------", 0, (Red false), 0
-60, 60, 50, 75, 40, 50, Normal, Grass, 190, 67, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "Chlorophyll", "-------", 0, (Red false), 0
-60, 60, 50, 75, 40, 50, Normal, Grass, 190, 67, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "Chlorophyll", "-------", 0, (Red false), 0
-80, 100, 70, 95, 60, 70, Normal, Grass, 75, 166, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "Chlorophyll", "-------", 0, (Red false), 0
-80, 100, 70, 95, 60, 70, Normal, Grass, 75, 166, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "Chlorophyll", "-------", 0, (Red false), 0
-80, 100, 70, 95, 60, 70, Normal, Grass, 75, 166, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "Chlorophyll", "-------", 0, (Red false), 0
-79, 100, 80, 121, 110, 90, Flying, Flying, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Male", 120, 90, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-79, 105, 70, 101, 145, 80, Electr, Flying, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Male", 120, 90, "Slow", "Undiscovered", "Undiscovered", "Volt Absorb", "-------", 0, (Red false), 0
-89, 145, 90, 91, 105, 80, Ground, Flying, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Male", 120, 90, "Slow", "Undiscovered", "Undiscovered", "Intimidate", "-------", 0, (Red false), 0
-74, 115, 110, 46, 135, 100, Fairy, Flying, 3, 116, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 20, 70, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-125, 120, 90, 95, 170, 100, Dragon, Ice, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-125, 170, 100, 95, 120, 90, Dragon, Ice, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-91, 72, 90, 108, 129, 90, Water, Fight, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 80, 35, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-100, 128, 90, 128, 77, 77, Normal, Fight, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 100, "Slow", "Undiscovered", "Undiscovered", "Serene Grace", "-------", 0, (Red false), 0
-71, 120, 95, 99, 120, 95, Bug, Steel, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-71, 120, 95, 99, 120, 95, Bug, Steel, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-71, 120, 95, 99, 120, 95, Bug, Steel, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-71, 120, 95, 99, 120, 95, Bug, Steel, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-72, 95, 67, 122, 103, 71, Water, Dark, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Male", 20, 70, "Medium Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-72, 145, 67, 132, 153, 71, Water, Dark, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Male", 20, 70, "Medium Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+60, 79, 105, 36, 59, 85, Bug, Ground, 45, 148, (0, 0, 2, 0, 0, 0), "????????", "Silver Powder", "100% Female", 15, 70, "Medium Fast", "Bug", "Bug", "-------", "-------", 0, (Red false), 0
+60, 69, 95, 36, 69, 95, Bug, Steel, 45, 148, (0, 0, 1, 0, 0, 0), "????????", "Silver Powder", "100% Female", 15, 70, "Medium Fast", "Bug", "Bug", "-------", "-------", 0, (Red false), 0
+70, 60, 70, 85, 87, 78, Grass, Grass, 75, 158, (0, 0, 0, 0, 2, 0), "????????", "Miracle Seed", "50% Male & 50% Female", 20, 70, "Medium Fast", "Fairy", "Grass", "-------", "-------", 0, (Red false), 0
+76, 48, 48, 34, 57, 62, Water, Water, 190, 65, (1, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Water1", "Amorphous", "Sticky Hold", "-------", 0, (Red false), 0
+111, 83, 68, 39, 92, 82, Water, Ground, 75, 166, (2, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Water1", "Amorphous", "Sticky Hold", "-------", 0, (Red false), 0
+50, 65, 107, 86, 105, 107, Electr, Fire, 45, 182, (0, 0, 0, 1, 1, 1), "????????", "????????", "Genderless", 20, 70, "Medium Fast", "Amorphous", "Amorphous", "Levitate", "-------", 0, (Red false), 0
+50, 65, 107, 86, 105, 107, Electr, Water, 45, 182, (0, 0, 0, 1, 1, 1), "????????", "????????", "Genderless", 20, 70, "Medium Fast", "Amorphous", "Amorphous", "Levitate", "-------", 0, (Red false), 0
+50, 65, 107, 86, 105, 107, Electr, Ice, 45, 182, (0, 0, 0, 1, 1, 1), "????????", "????????", "Genderless", 20, 70, "Medium Fast", "Amorphous", "Amorphous", "Levitate", "-------", 0, (Red false), 0
+50, 65, 107, 86, 105, 107, Electr, Flying, 45, 182, (0, 0, 0, 1, 1, 1), "????????", "????????", "Genderless", 20, 70, "Medium Fast", "Amorphous", "Amorphous", "Levitate", "-------", 0, (Red false), 0
+50, 65, 107, 86, 105, 107, Electr, Grass, 45, 182, (0, 0, 0, 1, 1, 1), "????????", "????????", "Genderless", 20, 70, "Medium Fast", "Amorphous", "Amorphous", "Levitate", "-------", 0, (Red false), 0
+100, 100, 120, 90, 150, 120, Steel, Dragon, 3, 255, (0, 0, 0, 0, 3, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "Pressure", "-------", 0, (Red false), 0
+90, 100, 100, 120, 150, 120, Water, Dragon, 3, 255, (0, 0, 0, 0, 3, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "Pressure", "-------", 0, (Red false), 0
+150, 120, 100, 90, 120, 100, Ghost, Dragon, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "Levitate", "-------", 0, (Red false), 0
+100, 103, 75, 127, 120, 75, Grass, Flying, 45, 255, (0, 0, 0, 3, 0, 3), "Lum Berry", "Lum Berry", "Genderless", 120, 100, "Medium Slow", "Undiscovered", "Undiscovered", "Serene Grace", "-------", 0, (Red false), 0
+120, 120, 120, 120, 120, 120, Fight, Fight, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+120, 120, 120, 120, 120, 120, Flying, Flying, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+120, 120, 120, 120, 120, 120, Poison, Poison, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+120, 120, 120, 120, 120, 120, Ground, Ground, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+120, 120, 120, 120, 120, 120, Rock, Rock, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+120, 120, 120, 120, 120, 120, Bug, Bug, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+120, 120, 120, 120, 120, 120, Ghost, Ghost, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+120, 120, 120, 120, 120, 120, Steel, Steel, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+120, 120, 120, 120, 120, 120, Fire, Fire, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+120, 120, 120, 120, 120, 120, Water, Water, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+120, 120, 120, 120, 120, 120, Grass, Grass, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+120, 120, 120, 120, 120, 120, Electr, Electr, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+120, 120, 120, 120, 120, 120, Psychc, Psychc, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+120, 120, 120, 120, 120, 120, Ice, Ice, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+120, 120, 120, 120, 120, 120, Dragon, Dragon, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+120, 120, 120, 120, 120, 120, Dark, Dark, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+120, 120, 120, 120, 120, 120, Fairy, Fairy, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+70, 92, 65, 98, 80, 55, Water, Water, 190, 161, (0, 0, 0, 2, 0, 2), "????????", "DeepSeaScale", "50% Male & 50% Female", 40, 70, "Medium Fast", "Water2", "Water2", "Rock Head", "-------", 0, (Red false), 0
+70, 92, 65, 98, 80, 55, Water, Water, 190, 161, (0, 0, 0, 2, 0, 2), "????????", "DeepSeaScale", "50% Male & 50% Female", 40, 70, "Medium Fast", "Water2", "Water2", "-------", "-------", 0, (Red false), 0
+105, 30, 105, 55, 140, 105, Fire, Psychc, 60, 189, (0, 0, 0, 0, 2, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Slow", "Field", "Field", "-------", "-------", 0, (Red false), 0
+105, 160, 55, 135, 30, 55, Ice, Fire, 60, 189, (0, 0, 0, 0, 2, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Slow", "Field", "Field", "-------", "-------", 0, (Red false), 0
+60, 60, 50, 75, 40, 50, Normal, Grass, 190, 67, (0, 0, 0, 1, 0, 1), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "Chlorophyll", "-------", 0, (Red false), 0
+60, 60, 50, 75, 40, 50, Normal, Grass, 190, 67, (0, 0, 0, 1, 0, 1), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "Chlorophyll", "-------", 0, (Red false), 0
+60, 60, 50, 75, 40, 50, Normal, Grass, 190, 67, (0, 0, 0, 1, 0, 1), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "Chlorophyll", "-------", 0, (Red false), 0
+80, 100, 70, 95, 60, 70, Normal, Grass, 75, 166, (0, 2, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "Chlorophyll", "-------", 0, (Red false), 0
+80, 100, 70, 95, 60, 70, Normal, Grass, 75, 166, (0, 2, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "Chlorophyll", "-------", 0, (Red false), 0
+80, 100, 70, 95, 60, 70, Normal, Grass, 75, 166, (0, 2, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "Chlorophyll", "-------", 0, (Red false), 0
+79, 100, 80, 121, 110, 90, Flying, Flying, 3, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "100% Male", 120, 90, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+79, 105, 70, 101, 145, 80, Electr, Flying, 3, 255, (0, 0, 0, 0, 3, 0), "????????", "????????", "100% Male", 120, 90, "Slow", "Undiscovered", "Undiscovered", "Volt Absorb", "-------", 0, (Red false), 0
+89, 145, 90, 91, 105, 80, Ground, Flying, 3, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "100% Male", 120, 90, "Slow", "Undiscovered", "Undiscovered", "Intimidate", "-------", 0, (Red false), 0
+74, 115, 110, 46, 135, 100, Fairy, Flying, 3, 116, (0, 0, 0, 0, 3, 0), "????????", "????????", "100% Female", 20, 70, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+125, 120, 90, 95, 170, 100, Dragon, Ice, 3, 255, (0, 0, 0, 0, 3, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+125, 170, 100, 95, 120, 90, Dragon, Ice, 3, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+91, 72, 90, 108, 129, 90, Water, Fight, 3, 255, (0, 0, 0, 0, 3, 0), "????????", "????????", "Genderless", 80, 35, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+100, 128, 90, 128, 77, 77, Normal, Fight, 3, 255, (0, 1, 1, 1, 0, 1), "????????", "????????", "Genderless", 120, 100, "Slow", "Undiscovered", "Undiscovered", "Serene Grace", "-------", 0, (Red false), 0
+71, 120, 95, 99, 120, 95, Bug, Steel, 3, 255, (0, 1, 0, 1, 1, 1), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+71, 120, 95, 99, 120, 95, Bug, Steel, 3, 255, (0, 1, 0, 1, 1, 1), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+71, 120, 95, 99, 120, 95, Bug, Steel, 3, 255, (0, 1, 0, 1, 1, 1), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+71, 120, 95, 99, 120, 95, Bug, Steel, 3, 255, (0, 1, 0, 1, 1, 1), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+72, 95, 67, 122, 103, 71, Water, Dark, 45, 255, (0, 0, 0, 3, 0, 3), "????????", "????????", "100% Male", 20, 70, "Medium Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+72, 145, 67, 132, 153, 71, Water, Dark, 45, 255, (0, 0, 0, 3, 0, 3), "????????", "????????", "100% Male", 20, 70, "Medium Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (1, 0, 0, 1, 1, 1), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (1, 0, 0, 1, 1, 1), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (1, 0, 0, 1, 1, 1), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (1, 0, 0, 1, 1, 1), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (1, 0, 0, 1, 1, 1), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (1, 0, 0, 1, 1, 1), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (1, 0, 0, 1, 1, 1), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (1, 0, 0, 1, 1, 1), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (1, 0, 0, 1, 1, 1), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (1, 0, 0, 1, 1, 1), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (1, 0, 0, 1, 1, 1), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (1, 0, 0, 1, 1, 1), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (1, 0, 0, 1, 1, 1), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (1, 0, 0, 1, 1, 1), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (1, 0, 0, 1, 1, 1), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (1, 0, 0, 1, 1, 1), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (1, 0, 0, 1, 1, 1), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (1, 0, 0, 1, 1, 1), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+80, 52, 50, 89, 90, 50, Bug, Flying, 45, 206, (1, 0, 0, 1, 1, 1), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
 44, 38, 39, 42, 61, 79, Fairy, Fairy, 225, 61, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 20, 70, "Medium Fast", "Fairy", "Fairy", "-------", "-------", 0, (Red false), 0
 44, 38, 39, 42, 61, 79, Fairy, Fairy, 225, 61, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 20, 70, "Medium Fast", "Fairy", "Fairy", "-------", "-------", 0, (Red false), 0
 44, 38, 39, 42, 61, 79, Fairy, Fairy, 225, 61, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 20, 70, "Medium Fast", "Fairy", "Fairy", "-------", "-------", 0, (Red false), 0
@@ -1143,76 +1143,76 @@
 78, 65, 68, 75, 112, 154, Fairy, Fairy, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 20, 70, "Medium Fast", "Fairy", "Fairy", "-------", "-------", 0, (Red false), 0
 78, 65, 68, 75, 112, 154, Fairy, Fairy, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 20, 70, "Medium Fast", "Fairy", "Fairy", "-------", "-------", 0, (Red false), 0
 78, 65, 68, 75, 112, 154, Fairy, Fairy, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 20, 70, "Medium Fast", "Fairy", "Fairy", "-------", "-------", 0, (Red false), 0
-75, 80, 60, 102, 65, 90, Normal, Normal, 160, 165, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
-75, 80, 60, 102, 65, 90, Normal, Normal, 160, 165, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
-75, 80, 60, 102, 65, 90, Normal, Normal, 160, 165, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
-75, 80, 60, 102, 65, 90, Normal, Normal, 160, 165, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
-75, 80, 60, 102, 65, 90, Normal, Normal, 160, 165, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
-75, 80, 60, 102, 65, 90, Normal, Normal, 160, 165, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
-75, 80, 60, 102, 65, 90, Normal, Normal, 160, 165, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
-75, 80, 60, 102, 65, 90, Normal, Normal, 160, 165, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
-75, 80, 60, 102, 65, 90, Normal, Normal, 160, 165, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
-74, 48, 76, 104, 83, 81, Psychc, Psychc, 75, 163, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 20, 70, "Medium Fast", "Field", "Field", "Keen Eye", "-------", 0, (Red false), 0
-60, 140, 50, 60, 140, 50, Steel, Ghost, 45, 250, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
-44, 66, 70, 56, 44, 55, Ghost, Grass, 120, 67, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Amorphous", "Amorphous", "Pickup", "-------", 0, (Red false), 0
-54, 66, 70, 46, 44, 55, Ghost, Grass, 120, 67, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Amorphous", "Amorphous", "Pickup", "-------", 0, (Red false), 0
-59, 66, 70, 41, 44, 55, Ghost, Grass, 120, 67, (0, 0, 0, 0, 0, 0), "Miracle Seed", "Miracle Seed", "50% Male & 50% Female", 20, 70, "Medium Fast", "Amorphous", "Amorphous", "Pickup", "-------", 0, (Red false), 0
-55, 85, 122, 99, 58, 75, Ghost, Grass, 60, 173, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Amorphous", "Amorphous", "Pickup", "-------", 0, (Red false), 0
-75, 95, 122, 69, 58, 75, Ghost, Grass, 60, 173, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Amorphous", "Amorphous", "Pickup", "-------", 0, (Red false), 0
-85, 100, 122, 54, 58, 75, Ghost, Grass, 60, 173, (0, 0, 0, 0, 0, 0), "Miracle Seed", "Miracle Seed", "50% Male & 50% Female", 20, 70, "Medium Fast", "Amorphous", "Amorphous", "Pickup", "-------", 0, (Red false), 0
-126, 131, 95, 99, 131, 98, Fairy, Fairy, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-54, 100, 71, 115, 61, 85, Dragon, Ground, 3, 243, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-54, 100, 71, 115, 61, 85, Dragon, Ground, 3, 243, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-108, 100, 121, 95, 81, 95, Dragon, Ground, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-216, 100, 121, 85, 91, 95, Dragon, Ground, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-80, 160, 60, 80, 170, 130, Psychc, Dark, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 70, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-75, 70, 70, 93, 98, 70, Electr, Flying, 45, 167, (0, 0, 0, 0, 0, 0), "????????", "????????", "75% Female", 20, 70, "Medium Fast", "Flying", "Flying", "-------", "-------", 0, (Red false), 0
-75, 70, 70, 93, 98, 70, Psychc, Flying, 45, 167, (0, 0, 0, 0, 0, 0), "????????", "????????", "75% Female", 20, 70, "Medium Fast", "Flying", "Flying", "-------", "-------", 0, (Red false), 0
-75, 70, 70, 93, 98, 70, Ghost, Flying, 45, 167, (0, 0, 0, 0, 0, 0), "????????", "????????", "75% Female", 20, 70, "Medium Fast", "Flying", "Flying", "-------", "-------", 0, (Red false), 0
-45, 65, 40, 60, 30, 40, Rock, Rock, 190, 56, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Field", "Field", "Own Tempo", "-------", 0, (Red false), 0
-85, 115, 75, 82, 55, 75, Rock, Rock, 90, 170, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Field", "Field", "Keen Eye", "Vital Spirit", 0, (Red false), 0
-75, 117, 65, 110, 55, 65, Rock, Rock, 90, 170, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
-45, 140, 130, 30, 140, 135, Water, Water, 60, 217, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Fast", "Water2", "Water2", "-------", "-------", 0, (Red false), 0
-95, 95, 95, 95, 95, 95, Fight, Fight, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-95, 95, 95, 95, 95, 95, Flying, Flying, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-95, 95, 95, 95, 95, 95, Poison, Poison, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-95, 95, 95, 95, 95, 95, Ground, Ground, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-95, 95, 95, 95, 95, 95, Rock, Rock, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-95, 95, 95, 95, 95, 95, Bug, Bug, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-95, 95, 95, 95, 95, 95, Ghost, Ghost, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-95, 95, 95, 95, 95, 95, Steel, Steel, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-95, 95, 95, 95, 95, 95, Fire, Fire, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-95, 95, 95, 95, 95, 95, Water, Water, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-95, 95, 95, 95, 95, 95, Grass, Grass, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-95, 95, 95, 95, 95, 95, Electr, Electr, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-95, 95, 95, 95, 95, 95, Psychc, Psychc, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-95, 95, 95, 95, 95, 95, Ice, Ice, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-95, 95, 95, 95, 95, 95, Dragon, Dragon, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-95, 95, 95, 95, 95, 95, Dark, Dark, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-95, 95, 95, 95, 95, 95, Fairy, Fairy, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-60, 60, 100, 60, 60, 100, Rock, Flying, 30, 154, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 25, 70, "Medium Slow", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
-60, 60, 100, 60, 60, 100, Rock, Flying, 30, 154, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 25, 70, "Medium Slow", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
-60, 60, 100, 60, 60, 100, Rock, Flying, 30, 154, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 25, 70, "Medium Slow", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
-60, 60, 100, 60, 60, 100, Rock, Flying, 30, 154, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 25, 70, "Medium Slow", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
-60, 60, 100, 60, 60, 100, Rock, Flying, 30, 154, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 25, 70, "Medium Slow", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
-60, 60, 100, 60, 60, 100, Rock, Flying, 30, 154, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 25, 70, "Medium Slow", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
-60, 100, 60, 120, 100, 60, Rock, Flying, 30, 154, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 25, 70, "Medium Slow", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
-60, 100, 60, 120, 100, 60, Rock, Flying, 30, 154, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 25, 70, "Medium Slow", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
-60, 100, 60, 120, 100, 60, Rock, Flying, 30, 154, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 25, 70, "Medium Slow", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
-60, 100, 60, 120, 100, 60, Rock, Flying, 30, 154, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 25, 70, "Medium Slow", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
-60, 100, 60, 120, 100, 60, Rock, Flying, 30, 154, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 25, 70, "Medium Slow", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
-60, 100, 60, 120, 100, 60, Rock, Flying, 30, 154, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 25, 70, "Medium Slow", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
-60, 100, 60, 120, 100, 60, Rock, Flying, 30, 154, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 25, 70, "Medium Slow", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
+75, 80, 60, 102, 65, 90, Normal, Normal, 160, 165, (0, 0, 0, 1, 0, 1), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
+75, 80, 60, 102, 65, 90, Normal, Normal, 160, 165, (0, 0, 0, 1, 0, 1), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
+75, 80, 60, 102, 65, 90, Normal, Normal, 160, 165, (0, 0, 0, 1, 0, 1), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
+75, 80, 60, 102, 65, 90, Normal, Normal, 160, 165, (0, 0, 0, 1, 0, 1), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
+75, 80, 60, 102, 65, 90, Normal, Normal, 160, 165, (0, 0, 0, 1, 0, 1), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
+75, 80, 60, 102, 65, 90, Normal, Normal, 160, 165, (0, 0, 0, 1, 0, 1), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
+75, 80, 60, 102, 65, 90, Normal, Normal, 160, 165, (0, 0, 0, 1, 0, 1), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
+75, 80, 60, 102, 65, 90, Normal, Normal, 160, 165, (0, 0, 0, 1, 0, 1), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
+75, 80, 60, 102, 65, 90, Normal, Normal, 160, 165, (0, 0, 0, 1, 0, 1), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
+74, 48, 76, 104, 83, 81, Psychc, Psychc, 75, 163, (0, 0, 0, 2, 0, 2), "????????", "????????", "100% Female", 20, 70, "Medium Fast", "Field", "Field", "Keen Eye", "-------", 0, (Red false), 0
+60, 140, 50, 60, 140, 50, Steel, Ghost, 45, 250, (0, 2, 0, 0, 1, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
+44, 66, 70, 56, 44, 55, Ghost, Grass, 120, 67, (0, 0, 1, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Amorphous", "Amorphous", "Pickup", "-------", 0, (Red false), 0
+54, 66, 70, 46, 44, 55, Ghost, Grass, 120, 67, (0, 0, 1, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Amorphous", "Amorphous", "Pickup", "-------", 0, (Red false), 0
+59, 66, 70, 41, 44, 55, Ghost, Grass, 120, 67, (0, 0, 1, 0, 0, 0), "Miracle Seed", "Miracle Seed", "50% Male & 50% Female", 20, 70, "Medium Fast", "Amorphous", "Amorphous", "Pickup", "-------", 0, (Red false), 0
+55, 85, 122, 99, 58, 75, Ghost, Grass, 60, 173, (0, 0, 2, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Amorphous", "Amorphous", "Pickup", "-------", 0, (Red false), 0
+75, 95, 122, 69, 58, 75, Ghost, Grass, 60, 173, (0, 0, 2, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Amorphous", "Amorphous", "Pickup", "-------", 0, (Red false), 0
+85, 100, 122, 54, 58, 75, Ghost, Grass, 60, 173, (0, 0, 2, 0, 0, 0), "Miracle Seed", "Miracle Seed", "50% Male & 50% Female", 20, 70, "Medium Fast", "Amorphous", "Amorphous", "Pickup", "-------", 0, (Red false), 0
+126, 131, 95, 99, 131, 98, Fairy, Fairy, 45, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+54, 100, 71, 115, 61, 85, Dragon, Ground, 3, 243, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+54, 100, 71, 115, 61, 85, Dragon, Ground, 3, 243, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+108, 100, 121, 95, 81, 95, Dragon, Ground, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+216, 100, 121, 85, 91, 95, Dragon, Ground, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+80, 160, 60, 80, 170, 130, Psychc, Dark, 3, 255, (0, 0, 0, 0, 3, 0), "????????", "????????", "Genderless", 120, 70, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+75, 70, 70, 93, 98, 70, Electr, Flying, 45, 167, (0, 0, 0, 0, 2, 0), "????????", "????????", "75% Female", 20, 70, "Medium Fast", "Flying", "Flying", "-------", "-------", 0, (Red false), 0
+75, 70, 70, 93, 98, 70, Psychc, Flying, 45, 167, (0, 0, 0, 0, 2, 0), "????????", "????????", "75% Female", 20, 70, "Medium Fast", "Flying", "Flying", "-------", "-------", 0, (Red false), 0
+75, 70, 70, 93, 98, 70, Ghost, Flying, 45, 167, (0, 0, 0, 0, 2, 0), "????????", "????????", "75% Female", 20, 70, "Medium Fast", "Flying", "Flying", "-------", "-------", 0, (Red false), 0
+45, 65, 40, 60, 30, 40, Rock, Rock, 190, 56, (0, 1, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Field", "Field", "Own Tempo", "-------", 0, (Red false), 0
+85, 115, 75, 82, 55, 75, Rock, Rock, 90, 170, (0, 2, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Field", "Field", "Keen Eye", "Vital Spirit", 0, (Red false), 0
+75, 117, 65, 110, 55, 65, Rock, Rock, 90, 170, (0, 2, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
+45, 140, 130, 30, 140, 135, Water, Water, 60, 217, (1, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Fast", "Water2", "Water2", "-------", "-------", 0, (Red false), 0
+95, 95, 95, 95, 95, 95, Fight, Fight, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+95, 95, 95, 95, 95, 95, Flying, Flying, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+95, 95, 95, 95, 95, 95, Poison, Poison, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+95, 95, 95, 95, 95, 95, Ground, Ground, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+95, 95, 95, 95, 95, 95, Rock, Rock, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+95, 95, 95, 95, 95, 95, Bug, Bug, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+95, 95, 95, 95, 95, 95, Ghost, Ghost, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+95, 95, 95, 95, 95, 95, Steel, Steel, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+95, 95, 95, 95, 95, 95, Fire, Fire, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+95, 95, 95, 95, 95, 95, Water, Water, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+95, 95, 95, 95, 95, 95, Grass, Grass, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+95, 95, 95, 95, 95, 95, Electr, Electr, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+95, 95, 95, 95, 95, 95, Psychc, Psychc, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+95, 95, 95, 95, 95, 95, Ice, Ice, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+95, 95, 95, 95, 95, 95, Dragon, Dragon, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+95, 95, 95, 95, 95, 95, Dark, Dark, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+95, 95, 95, 95, 95, 95, Fairy, Fairy, 3, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+60, 60, 100, 60, 60, 100, Rock, Flying, 30, 154, (0, 0, 1, 0, 0, 0), "????????", "????????", "Genderless", 25, 70, "Medium Slow", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
+60, 60, 100, 60, 60, 100, Rock, Flying, 30, 154, (0, 0, 1, 0, 0, 0), "????????", "????????", "Genderless", 25, 70, "Medium Slow", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
+60, 60, 100, 60, 60, 100, Rock, Flying, 30, 154, (0, 0, 1, 0, 0, 0), "????????", "????????", "Genderless", 25, 70, "Medium Slow", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
+60, 60, 100, 60, 60, 100, Rock, Flying, 30, 154, (0, 0, 1, 0, 0, 0), "????????", "????????", "Genderless", 25, 70, "Medium Slow", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
+60, 60, 100, 60, 60, 100, Rock, Flying, 30, 154, (0, 0, 1, 0, 0, 0), "????????", "????????", "Genderless", 25, 70, "Medium Slow", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
+60, 60, 100, 60, 60, 100, Rock, Flying, 30, 154, (0, 0, 1, 0, 0, 0), "????????", "????????", "Genderless", 25, 70, "Medium Slow", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
+60, 100, 60, 120, 100, 60, Rock, Flying, 30, 154, (0, 0, 1, 0, 0, 0), "????????", "????????", "Genderless", 25, 70, "Medium Slow", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
+60, 100, 60, 120, 100, 60, Rock, Flying, 30, 154, (0, 0, 1, 0, 0, 0), "????????", "????????", "Genderless", 25, 70, "Medium Slow", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
+60, 100, 60, 120, 100, 60, Rock, Flying, 30, 154, (0, 0, 1, 0, 0, 0), "????????", "????????", "Genderless", 25, 70, "Medium Slow", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
+60, 100, 60, 120, 100, 60, Rock, Flying, 30, 154, (0, 0, 1, 0, 0, 0), "????????", "????????", "Genderless", 25, 70, "Medium Slow", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
+60, 100, 60, 120, 100, 60, Rock, Flying, 30, 154, (0, 0, 1, 0, 0, 0), "????????", "????????", "Genderless", 25, 70, "Medium Slow", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
+60, 100, 60, 120, 100, 60, Rock, Flying, 30, 154, (0, 0, 1, 0, 0, 0), "????????", "????????", "Genderless", 25, 70, "Medium Slow", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
+60, 100, 60, 120, 100, 60, Rock, Flying, 30, 154, (0, 0, 1, 0, 0, 0), "????????", "????????", "Genderless", 25, 70, "Medium Slow", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
 55, 90, 80, 96, 50, 105, Ghost, Fairy, 45, 167, (0, 0, 0, 0, 0, 0), "????????", "Chesto Berry", "50% Male & 50% Female", 20, 70, "Medium Fast", "Amorphous", "Amorphous", "-------", "-------", 0, (Red false), 0
-97, 157, 127, 77, 113, 109, Psychc, Steel, 255, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-97, 113, 109, 77, 157, 127, Psychc, Ghost, 255, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-97, 167, 97, 129, 167, 97, Psychc, Dragon, 255, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-80, 95, 115, 65, 130, 115, Steel, Fairy, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+97, 157, 127, 77, 113, 109, Psychc, Steel, 255, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+97, 113, 109, 77, 157, 127, Psychc, Ghost, 255, 255, (0, 0, 0, 0, 3, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+97, 167, 97, 129, 167, 97, Psychc, Dragon, 255, 255, (0, 1, 0, 1, 1, 1), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+80, 95, 115, 65, 130, 115, Steel, Fairy, 3, 255, (0, 0, 0, 0, 3, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
 70, 85, 55, 85, 85, 95, Flying, Water, 45, 166, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Water1", "Flying", "-------", "-------", 0, (Red false), 0
 70, 85, 55, 85, 85, 95, Flying, Water, 45, 166, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Water1", "Flying", "-------", "-------", 0, (Red false), 0
-75, 98, 70, 75, 114, 70, Electr, Poison, 45, 176, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 25, 70, "Medium Slow", "Human-Like", "Human-Like", "-------", "Minus", 0, (Red false), 0
-40, 45, 45, 50, 74, 54, Ghost, Ghost, 120, 62, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 20, 70, "Medium Fast", "Mineral", "Amorphous", "-------", "-------", 0, (Red false), 0
-60, 65, 65, 70, 134, 114, Ghost, Ghost, 60, 178, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 20, 70, "Medium Fast", "Mineral", "Amorphous", "-------", "-------", 0, (Red false), 0
+75, 98, 70, 75, 114, 70, Electr, Poison, 45, 176, (0, 0, 0, 0, 2, 0), "????????", "????????", "50% Male & 50% Female", 25, 70, "Medium Slow", "Human-Like", "Human-Like", "-------", "Minus", 0, (Red false), 0
+40, 45, 45, 50, 74, 54, Ghost, Ghost, 120, 62, (0, 0, 0, 0, 1, 0), "????????", "????????", "Genderless", 20, 70, "Medium Fast", "Mineral", "Amorphous", "-------", "-------", 0, (Red false), 0
+60, 65, 65, 70, 134, 114, Ghost, Ghost, 60, 178, (0, 0, 0, 0, 2, 0), "????????", "????????", "Genderless", 20, 70, "Medium Fast", "Mineral", "Amorphous", "-------", "-------", 0, (Red false), 0
 65, 60, 75, 64, 110, 121, Fairy, Fairy, 100, 173, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 20, 70, "Medium Fast", "Fairy", "Amorphous", "-------", "-------", 0, (Red false), 0
 65, 60, 75, 64, 110, 121, Fairy, Fairy, 100, 173, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 20, 70, "Medium Fast", "Fairy", "Amorphous", "-------", "-------", 0, (Red false), 0
 65, 60, 75, 64, 110, 121, Fairy, Fairy, 100, 173, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 20, 70, "Medium Fast", "Fairy", "Amorphous", "-------", "-------", 0, (Red false), 0
@@ -1221,17 +1221,17 @@
 65, 60, 75, 64, 110, 121, Fairy, Fairy, 100, 173, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 20, 70, "Medium Fast", "Fairy", "Amorphous", "-------", "-------", 0, (Red false), 0
 65, 60, 75, 64, 110, 121, Fairy, Fairy, 100, 173, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 20, 70, "Medium Fast", "Fairy", "Amorphous", "-------", "-------", 0, (Red false), 0
 65, 60, 75, 64, 110, 121, Fairy, Fairy, 100, 173, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 20, 70, "Medium Fast", "Fairy", "Amorphous", "-------", "-------", 0, (Red false), 0
-75, 80, 70, 130, 65, 50, Ice, Ice, 60, 165, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 25, 70, "Slow", "Water1", "Field", "-------", "-------", 0, (Red false), 0
+75, 80, 70, 130, 65, 50, Ice, Ice, 60, 165, (0, 0, 2, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 25, 70, "Slow", "Water1", "Field", "-------", "-------", 0, (Red false), 0
 70, 55, 65, 85, 95, 105, Psychc, Normal, 30, 166, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 40, 140, "Fast", "Fairy", "Fairy", "Own Tempo", "Synchronize", 0, (Red false), 0
-58, 95, 58, 97, 70, 58, Electr, Dark, 180, 153, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 10, 70, "Medium Fast", "Field", "Fairy", "-------", "-------", 0, (Red false), 0
-92, 150, 115, 148, 80, 115, Fairy, Steel, 10, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-92, 120, 140, 128, 80, 140, Fight, Steel, 10, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-255, 115, 250, 130, 125, 250, Poison, Dragon, 255, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "Pressure", "-------", 0, (Red false), 0
-100, 130, 100, 97, 63, 60, Fight, Water, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "87% Male", 120, 70, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-105, 120, 105, 105, 70, 95, Dark, Grass, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-100, 165, 150, 50, 85, 130, Psychc, Ice, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 100, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-100, 85, 80, 150, 165, 100, Psychc, Ghost, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 100, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-120, 92, 65, 78, 100, 75, Water, Ghost, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 20, 70, "Medium Fast", "Water2", "Water2", "Swift Swim", "-------", 0, (Red false), 0
+58, 95, 58, 97, 70, 58, Electr, Dark, 180, 153, (0, 0, 0, 2, 0, 2), "????????", "????????", "50% Male & 50% Female", 10, 70, "Medium Fast", "Field", "Fairy", "-------", "-------", 0, (Red false), 0
+92, 150, 115, 148, 80, 115, Fairy, Steel, 10, 255, (0, 0, 0, 3, 0, 3), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+92, 120, 140, 128, 80, 140, Fight, Steel, 10, 255, (0, 0, 0, 3, 0, 3), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+255, 115, 250, 130, 125, 250, Poison, Dragon, 255, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "Pressure", "-------", 0, (Red false), 0
+100, 130, 100, 97, 63, 60, Fight, Water, 3, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "87% Male", 120, 70, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+105, 120, 105, 105, 70, 95, Dark, Grass, 3, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+100, 165, 150, 50, 85, 130, Psychc, Ice, 3, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 100, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+100, 85, 80, 150, 165, 100, Psychc, Ghost, 3, 255, (0, 0, 0, 0, 3, 0), "????????", "????????", "Genderless", 120, 100, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+120, 92, 65, 78, 100, 75, Water, Ghost, 45, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 20, 70, "Medium Fast", "Water2", "Water2", "Swift Swim", "-------", 0, (Red false), 0
 65, 60, 75, 64, 110, 121, Fairy, Fairy, 100, 173, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 20, 70, "Medium Fast", "Fairy", "Amorphous", "-------", "-------", 0, (Red false), 0
 65, 60, 75, 64, 110, 121, Fairy, Fairy, 100, 173, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 20, 70, "Medium Fast", "Fairy", "Amorphous", "-------", "-------", 0, (Red false), 0
 65, 60, 75, 64, 110, 121, Fairy, Fairy, 100, 173, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 20, 70, "Medium Fast", "Fairy", "Amorphous", "-------", "-------", 0, (Red false), 0
@@ -1297,7 +1297,7 @@
 85, 120, 80, 85, 85, 75, Water, Fight, 45, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "87% Male", 20, 70, "Medium Slow", "Flying", "Water1", "Torrent", "-------", 0, (Red false), 0
 54, 45, 40, 35, 35, 45, Normal, Normal, 255, 51, (1, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
 110, 100, 75, 65, 59, 80, Normal, Normal, 100, 171, (2, 0, 0, 0, 0, 0), "????????", "????????", "100% Male", 15, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
-115, 90, 70, 65, 59, 90, Normal, Normal, 100, 171, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 15, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
+115, 90, 70, 65, 59, 90, Normal, Normal, 100, 171, (2, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 15, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
 35, 41, 45, 20, 29, 40, Bug, Bug, 255, 42, (0, 0, 1, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Erratic", "Bug", "Bug", "Insomnia", "-------", 0, (Red false), 0
 60, 79, 92, 35, 52, 86, Bug, Bug, 120, 141, (0, 0, 2, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Erratic", "Bug", "Bug", "Insomnia", "-------", 0, (Red false), 0
 33, 46, 40, 45, 21, 25, Bug, Bug, 190, 42, (0, 1, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 20, "Medium Fast", "Bug", "Bug", "Swarm", "-------", 0, (Red false), 0
@@ -1307,16 +1307,16 @@
 70, 115, 70, 105, 70, 60, Electr, Fight, 45, 245, (0, 3, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Field", "Field", "Volt Absorb", "Natural Cure", 0, (Red false), 0
 50, 50, 45, 75, 40, 45, Normal, Normal, 150, 61, (0, 0, 0, 1, 0, 1), "????????", "????????", "Genderless", 10, 70, "Fast", "Field", "Fairy", "Run Away", "Pickup", 0, (Red false), 0
 74, 75, 70, 111, 65, 75, Normal, Normal, 75, 165, (0, 0, 0, 2, 0, 2), "????????", "????????", "Genderless", 10, 70, "Fast", "Field", "Fairy", "-------", "-------", 0, (Red false), 0
-74, 75, 70, 111, 65, 75, Normal, Normal, 75, 165, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 10, 70, "Fast", "Field", "Fairy", "-------", "-------", 0, (Red false), 0
+74, 75, 70, 111, 65, 75, Normal, Normal, 75, 165, (0, 0, 0, 2, 0, 2), "????????", "????????", "Genderless", 10, 70, "Fast", "Field", "Fairy", "-------", "-------", 0, (Red false), 0
 37, 55, 70, 65, 30, 55, Fairy, Fairy, 190, 62, (0, 0, 0, 1, 0, 1), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Slow", "Field", "Mineral", "Own Tempo", "-------", 0, (Red false), 0
 57, 80, 115, 95, 50, 80, Fairy, Fairy, 90, 167, (0, 0, 0, 2, 0, 2), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Slow", "Field", "Mineral", "-------", "-------", 0, (Red false), 0
 41, 35, 45, 30, 58, 51, Grass, Normal, 255, 52, (0, 0, 0, 0, 1, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Slow", "Grass", "Grass", "Early Bird", "-------", 0, (Red false), 0
 52, 53, 60, 33, 78, 78, Grass, Normal, 120, 124, (0, 0, 0, 0, 2, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Slow", "Grass", "Grass", "Early Bird", "-------", 0, (Red false), 0
 78, 69, 90, 39, 125, 109, Grass, Normal, 45, 255, (0, 0, 0, 0, 3, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Slow", "Grass", "Grass", "-------", "-------", 0, (Red false), 0
 82, 96, 51, 92, 45, 51, Normal, Flying, 190, 146, (0, 1, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Erratic", "Flying", "Flying", "Intimidate", "Hustle", 0, (Red false), 0
-82, 96, 51, 92, 45, 51, Normal, Flying, 190, 146, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Erratic", "Flying", "Flying", "Intimidate", "Hustle", 0, (Red false), 0
-82, 96, 51, 92, 45, 51, Normal, Flying, 190, 146, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Erratic", "Flying", "Flying", "Intimidate", "Hustle", 0, (Red false), 0
-82, 96, 51, 92, 45, 51, Normal, Flying, 190, 146, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Erratic", "Flying", "Flying", "Intimidate", "Hustle", 0, (Red false), 0
+82, 96, 51, 92, 45, 51, Normal, Flying, 190, 146, (0, 1, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Erratic", "Flying", "Flying", "Intimidate", "Hustle", 0, (Red false), 0
+82, 96, 51, 92, 45, 51, Normal, Flying, 190, 146, (0, 1, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Erratic", "Flying", "Flying", "Intimidate", "Hustle", 0, (Red false), 0
+82, 96, 51, 92, 45, 51, Normal, Flying, 190, 146, (0, 1, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Erratic", "Flying", "Flying", "Intimidate", "Hustle", 0, (Red false), 0
 55, 55, 75, 25, 35, 35, Rock, Rock, 255, 56, (0, 0, 1, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Slow", "Mineral", "Mineral", "-------", "Sturdy", 0, (Red false), 0
 60, 60, 100, 35, 35, 65, Rock, Rock, 120, 124, (0, 0, 2, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Slow", "Mineral", "Mineral", "-------", "Sturdy", 0, (Red false), 0
 100, 100, 130, 35, 45, 90, Rock, Rock, 45, 250, (0, 0, 3, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Slow", "Mineral", "Mineral", "-------", "Sturdy", 0, (Red false), 0
@@ -1350,7 +1350,7 @@
 70, 103, 85, 82, 60, 85, Flying, Dark, 25, 243, (0, 2, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 35, 70, "Slow", "Flying", "Flying", "-------", "Keen Eye", 0, (Red false), 0
 70, 45, 40, 75, 45, 40, Water, Water, 200, 63, (0, 0, 0, 1, 0, 1), "????????", "????????", "50% Male & 50% Female", 40, 70, "Slow", "Field", "Water2", "Water Veil", "-------", 0, (Red false), 0
 100, 70, 72, 100, 53, 62, Water, Water, 45, 160, (2, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 40, 70, "Slow", "Field", "Water2", "-------", "-------", 0, (Red false), 0
-100, 160, 97, 100, 106, 87, Water, Water, 45, 228, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 40, 70, "Slow", "Field", "Water2", "-------", "-------", 0, (Red false), 0
+100, 160, 97, 100, 106, 87, Water, Water, 45, 228, (2, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 40, 70, "Slow", "Field", "Water2", "-------", "-------", 0, (Red false), 0
 45, 70, 63, 47, 30, 45, Steel, Poison, 190, 60, (0, 1, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
 80, 119, 90, 90, 54, 67, Steel, Poison, 75, 175, (0, 2, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Mineral", "Mineral", "-------", "-------", 0, (Red false), 0
 70, 95, 65, 121, 85, 65, Dragon, Normal, 190, 175, (0, 0, 0, 2, 0, 2), "????????", "????????", "50% Male & 50% Female", 30, 70, "Medium Slow", "Field", "Field", "Shed Skin", "-------", 0, (Red false), 0
@@ -1365,13 +1365,13 @@
 90, 102, 73, 70, 78, 65, Water, Psychc, 100, 167, (0, 2, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Fast", "Water2", "Water2", "-------", "-------", 0, (Red false), 0
 150, 100, 115, 35, 65, 65, Water, Water, 25, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 40, 70, "Slow", "Water2", "Water2", "-------", "Oblivious", 0, (Red false), 0
 68, 50, 60, 82, 120, 95, Dragon, Water, 100, 166, (0, 0, 0, 0, 2, 0), "????????", "????????", "50% Male & 50% Female", 35, 70, "Medium Slow", "Water2", "Water2", "-------", "-------", 0, (Red false), 0
-68, 50, 60, 82, 120, 95, Dragon, Water, 100, 166, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 35, 70, "Medium Slow", "Water2", "Water2", "-------", "-------", 0, (Red false), 0
-68, 50, 60, 82, 120, 95, Dragon, Water, 100, 166, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 35, 70, "Medium Slow", "Water2", "Water2", "-------", "-------", 0, (Red false), 0
+68, 50, 60, 82, 120, 95, Dragon, Water, 100, 166, (0, 0, 0, 0, 2, 0), "????????", "????????", "50% Male & 50% Female", 35, 70, "Medium Slow", "Water2", "Water2", "-------", "-------", 0, (Red false), 0
+68, 50, 60, 82, 120, 95, Dragon, Water, 100, 166, (0, 0, 0, 0, 2, 0), "????????", "????????", "50% Male & 50% Female", 35, 70, "Medium Slow", "Water2", "Water2", "-------", "-------", 0, (Red false), 0
 110, 115, 80, 90, 50, 90, Fight, Ghost, 45, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "Vital Spirit", "Inner Focus", 0, (Red false), 0
 130, 75, 60, 20, 45, 100, Poison, Ground, 90, 151, (2, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Water1", "Field", "Poison Point", "Water Absorb", 0, (Red false), 0
 120, 90, 70, 60, 110, 70, Normal, Psychc, 45, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
 125, 100, 80, 55, 85, 75, Normal, Normal, 45, 182, (2, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "Serene Grace", "Run Away", 0, (Red false), 0
-125, 100, 80, 55, 85, 75, Normal, Normal, 45, 182, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "Serene Grace", "Run Away", 0, (Red false), 0
+125, 100, 80, 55, 85, 75, Normal, Normal, 45, 182, (2, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "Serene Grace", "Run Away", 0, (Red false), 0
 100, 135, 120, 50, 60, 85, Dark, Steel, 25, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Human-Like", "Human-Like", "-------", "-------", 0, (Red false), 0
 115, 131, 131, 87, 53, 53, Ground, Fight, 30, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "Genderless", 50, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
 115, 65, 99, 111, 65, 115, Fairy, Psychc, 50, 255, (3, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 50, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
@@ -1389,7 +1389,7 @@
 90, 95, 66, 62, 45, 65, Dragon, Ice, 25, 148, (0, 2, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 40, 70, "Slow", "Dragon", "Mineral", "-------", "-------", 0, (Red false), 0
 115, 145, 92, 87, 75, 86, Dragon, Ice, 10, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 40, 70, "Slow", "Dragon", "Mineral", "-------", "-------", 0, (Red false), 0
 45, 30, 70, 10, 75, 70, Ghost, Ghost, 45, 60, (0, 0, 0, 0, 1, 0), "????????", "????????", "Genderless", 50, 70, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-45, 30, 25, 80, 75, 45, Ghost, Ghost, 45, 60, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 50, 70, "Slow", "Undiscovered", "Undiscovered", "Run Away", "-------", 0, (Red false), 0
+45, 30, 25, 80, 75, 45, Ghost, Ghost, 45, 60, (0, 0, 0, 0, 1, 0), "????????", "????????", "Genderless", 50, 70, "Slow", "Undiscovered", "Undiscovered", "Run Away", "-------", 0, (Red false), 0
 87, 60, 95, 84, 133, 91, Steel, Ghost, 45, 255, (0, 0, 0, 0, 2, 0), "????????", "????????", "Genderless", 50, 70, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
 85, 85, 100, 70, 95, 135, Dark, Grass, 6, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 50, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
 80, 120, 80, 135, 90, 65, Dark, Ice, 6, 255, (0, 0, 0, 3, 0, 3), "????????", "????????", "Genderless", 50, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
@@ -1399,29 +1399,29 @@
 74, 130, 90, 116, 120, 60, Fairy, Fight, 10, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "Genderless", 50, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
 100, 135, 115, 135, 85, 100, Fight, Dragon, 3, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "Genderless", 50, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
 100, 85, 100, 135, 135, 115, Electr, Dragon, 3, 255, (0, 0, 0, 0, 3, 0), "????????", "????????", "Genderless", 50, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-75, 110, 105, 100, 30, 70, Fight, Fight, 45, 172, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Male", 20, 70, "Slow", "Field", "Field", "Intimidate", "-------", 0, (Red false), 0
-75, 110, 105, 100, 30, 70, Fight, Fire, 45, 172, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Male", 20, 70, "Slow", "Field", "Field", "Intimidate", "-------", 0, (Red false), 0
-75, 110, 105, 100, 30, 70, Fight, Water, 45, 172, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Male", 20, 70, "Slow", "Field", "Field", "Intimidate", "-------", 0, (Red false), 0
-55, 45, 45, 15, 25, 25, Poison, Ground, 255, 42, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Water1", "Field", "Poison Point", "Water Absorb", 0, (Red false), 0
+75, 110, 105, 100, 30, 70, Fight, Fight, 45, 172, (0, 2, 0, 0, 0, 0), "????????", "????????", "100% Male", 20, 70, "Slow", "Field", "Field", "Intimidate", "-------", 0, (Red false), 0
+75, 110, 105, 100, 30, 70, Fight, Fire, 45, 172, (0, 2, 0, 0, 0, 0), "????????", "????????", "100% Male", 20, 70, "Slow", "Field", "Field", "Intimidate", "-------", 0, (Red false), 0
+75, 110, 105, 100, 30, 70, Fight, Water, 45, 172, (0, 2, 0, 0, 0, 0), "????????", "????????", "100% Male", 20, 70, "Slow", "Field", "Field", "Intimidate", "-------", 0, (Red false), 0
+55, 45, 45, 15, 25, 25, Poison, Ground, 255, 42, (1, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Water1", "Field", "Poison Point", "Water Absorb", 0, (Red false), 0
 99, 83, 91, 109, 125, 83, Water, Dragon, 5, 255, (0, 0, 0, 0, 3, 0), "????????", "????????", "Genderless", 50, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
 90, 130, 88, 104, 70, 108, Grass, Psychc, 5, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "Genderless", 50, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
 80, 80, 110, 40, 95, 80, Grass, Dragon, 45, 170, (0, 0, 2, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Erratic", "Grass", "Dragon", "-------", "-------", 0, (Red false), 0
 40, 45, 45, 50, 74, 54, Grass, Ghost, 120, 62, (0, 0, 0, 0, 1, 0), "????????", "????????", "Genderless", 20, 70, "Medium Fast", "Mineral", "Amorphous", "-------", "-------", 0, (Red false), 0
-40, 45, 45, 50, 74, 54, Grass, Ghost, 120, 62, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 20, 70, "Medium Fast", "Mineral", "Amorphous", "-------", "-------", 0, (Red false), 0
+40, 45, 45, 50, 74, 54, Grass, Ghost, 120, 62, (0, 0, 0, 0, 1, 0), "????????", "????????", "Genderless", 20, 70, "Medium Fast", "Mineral", "Amorphous", "-------", "-------", 0, (Red false), 0
 71, 60, 106, 70, 121, 80, Grass, Ghost, 60, 178, (0, 0, 0, 0, 2, 0), "????????", "????????", "Genderless", 20, 70, "Medium Fast", "Mineral", "Amorphous", "-------", "-------", 0, (Red false), 0
-71, 60, 106, 70, 121, 80, Grass, Ghost, 60, 178, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 20, 70, "Medium Fast", "Mineral", "Amorphous", "-------", "-------", 0, (Red false), 0
+71, 60, 106, 70, 121, 80, Grass, Ghost, 60, 178, (0, 0, 0, 0, 2, 0), "????????", "????????", "Genderless", 20, 70, "Medium Fast", "Mineral", "Amorphous", "-------", "-------", 0, (Red false), 0
 88, 128, 115, 80, 58, 86, Poison, Fight, 3, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "100% Male", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
 88, 75, 66, 106, 130, 90, Poison, Psychc, 3, 255, (0, 0, 0, 0, 3, 0), "????????", "????????", "100% Male", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
 88, 91, 82, 99, 70, 125, Poison, Fairy, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Male", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
 80, 120, 84, 110, 60, 96, Grass, Grass, 5, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "100% Female", 10, 70, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-80, 120, 84, 110, 60, 96, Grass, Water, 5, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 10, 70, "Slow", "Undiscovered", "Undiscovered", "Water Absorb", "-------", 0, (Red false), 0
-80, 120, 84, 110, 60, 96, Grass, Fire, 5, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 10, 70, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-80, 120, 84, 110, 60, 96, Grass, Rock, 5, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 10, 70, "Slow", "Undiscovered", "Undiscovered", "Sturdy", "-------", 0, (Red false), 0
-80, 120, 84, 110, 60, 96, Grass, Grass, 5, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 10, 70, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-80, 120, 84, 110, 60, 96, Grass, Water, 5, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 10, 70, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-80, 120, 84, 110, 60, 96, Grass, Fire, 5, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 10, 70, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-80, 120, 84, 110, 60, 96, Grass, Rock, 5, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 10, 70, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-113, 70, 120, 52, 135, 65, Ground, Normal, 5, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Male", 20, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
+80, 120, 84, 110, 60, 96, Grass, Water, 5, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "100% Female", 10, 70, "Slow", "Undiscovered", "Undiscovered", "Water Absorb", "-------", 0, (Red false), 0
+80, 120, 84, 110, 60, 96, Grass, Fire, 5, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "100% Female", 10, 70, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+80, 120, 84, 110, 60, 96, Grass, Rock, 5, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "100% Female", 10, 70, "Slow", "Undiscovered", "Undiscovered", "Sturdy", "-------", 0, (Red false), 0
+80, 120, 84, 110, 60, 96, Grass, Grass, 5, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "100% Female", 10, 70, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+80, 120, 84, 110, 60, 96, Grass, Water, 5, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "100% Female", 10, 70, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+80, 120, 84, 110, 60, 96, Grass, Fire, 5, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "100% Female", 10, 70, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+80, 120, 84, 110, 60, 96, Grass, Rock, 5, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "100% Female", 10, 70, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+113, 70, 120, 52, 135, 65, Ground, Normal, 5, 255, (0, 0, 0, 0, 3, 0), "????????", "????????", "100% Male", 20, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
 90, 105, 130, 85, 125, 65, Steel, Dragon, 10, 255, (0, 0, 3, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 30, 70, "Medium Fast", "Mineral", "Dragon", "-------", "Sturdy", 0, (Red false), 0
 106, 80, 110, 44, 120, 80, Grass, Dragon, 10, 255, (0, 0, 0, 0, 3, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Erratic", "Grass", "Dragon", "-------", "-------", 0, (Red false), 0
 105, 115, 121, 91, 65, 93, Fire, Dragon, 10, 255, (0, 0, 3, 0, 0, 0), "????????", "????????", "Genderless", 50, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
@@ -1429,94 +1429,94 @@
 90, 120, 80, 124, 68, 108, Rock, Psychc, 10, 255, (0, 0, 0, 3, 0, 3), "????????", "????????", "Genderless", 50, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
 90, 72, 100, 98, 122, 108, Steel, Psychc, 10, 255, (0, 0, 0, 0, 3, 0), "????????", "????????", "Genderless", 50, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
 90, 65, 85, 60, 65, 85, Normal, Normal, 255, 90, (0, 0, 1, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 5, 70, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-95, 95, 110, 85, 105, 110, Normal, Normal, 255, 120, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 5, 70, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-160, 105, 110, 85, 130, 110, Normal, Normal, 255, 140, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 5, 70, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+95, 95, 110, 85, 105, 110, Normal, Normal, 255, 120, (0, 0, 2, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 5, 70, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+160, 105, 110, 85, 130, 110, Normal, Normal, 255, 140, (3, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 5, 70, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
 88, 88, 160, 88, 88, 88, Poison, Ghost, 3, 255, (0, 0, 3, 0, 0, 0), "????????", "????????", "Genderless", 20, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-70, 94, 50, 66, 94, 50, Bug, Flying, 45, 148, (0, 0, 0, 0, 0, 0), "????????", "Silver Powder", "100% Male", 15, 70, "Medium Fast", "Bug", "Bug", "Swarm", "-------", 0, (Red false), 0
-70, 94, 50, 66, 94, 50, Bug, Flying, 45, 148, (0, 0, 0, 0, 0, 0), "????????", "Silver Powder", "100% Male", 15, 70, "Medium Fast", "Bug", "Bug", "Swarm", "-------", 0, (Red false), 0
-38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
-45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
-45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
-45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
-45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
-45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
-45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
-45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
-45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
-45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
-45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
-45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
-45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
-45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
-45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
-45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
-45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
-45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
-45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
-45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
-75, 71, 70, 77, 40, 80, Dark, Normal, 127, 145, (0, 0, 0, 0, 0, 0), "????????", "Pecha Berry", "50% Male & 50% Female", 15, 70, "Medium Fast", "Field", "Field", "Thick Fat", "-------", 0, (Red false), 0
-88, 110, 60, 45, 55, 60, Normal, Normal, 127, 146, (0, 0, 0, 0, 0, 0), "????????", "Pecha Berry", "50% Male & 50% Female", 15, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
-77, 70, 90, 43, 145, 75, Bug, Electr, 45, 250, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Levitate", "-------", 0, (Red false), 0
-70, 105, 90, 45, 80, 90, Grass, Grass, 75, 168, (0, 0, 0, 0, 0, 0), "????????", "Miracle Seed", "50% Male & 50% Female", 20, 70, "Medium Fast", "Grass", "Grass", "-------", "-------", 0, (Red false), 0
-68, 64, 60, 117, 111, 60, Poison, Fire, 45, 168, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 20, 70, "Medium Fast", "Monster", "Dragon", "-------", "-------", 0, (Red false), 0
+70, 94, 50, 66, 94, 50, Bug, Flying, 45, 148, (0, 1, 0, 0, 1, 0), "????????", "Silver Powder", "100% Male", 15, 70, "Medium Fast", "Bug", "Bug", "Swarm", "-------", 0, (Red false), 0
+70, 94, 50, 66, 94, 50, Bug, Flying, 45, 148, (0, 1, 0, 0, 1, 0), "????????", "Silver Powder", "100% Male", 15, 70, "Medium Fast", "Bug", "Bug", "Swarm", "-------", 0, (Red false), 0
+38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 1, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 1, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 1, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 1, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 1, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 1, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 1, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 1, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 1, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 1, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 1, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 1, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 1, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 1, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 1, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 1, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 1, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 1, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+38, 35, 40, 35, 27, 25, Bug, Bug, 255, 40, (0, 0, 1, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shield Dust", "Compound Eyes", 0, (Red false), 0
+45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 2, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
+45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 2, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
+45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 2, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
+45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 2, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
+45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 2, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
+45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 2, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
+45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 2, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
+45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 2, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
+45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 2, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
+45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 2, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
+45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 2, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
+45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 2, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
+45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 2, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
+45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 2, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
+45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 2, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
+45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 2, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
+45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 2, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
+45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 2, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
+45, 22, 60, 29, 27, 30, Bug, Bug, 120, 75, (0, 0, 2, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Shed Skin", "-------", 0, (Red false), 0
+75, 71, 70, 77, 40, 80, Dark, Normal, 127, 145, (0, 0, 0, 2, 0, 2), "????????", "Pecha Berry", "50% Male & 50% Female", 15, 70, "Medium Fast", "Field", "Field", "Thick Fat", "-------", 0, (Red false), 0
+88, 110, 60, 45, 55, 60, Normal, Normal, 127, 146, (0, 2, 0, 0, 0, 0), "????????", "Pecha Berry", "50% Male & 50% Female", 15, 70, "Medium Fast", "Field", "Field", "-------", "-------", 0, (Red false), 0
+77, 70, 90, 43, 145, 75, Bug, Electr, 45, 250, (0, 0, 0, 0, 3, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Levitate", "-------", 0, (Red false), 0
+70, 105, 90, 45, 80, 90, Grass, Grass, 75, 168, (0, 2, 0, 0, 0, 0), "????????", "Miracle Seed", "50% Male & 50% Female", 20, 70, "Medium Fast", "Grass", "Grass", "-------", "-------", 0, (Red false), 0
+68, 64, 60, 117, 111, 60, Poison, Fire, 45, 168, (0, 0, 0, 2, 0, 2), "????????", "????????", "100% Female", 20, 70, "Medium Fast", "Monster", "Dragon", "-------", "-------", 0, (Red false), 0
 55, 90, 80, 96, 50, 105, Ghost, Fairy, 45, 167, (0, 0, 0, 0, 0, 0), "????????", "Chesto Berry", "50% Male & 50% Female", 20, 70, "Medium Fast", "Amorphous", "Amorphous", "-------", "-------", 0, (Red false), 0
-75, 110, 125, 85, 100, 105, Dragon, Fight, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 40, 70, "Slow", "Dragon", "Dragon", "-------", "-------", 0, (Red false), 0
-60, 80, 110, 45, 50, 80, Fire, Ghost, 75, 149, (0, 0, 0, 0, 0, 0), "????????", "Thick Club", "50% Male & 50% Female", 20, 70, "Medium Fast", "Monster", "Monster", "Rock Head", "-------", 0, (Red false), 0
-60, 55, 60, 124, 95, 70, Bug, Fairy, 75, 162, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Bug", "Fairy", "-------", "-------", 0, (Red false), 0
+75, 110, 125, 85, 100, 105, Dragon, Fight, 45, 255, (0, 0, 3, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 40, 70, "Slow", "Dragon", "Dragon", "-------", "-------", 0, (Red false), 0
+60, 80, 110, 45, 50, 80, Fire, Ghost, 75, 149, (0, 0, 2, 0, 0, 0), "????????", "Thick Club", "50% Male & 50% Female", 20, 70, "Medium Fast", "Monster", "Monster", "Rock Head", "-------", 0, (Red false), 0
+60, 55, 60, 124, 95, 70, Bug, Fairy, 75, 162, (0, 0, 0, 2, 0, 2), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Bug", "Fairy", "-------", "-------", 0, (Red false), 0
 68, 70, 92, 42, 50, 132, Water, Bug, 100, 159, (0, 0, 0, 0, 0, 0), "????????", "Mystic Water", "50% Male & 50% Female", 15, 70, "Medium Fast", "Water1", "Bug", "-------", "-------", 0, (Red false), 0
-65, 98, 63, 96, 40, 73, Electr, Steel, 180, 152, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 10, 70, "Medium Fast", "Field", "Fairy", "Sturdy", "-------", 0, (Red false), 0
-45, 80, 50, 120, 75, 60, Electr, Electr, 190, 112, (0, 0, 0, 0, 0, 0), "????????", "Light Ball", "50% Male & 50% Female", 10, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Static", "-------", 0, (Red false), 0
+65, 98, 63, 96, 40, 73, Electr, Steel, 180, 152, (0, 2, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 10, 70, "Medium Fast", "Field", "Fairy", "Sturdy", "-------", 0, (Red false), 0
+45, 80, 50, 120, 75, 60, Electr, Electr, 190, 112, (0, 0, 0, 2, 0, 2), "????????", "Light Ball", "50% Male & 50% Female", 10, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Static", "-------", 0, (Red false), 0
 65, 75, 70, 75, 65, 85, Normal, Normal, 45, 65, (0, 0, 0, 0, 0, 0), "????????", "????????", "87% Male", 35, 70, "Medium Fast", "Undiscovered", "Undiscovered", "Run Away", "-------", 0, (Red false), 0
-80, 82, 83, 80, 100, 100, Grass, Poison, 45, 236, (0, 0, 0, 0, 0, 0), "????????", "????????", "87% Male", 20, 70, "Medium Slow", "Monster", "Grass", "Overgrow", "-------", 0, (Red false), 0
+80, 82, 83, 80, 100, 100, Grass, Poison, 45, 236, (0, 0, 0, 0, 2, 0), "????????", "????????", "87% Male", 20, 70, "Medium Slow", "Monster", "Grass", "Overgrow", "-------", 0, (Red false), 0
 79, 83, 100, 78, 85, 105, Water, Water, 45, 239, (0, 0, 0, 0, 0, 0), "????????", "????????", "87% Male", 20, 70, "Medium Slow", "Monster", "Water1", "Torrent", "-------", 0, (Red false), 0
-78, 84, 78, 100, 109, 85, Fire, Flying, 45, 240, (0, 0, 0, 0, 0, 0), "????????", "????????", "87% Male", 20, 70, "Medium Slow", "Monster", "Dragon", "Blaze", "-------", 0, (Red false), 0
-60, 45, 50, 70, 90, 80, Bug, Flying, 45, 198, (0, 0, 0, 0, 0, 0), "????????", "Silver Powder", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Compound Eyes", "-------", 0, (Red false), 0
-35, 55, 40, 90, 50, 50, Electr, Electr, 190, 112, (0, 0, 0, 0, 0, 0), "????????", "Light Ball", "50% Male & 50% Female", 10, 70, "Medium Fast", "Field", "Fairy", "Static", "-------", 0, (Red false), 0
-40, 45, 35, 90, 40, 40, Normal, Normal, 255, 58, (0, 0, 0, 0, 0, 0), "????????", "Quick Claw", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "Pickup", "-------", 0, (Red false), 0
-90, 130, 80, 55, 65, 85, Fight, Fight, 45, 253, (0, 0, 0, 0, 0, 0), "????????", "Focus Band", "75% Male", 20, 70, "Medium Slow", "Human-Like", "Human-Like", "Guts", "-------", 0, (Red false), 0
-60, 65, 60, 110, 130, 75, Ghost, Poison, 45, 225, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Slow", "Amorphous", "Amorphous", "-------", "-------", 0, (Red false), 0
-55, 130, 115, 75, 50, 50, Water, Water, 60, 166, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Water3", "Water3", "Hyper Cutter", "Shell Armor", 0, (Red false), 0
-130, 85, 80, 60, 85, 95, Water, Ice, 45, 187, (0, 0, 0, 0, 0, 0), "Mystic Water", "Mystic Water", "50% Male & 50% Female", 40, 70, "Slow", "Monster", "Water1", "Water Absorb", "Shell Armor", 0, (Red false), 0
+78, 84, 78, 100, 109, 85, Fire, Flying, 45, 240, (0, 0, 0, 0, 3, 0), "????????", "????????", "87% Male", 20, 70, "Medium Slow", "Monster", "Dragon", "Blaze", "-------", 0, (Red false), 0
+60, 45, 50, 70, 90, 80, Bug, Flying, 45, 198, (0, 0, 0, 0, 2, 0), "????????", "Silver Powder", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Compound Eyes", "-------", 0, (Red false), 0
+35, 55, 40, 90, 50, 50, Electr, Electr, 190, 112, (0, 0, 0, 2, 0, 2), "????????", "Light Ball", "50% Male & 50% Female", 10, 70, "Medium Fast", "Field", "Fairy", "Static", "-------", 0, (Red false), 0
+40, 45, 35, 90, 40, 40, Normal, Normal, 255, 58, (0, 0, 0, 1, 0, 1), "????????", "Quick Claw", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Field", "Pickup", "-------", 0, (Red false), 0
+90, 130, 80, 55, 65, 85, Fight, Fight, 45, 253, (0, 3, 0, 0, 0, 0), "????????", "Focus Band", "75% Male", 20, 70, "Medium Slow", "Human-Like", "Human-Like", "Guts", "-------", 0, (Red false), 0
+60, 65, 60, 110, 130, 75, Ghost, Poison, 45, 225, (0, 0, 0, 0, 3, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Slow", "Amorphous", "Amorphous", "-------", "-------", 0, (Red false), 0
+55, 130, 115, 75, 50, 50, Water, Water, 60, 166, (0, 2, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Water3", "Water3", "Hyper Cutter", "Shell Armor", 0, (Red false), 0
+130, 85, 80, 60, 85, 95, Water, Ice, 45, 187, (2, 0, 0, 0, 0, 0), "Mystic Water", "Mystic Water", "50% Male & 50% Female", 40, 70, "Slow", "Monster", "Water1", "Water Absorb", "Shell Armor", 0, (Red false), 0
 55, 55, 50, 55, 45, 65, Normal, Normal, 45, 65, (0, 0, 0, 0, 0, 0), "????????", "????????", "87% Male", 35, 70, "Medium Fast", "Field", "Field", "Run Away", "-------", 0, (Red false), 0
-160, 110, 65, 30, 65, 110, Normal, Normal, 25, 189, (0, 0, 0, 0, 0, 0), "Leftovers", "Leftovers", "87% Male", 40, 70, "Slow", "Monster", "Monster", "Immunity", "Thick Fat", 0, (Red false), 0
-80, 95, 82, 75, 60, 82, Poison, Poison, 60, 166, (0, 0, 0, 0, 0, 0), "Silk Scarf", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Mineral", "Mineral", "Stench", "-------", 0, (Red false), 0
-135, 143, 143, 34, 80, 65, Steel, Steel, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-100, 125, 90, 85, 60, 70, Grass, Grass, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "87% Male", 20, 70, "Medium Slow", "Field", "Grass", "Overgrow", "-------", 0, (Red false), 0
-80, 116, 75, 119, 65, 75, Fire, Fire, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "87% Male", 20, 70, "Medium Slow", "Field", "Human-Like", "Blaze", "-------", 0, (Red false), 0
-70, 85, 65, 120, 125, 65, Water, Water, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "87% Male", 20, 70, "Medium Slow", "Water1", "Field", "Torrent", "-------", 0, (Red false), 0
-98, 87, 105, 67, 53, 85, Flying, Steel, 45, 248, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Slow", "Flying", "Flying", "Pressure", "-------", 0, (Red false), 0
+160, 110, 65, 30, 65, 110, Normal, Normal, 25, 189, (2, 0, 0, 0, 0, 0), "Leftovers", "Leftovers", "87% Male", 40, 70, "Slow", "Monster", "Monster", "Immunity", "Thick Fat", 0, (Red false), 0
+80, 95, 82, 75, 60, 82, Poison, Poison, 60, 166, (0, 2, 0, 0, 0, 0), "Silk Scarf", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Mineral", "Mineral", "Stench", "-------", 0, (Red false), 0
+135, 143, 143, 34, 80, 65, Steel, Steel, 3, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "Genderless", 120, 0, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+100, 125, 90, 85, 60, 70, Grass, Grass, 45, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "87% Male", 20, 70, "Medium Slow", "Field", "Grass", "Overgrow", "-------", 0, (Red false), 0
+80, 116, 75, 119, 65, 75, Fire, Fire, 45, 255, (0, 0, 0, 3, 0, 3), "????????", "????????", "87% Male", 20, 70, "Medium Slow", "Field", "Human-Like", "Blaze", "-------", 0, (Red false), 0
+70, 85, 65, 120, 125, 65, Water, Water, 45, 255, (0, 0, 0, 3, 0, 3), "????????", "????????", "87% Male", 20, 70, "Medium Slow", "Water1", "Field", "Torrent", "-------", 0, (Red false), 0
+98, 87, 105, 67, 53, 85, Flying, Steel, 45, 248, (0, 0, 3, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Slow", "Flying", "Flying", "Pressure", "-------", 0, (Red false), 0
 60, 45, 110, 90, 80, 120, Bug, Psychc, 45, 253, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Fast", "Bug", "Bug", "Swarm", "-------", 0, (Red false), 0
-90, 115, 90, 74, 48, 68, Water, Rock, 75, 170, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Monster", "Water1", "-------", "Shell Armor", 0, (Red false), 0
-110, 80, 120, 30, 80, 90, Rock, Fire, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Slow", "Mineral", "Mineral", "-------", "Flame Body", 0, (Red false), 0
-70, 110, 80, 70, 95, 60, Grass, Dragon, 45, 170, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Erratic", "Grass", "Dragon", "-------", "-------", 0, (Red false), 0
-110, 85, 80, 30, 100, 80, Grass, Dragon, 45, 170, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Erratic", "Grass", "Dragon", "-------", "-------", 0, (Red false), 0
-72, 107, 125, 71, 65, 70, Ground, Ground, 120, 179, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Dragon", "-------", "Shed Skin", 0, (Red false), 0
-75, 98, 70, 75, 114, 70, Electr, Poison, 45, 176, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 25, 70, "Medium Slow", "Human-Like", "Human-Like", "-------", "Plus", 0, (Red false), 0
-75, 98, 70, 75, 114, 70, Electr, Poison, 45, 176, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 25, 70, "Medium Slow", "Human-Like", "Human-Like", "-------", "Minus", 0, (Red false), 0
-100, 115, 65, 65, 90, 90, Fire, Bug, 75, 184, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Bug", "Bug", "Flash Fire", "White Smoke", 0, (Red false), 0
-57, 90, 95, 29, 136, 103, Psychc, Fairy, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 20, 70, "Slow", "Fairy", "Fairy", "-------", "-------", 0, (Red false), 0
-95, 120, 65, 60, 95, 75, Dark, Fairy, 45, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Male", 20, 70, "Medium Fast", "Fairy", "Human-Like", "-------", "-------", 0, (Red false), 0
+90, 115, 90, 74, 48, 68, Water, Rock, 75, 170, (0, 2, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Monster", "Water1", "-------", "Shell Armor", 0, (Red false), 0
+110, 80, 120, 30, 80, 90, Rock, Fire, 45, 255, (0, 0, 3, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 15, 70, "Medium Slow", "Mineral", "Mineral", "-------", "Flame Body", 0, (Red false), 0
+70, 110, 80, 70, 95, 60, Grass, Dragon, 45, 170, (0, 2, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Erratic", "Grass", "Dragon", "-------", "-------", 0, (Red false), 0
+110, 85, 80, 30, 100, 80, Grass, Dragon, 45, 170, (2, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Erratic", "Grass", "Dragon", "-------", "-------", 0, (Red false), 0
+72, 107, 125, 71, 65, 70, Ground, Ground, 120, 179, (0, 0, 2, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Field", "Dragon", "-------", "Shed Skin", 0, (Red false), 0
+75, 98, 70, 75, 114, 70, Electr, Poison, 45, 176, (0, 0, 0, 0, 2, 0), "????????", "????????", "50% Male & 50% Female", 25, 70, "Medium Slow", "Human-Like", "Human-Like", "-------", "Plus", 0, (Red false), 0
+75, 98, 70, 75, 114, 70, Electr, Poison, 45, 176, (0, 0, 0, 0, 2, 0), "????????", "????????", "50% Male & 50% Female", 25, 70, "Medium Slow", "Human-Like", "Human-Like", "-------", "Minus", 0, (Red false), 0
+100, 115, 65, 65, 90, 90, Fire, Bug, 75, 184, (0, 2, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 20, 70, "Medium Fast", "Bug", "Bug", "Flash Fire", "White Smoke", 0, (Red false), 0
+57, 90, 95, 29, 136, 103, Psychc, Fairy, 45, 255, (0, 0, 0, 0, 3, 0), "????????", "????????", "100% Female", 20, 70, "Slow", "Fairy", "Fairy", "-------", "-------", 0, (Red false), 0
+95, 120, 65, 60, 95, 75, Dark, Fairy, 45, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "100% Male", 20, 70, "Medium Fast", "Fairy", "Human-Like", "-------", "-------", 0, (Red false), 0
 65, 60, 75, 64, 110, 121, Fairy, Fairy, 100, 173, (0, 0, 0, 0, 0, 0), "????????", "????????", "100% Female", 20, 70, "Medium Fast", "Fairy", "Amorphous", "-------", "-------", 0, (Red false), 0
-122, 130, 69, 30, 80, 69, Steel, Steel, 90, 175, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 25, 70, "Medium Fast", "Field", "Mineral", "-------", "-------", 0, (Red false), 0
-70, 95, 115, 85, 120, 50, Steel, Dragon, 45, 187, (0, 0, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 30, 70, "Medium Fast", "Mineral", "Dragon", "-------", "-------", 0, (Red false), 0
-100, 130, 100, 97, 63, 60, Fight, Dark, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "87% Male", 120, 70, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
-100, 130, 100, 97, 63, 60, Fight, Water, 3, 255, (0, 0, 0, 0, 0, 0), "????????", "????????", "87% Male", 120, 70, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+122, 130, 69, 30, 80, 69, Steel, Steel, 90, 175, (0, 2, 0, 0, 0, 0), "????????", "????????", "50% Male & 50% Female", 25, 70, "Medium Fast", "Field", "Mineral", "-------", "-------", 0, (Red false), 0
+70, 95, 115, 85, 120, 50, Steel, Dragon, 45, 187, (0, 0, 0, 0, 2, 0), "????????", "????????", "50% Male & 50% Female", 30, 70, "Medium Fast", "Mineral", "Dragon", "-------", "-------", 0, (Red false), 0
+100, 130, 100, 97, 63, 60, Fight, Dark, 3, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "87% Male", 120, 70, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
+100, 130, 100, 97, 63, 60, Fight, Water, 3, 255, (0, 3, 0, 0, 0, 0), "????????", "????????", "87% Male", 120, 70, "Slow", "Undiscovered", "Undiscovered", "-------", "-------", 0, (Red false), 0
 55, 90, 80, 96, 50, 105, Ghost, Fairy, 45, 167, (0, 0, 0, 0, 0, 0), "????????", "Chesto Berry", "50% Male & 50% Female", 20, 70, "Medium Fast", "Amorphous", "Amorphous", "-------", "-------", 0, (Red false), 0

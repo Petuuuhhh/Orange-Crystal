@@ -1,6 +1,6 @@
 [General]
 ApplicationVersion = '''0.5.6'''
-FreeSpaceSearch = '''EB8C40'''
+FreeSpaceSearch = '''EFB040'''
 FreeSpaceBuffer = '''040'''
 NextExportID = '''0'''
 ShowRawIVByteForTrainer = False
@@ -776,7 +776,7 @@ DefaultHash = '''A07F40B9'''
 
 [[NamedAnchors]]
 Name = '''data.pokemon.moves.egg'''
-Address = 0x25EF0C
+Address = 0xEFB040
 Format = '''`egg`'''
 DefaultHash = '''BB140A91'''
 

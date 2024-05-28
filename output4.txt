@@ -903,389 +903,389 @@
 "Focus Punch" "Calm Mind" "Toxic" "Bulk Up" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Iron Tail" "Dig" "Shadow Ball" "Brick Break" "Sludge Bomb" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Thief" "Rock Smash" /
 "Water Pulse" "Toxic" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Shadow Ball" "Sludge Bomb" "Facade" "Rest" "Surf" "Waterfall" /
 "Calm Mind" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Psychic" "Sludge Bomb" "Torment" "Facade" "Rest" "Fly" "Rock Smash" /
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
+"Roar" "Toxic" "Bullet Seed" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Earthquake" "Double Team" "Reflect" "Sludge Bomb" "Facade" "Rest" "Attract" "Cut" "Strength" "Flash" "Rock Smash" /
+"Focus Punch" "Dragon Claw" "Roar" "Toxic" "Sunny Day" "Hyper Beam" "Protect" "Solarbeam" "Iron Tail" "Earthquake" "Dig" "Brick Break" "Double Team" "Reflect" "Flamethrower" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Attract" "Steel Wing" "Overheat" "Cut" "Fly" "Strength" "Rock Smash" /
+"Focus Punch" "Dragon Claw" "Roar" "Toxic" "Sunny Day" "Hyper Beam" "Protect" "Solarbeam" "Iron Tail" "Earthquake" "Dig" "Brick Break" "Double Team" "Reflect" "Flamethrower" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Attract" "Steel Wing" "Overheat" "Cut" "Fly" "Strength" "Rock Smash" /
+"Focus Punch" "Water Pulse" "Roar" "Toxic" "Hail" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Iron Tail" "Earthquake" "Dig" "Brick Break" "Double Team" "Reflect" "Rock Tomb" "Facade" "Rest" "Attract" "Surf" "Strength" "Rock Smash" "Waterfall" "Dive" /
+"Toxic" "Sunny Day" "Hyper Beam" "Protect" "Giga Drain" "Solarbeam" "Brick Break" "Double Team" "Reflect" "Sludge Bomb" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Cut" "Flash" "Rock Smash" /
+"Toxic" "Sunny Day" "Hyper Beam" "Protect" "Rain Dance" "Double Team" "Reflect" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Steel Wing" "Fly" /
+"Focus Punch" "Calm Mind" "Toxic" "Sunny Day" "Taunt" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Safeguard" "Iron Tail" "Dig" "Psychic" "Shadow Ball" "Double Team" "Reflect" "Shock Wave" "Torment" "Facade" "Rest" "Attract" "Thief" "Skill Swap" "Snatch" "Flash" /
+"Focus Punch" "Water Pulse" "Calm Mind" "Toxic" "Hail" "Sunny Day" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Safeguard" "Iron Tail" "Earthquake" "Dig" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Reflect" "Flamethrower" "Fire Blast" "Aerial Ace" "Facade" "Rest" "Attract" "Skill Swap" "Surf" "Strength" "Flash" "Rock Smash" "Waterfall" "Dive" /
+"Focus Punch" "Toxic" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Giga Drain" "Thunderbolt" "Thunder" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Sludge Bomb" "Torment" "Facade" "Rest" "Attract" "Thief" "Skill Swap" "Snatch" "Strength" "Rock Smash" /
+"Focus Punch" "Water Pulse" "Roar" "Toxic" "Hail" "Sunny Day" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Safeguard" "Solarbeam" "Iron Tail" "Thunderbolt" "Thunder" "Earthquake" "Dig" "Shadow Ball" "Brick Break" "Double Team" "Shock Wave" "Flamethrower" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Cut" "Surf" "Strength" "Rock Smash" /
+"Focus Punch" "Toxic" "Bulk Up" "Sunny Day" "Hyper Beam" "Protect" "Rain Dance" "Earthquake" "Dig" "Brick Break" "Double Team" "Rock Tomb" "Facade" "Rest" "Attract" "Thief" "Cut" "Strength" "Rock Smash" /
+"Water Pulse" "Roar" "Toxic" "Hail" "Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Iron Tail" "Thunderbolt" "Thunder" "Earthquake" "Double Team" "Reflect" "Flamethrower" "Sandstorm" "Fire Blast" "Torment" "Facade" "Rest" "Attract" "Surf" "Strength" "Rock Smash" "Waterfall" "Dive" /
+"Dragon Claw" "Roar" "Toxic" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Iron Tail" "Earthquake" "Double Team" "Reflect" "Flamethrower" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Torment" "Facade" "Rest" "Attract" "Thief" "Steel Wing" "Fly" "Strength" "Rock Smash" /
+"Focus Punch" "Water Pulse" "Calm Mind" "Toxic" "Hail" "Bulk Up" "Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Safeguard" "Solarbeam" "Iron Tail" "Thunderbolt" "Thunder" "Earthquake" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Flamethrower" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Torment" "Facade" "Rest" "Skill Swap" "Snatch" "Strength" "Flash" "Rock Smash" "Dive" /
+"Focus Punch" "Water Pulse" "Calm Mind" "Toxic" "Hail" "Bulk Up" "Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Safeguard" "Solarbeam" "Iron Tail" "Thunderbolt" "Thunder" "Earthquake" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Flamethrower" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Torment" "Facade" "Rest" "Skill Swap" "Snatch" "Strength" "Flash" "Rock Smash" "Dive" /
+"Focus Punch" "Roar" "Toxic" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Safeguard" "Iron Tail" "Thunderbolt" "Thunder" "Dig" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Facade" "Rest" "Attract" "Strength" "Flash" "Rock Smash" /
+"Roar" "Toxic" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Iron Tail" "Earthquake" "Dig" "Double Team" "Sandstorm" "Rock Tomb" "Torment" "Facade" "Rest" "Attract" "Cut" "Strength" "Rock Smash" /
+"Calm Mind" "Toxic" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Safeguard" "Brick Break" "Double Team" "Sandstorm" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Steel Wing" "Cut" "Strength" "Rock Smash" /
+"Focus Punch" "Calm Mind" "Toxic" "Bulk Up" "Bullet Seed" "Sunny Day" "Hyper Beam" "Protect" "Rain Dance" "Earthquake" "Dig" "Brick Break" "Double Team" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Cut" "Strength" "Rock Smash" /
+"Roar" "Toxic" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Solarbeam" "Iron Tail" "Shadow Ball" "Double Team" "Flamethrower" "Sludge Bomb" "Fire Blast" "Torment" "Facade" "Rest" "Attract" "Thief" "Snatch" "Overheat" "Strength" "Rock Smash" /
+"Focus Punch" "Dragon Claw" "Water Pulse" "Roar" "Toxic" "Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Iron Tail" "Thunderbolt" "Thunder" "Earthquake" "Dig" "Brick Break" "Double Team" "Shock Wave" "Flamethrower" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Torment" "Facade" "Rest" "Attract" "Cut" "Surf" "Strength" "Rock Smash" /
+"Focus Punch" "Dragon Claw" "Roar" "Toxic" "Bullet Seed" "Sunny Day" "Hyper Beam" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Iron Tail" "Earthquake" "Dig" "Brick Break" "Double Team" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Cut" "Strength" "Flash" "Rock Smash" /
+"Focus Punch" "Roar" "Toxic" "Bulk Up" "Sunny Day" "Hyper Beam" "Protect" "Solarbeam" "Earthquake" "Dig" "Brick Break" "Double Team" "Flamethrower" "Fire Blast" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Overheat" "Cut" "Strength" "Rock Smash" /
+"Focus Punch" "Water Pulse" "Roar" "Toxic" "Hail" "Bulk Up" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Iron Tail" "Earthquake" "Dig" "Brick Break" "Double Team" "Rock Tomb" "Facade" "Rest" "Attract" "Surf" "Strength" "Rock Smash" "Waterfall" "Dive" /
+"Calm Mind" "Toxic" "Sunny Day" "Taunt" "Ice Beam" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Safeguard" "Thunderbolt" "Psychic" "Shadow Ball" "Double Team" "Reflect" "Shock Wave" "Torment" "Facade" "Rest" "Attract" "Thief" "Skill Swap" "Snatch" "Flash" /
+"Focus Punch" "Water Pulse" "Calm Mind" "Toxic" "Bulk Up" "Sunny Day" "Taunt" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Dig" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Rock Tomb" "Aerial Ace" "Torment" "Facade" "Rest" "Attract" "Thief" "Skill Swap" "Snatch" "Cut" "Flash" "Rock Smash" /
+"Focus Punch" "Toxic" "Sunny Day" "Taunt" "Ice Beam" "Hyper Beam" "Protect" "Rain Dance" "Solarbeam" "Shadow Ball" "Brick Break" "Double Team" "Flamethrower" "Sludge Bomb" "Sandstorm" "Fire Blast" "Rock Tomb" "Torment" "Facade" "Rest" "Attract" "Snatch" "Strength" "Rock Smash" /
+"Focus Punch" "Dragon Claw" "Water Pulse" "Roar" "Toxic" "Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Solarbeam" "Iron Tail" "Thunderbolt" "Thunder" "Earthquake" "Dig" "Brick Break" "Double Team" "Shock Wave" "Flamethrower" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Attract" "Cut" "Surf" "Strength" "Rock Smash" /
+"Focus Punch" "Calm Mind" "Toxic" "Bulk Up" "Sunny Day" "Taunt" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Reflect" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Skill Swap" "Strength" "Flash" "Rock Smash" /
+"Roar" "Toxic" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Iron Tail" "Thunderbolt" "Thunder" "Double Team" "Shock Wave" "Flamethrower" "Facade" "Rest" "Attract" "Thief" "Overheat" "Strength" "Flash" /
+"Water Pulse" "Roar" "Toxic" "Hail" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Earthquake" "Double Team" "Rock Tomb" "Torment" "Facade" "Rest" "Attract" "Thief" "Surf" "Strength" "Rock Smash" "Waterfall" "Dive" /
+"Roar" "Toxic" "Sunny Day" "Hyper Beam" "Protect" "Rain Dance" "Solarbeam" "Earthquake" "Dig" "Double Team" "Flamethrower" "Sandstorm" "Fire Blast" "Rock Tomb" "Facade" "Rest" "Attract" "Overheat" "Strength" "Rock Smash" /
+"Dragon Claw" "Roar" "Toxic" "Sunny Day" "Ice Beam" "Hyper Beam" "Protect" "Rain Dance" "Safeguard" "Solarbeam" "Iron Tail" "Earthquake" "Double Team" "Flamethrower" "Fire Blast" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Steel Wing" "Fly" "Rock Smash" /
+"Calm Mind" "Toxic" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Thunderbolt" "Thunder" "Psychic" "Shadow Ball" "Double Team" "Shock Wave" "Torment" "Facade" "Rest" "Attract" "Thief" "Skill Swap" "Snatch" "Flash" /
+"Water Pulse" "Calm Mind" "Toxic" "Hail" "Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Iron Tail" "Thunderbolt" "Thunder" "Shadow Ball" "Double Team" "Shock Wave" "Flamethrower" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Torment" "Facade" "Rest" "Attract" "Thief" "Snatch" "Cut" "Strength" "Flash" "Rock Smash" /
+"Water Pulse" "Toxic" "Hail" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Safeguard" "Earthquake" "Shadow Ball" "Double Team" "Torment" "Facade" "Rest" "Attract" "Flash" /
+"Dragon Claw" "Roar" "Toxic" "Sunny Day" "Hyper Beam" "Protect" "Rain Dance" "Iron Tail" "Earthquake" "Brick Break" "Double Team" "Flamethrower" "Fire Blast" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Attract" "Steel Wing" "Cut" "Fly" "Strength" "Rock Smash" /
+"Focus Punch" "Toxic" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Earthquake" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Reflect" "Sludge Bomb" "Sandstorm" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Cut" "Strength" "Flash" "Rock Smash" /
+"Dragon Claw" "Water Pulse" "Calm Mind" "Roar" "Toxic" "Sunny Day" "Ice Beam" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Safeguard" "Solarbeam" "Thunderbolt" "Thunder" "Earthquake" "Psychic" "Shadow Ball" "Double Team" "Reflect" "Shock Wave" "Sandstorm" "Aerial Ace" "Facade" "Rest" "Attract" "Steel Wing" "Cut" "Fly" "Surf" "Flash" "Waterfall" "Dive" /
+"Dragon Claw" "Water Pulse" "Calm Mind" "Roar" "Toxic" "Sunny Day" "Ice Beam" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Safeguard" "Solarbeam" "Thunderbolt" "Thunder" "Earthquake" "Psychic" "Shadow Ball" "Double Team" "Reflect" "Shock Wave" "Sandstorm" "Aerial Ace" "Facade" "Rest" "Attract" "Steel Wing" "Cut" "Fly" "Surf" "Flash" "Waterfall" "Dive" /
+"Focus Punch" "Water Pulse" "Toxic" "Sunny Day" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Solarbeam" "Iron Tail" "Thunderbolt" "Thunder" "Dig" "Shadow Ball" "Double Team" "Shock Wave" "Facade" "Rest" "Attract" "Cut" "Strength" "Rock Smash" /
+"Dragon Claw" "Roar" "Toxic" "Sunny Day" "Hyper Beam" "Protect" "Rain Dance" "Iron Tail" "Earthquake" "Dig" "Brick Break" "Double Team" "Flamethrower" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Attract" "Cut" "Surf" "Strength" "Rock Smash" /
+"Focus Punch" "Water Pulse" "Calm Mind" "Roar" "Toxic" "Bulk Up" "Sunny Day" "Hyper Beam" "Protect" "Rain Dance" "Iron Tail" "Earthquake" "Dig" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Attract" "Strength" "Rock Smash" /
+"Focus Punch" "Water Pulse" "Toxic" "Hail" "Bullet Seed" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Iron Tail" "Earthquake" "Shadow Ball" "Brick Break" "Double Team" "Rock Tomb" "Facade" "Rest" "Attract" "Strength" "Flash" "Rock Smash" /
+"Focus Punch" "Calm Mind" "Toxic" "Bulk Up" "Sunny Day" "Taunt" "Ice Beam" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Safeguard" "Thunderbolt" "Earthquake" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Rock Tomb" "Aerial Ace" "Torment" "Facade" "Rest" "Attract" "Thief" "Skill Swap" "Snatch" "Cut" "Strength" "Flash" "Rock Smash" /
+"Focus Punch" "Calm Mind" "Toxic" "Sunny Day" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Safeguard" "Solarbeam" "Iron Tail" "Thunderbolt" "Thunder" "Dig" "Psychic" "Shadow Ball" "Double Team" "Reflect" "Flamethrower" "Fire Blast" "Facade" "Rest" "Attract" "Skill Swap" "Snatch" "Surf" "Flash" /
+"Calm Mind" "Toxic" "Hail" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Safeguard" "Psychic" "Double Team" "Reflect" "Sandstorm" "Rock Tomb" "Facade" "Rest" "Skill Swap" "Flash" /
+"Dragon Claw" "Water Pulse" "Roar" "Toxic" "Bulk Up" "Sunny Day" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Solarbeam" "Iron Tail" "Thunderbolt" "Thunder" "Earthquake" "Brick Break" "Double Team" "Shock Wave" "Flamethrower" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Overheat" "Fly" "Surf" "Strength" "Rock Smash" "Waterfall" "Dive" /
+"Water Pulse" "Calm Mind" "Roar" "Toxic" "Hail" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Safeguard" "Thunderbolt" "Thunder" "Earthquake" "Brick Break" "Double Team" "Shock Wave" "Rock Tomb" "Facade" "Rest" "Surf" "Strength" "Rock Smash" "Waterfall" "Dive" /
+"Focus Punch" "Dragon Claw" "Roar" "Toxic" "Bulk Up" "Sunny Day" "Hyper Beam" "Protect" "Safeguard" "Solarbeam" "Iron Tail" "Thunderbolt" "Thunder" "Earthquake" "Dig" "Brick Break" "Double Team" "Shock Wave" "Flamethrower" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Overheat" "Cut" "Strength" "Rock Smash" /
+"Toxic" "Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Protect" "Rain Dance" "Iron Tail" "Dig" "Shadow Ball" "Double Team" "Shock Wave" "Sludge Bomb" "Torment" "Facade" "Rest" "Attract" "Thief" "Snatch" /
+"Roar" "Toxic" "Bulk Up" "Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Iron Tail" "Dig" "Shadow Ball" "Double Team" "Shock Wave" "Sludge Bomb" "Torment" "Facade" "Rest" "Attract" "Thief" "Snatch" /
+"Focus Punch" "Calm Mind" "Toxic" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Safeguard" "Iron Tail" "Thunderbolt" "Thunder" "Dig" "Psychic" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Facade" "Rest" "Attract" "Thief" "Skill Swap" "Surf" "Rock Smash" /
+"Focus Punch" "Toxic" "Hail" "Sunny Day" "Ice Beam" "Blizzard" "Protect" "Safeguard" "Iron Tail" "Earthquake" "Dig" "Brick Break" "Double Team" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" /
+"Focus Punch" "Toxic" "Hail" "Sunny Day" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Safeguard" "Iron Tail" "Earthquake" "Dig" "Brick Break" "Double Team" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" /
+"Roar" "Toxic" "Hail" "Ice Beam" "Blizzard" "Protect" "Rain Dance" "Safeguard" "Iron Tail" "Dig" "Double Team" "Reflect" "Facade" "Rest" "Attract" /
+"Calm Mind" "Roar" "Toxic" "Hail" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Safeguard" "Solarbeam" "Iron Tail" "Dig" "Double Team" "Reflect" "Facade" "Rest" "Attract" /
+"Toxic" "Sunny Day" "Protect" "Earthquake" "Dig" "Double Team" "Sludge Bomb" "Sandstorm" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" /
+"Toxic" "Sunny Day" "Hyper Beam" "Protect" "Earthquake" "Dig" "Double Team" "Sludge Bomb" "Sandstorm" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" /
+"Water Pulse" "Toxic" "Sunny Day" "Taunt" "Protect" "Rain Dance" "Iron Tail" "Thunderbolt" "Thunder" "Dig" "Shadow Ball" "Double Team" "Shock Wave" "Aerial Ace" "Torment" "Facade" "Rest" "Attract" "Thief" "Snatch" /
+"Water Pulse" "Roar" "Toxic" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Iron Tail" "Thunderbolt" "Thunder" "Dig" "Shadow Ball" "Double Team" "Shock Wave" "Aerial Ace" "Torment" "Facade" "Rest" "Attract" "Thief" "Snatch" /
+"Focus Punch" "Toxic" "Sunny Day" "Protect" "Thunderbolt" "Thunder" "Earthquake" "Dig" "Brick Break" "Double Team" "Flamethrower" "Sandstorm" "Fire Blast" "Rock Tomb" "Facade" "Rest" "Attract" "Rock Smash" /
+"Focus Punch" "Toxic" "Sunny Day" "Protect" "Thunderbolt" "Thunder" "Earthquake" "Dig" "Brick Break" "Double Team" "Shock Wave" "Flamethrower" "Sandstorm" "Fire Blast" "Rock Tomb" "Facade" "Rest" "Attract" "Rock Smash" /
+"Focus Punch" "Roar" "Toxic" "Sunny Day" "Hyper Beam" "Protect" "Thunderbolt" "Thunder" "Earthquake" "Dig" "Brick Break" "Double Team" "Shock Wave" "Flamethrower" "Sandstorm" "Fire Blast" "Rock Tomb" "Facade" "Rest" "Attract" "Rock Smash" /
+"Toxic" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Giga Drain" "Thunderbolt" "Thunder" "Dig" "Shadow Ball" "Brick Break" "Double Team" "Shock Wave" "Flamethrower" "Sludge Bomb" "Sandstorm" "Fire Blast" "Rock Tomb" "Torment" "Facade" "Rest" "Attract" "Thief" /
+"Focus Punch" "Toxic" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Giga Drain" "Thunderbolt" "Thunder" "Dig" "Shadow Ball" "Brick Break" "Double Team" "Shock Wave" "Flamethrower" "Sludge Bomb" "Sandstorm" "Fire Blast" "Rock Tomb" "Torment" "Facade" "Rest" "Attract" "Thief" /
+"Calm Mind" "Toxic" "Bullet Seed" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Solarbeam" "Iron Tail" "Earthquake" "Psychic" "Brick Break" "Double Team" "Reflect" "Flamethrower" "Sludge Bomb" "Facade" "Rest" "Attract" "Thief" "Skill Swap" /
+"Focus Punch" "Toxic" "Sunny Day" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Iron Tail" "Thunderbolt" "Thunder" "Earthquake" "Dig" "Shadow Ball" "Brick Break" "Double Team" "Flamethrower" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" /
+"Sunny Day" "Taunt" "Protect" "Rain Dance" "Iron Tail" "Thunderbolt" "Thunder" "Dig" "Shadow Ball" "Brick Break" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" /
+"Calm Mind" "Protect" "Iron Tail" "Psychic" "Flamethrower" "Fire Blast" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Protect" "Iron Tail" "Psychic" "Flamethrower" "Fire Blast" "Facade" "Rest" "Attract" /
+"Water Pulse" "Calm Mind" "Hail" "Sunny Day" "Ice Beam" "Blizzard" "Light Screen" "Protect" "Rain Dance" "Safeguard" "Iron Tail" "Earthquake" "Dig" "Psychic" "Shadow Ball" "Flamethrower" "Fire Blast" "Facade" "Rest" "Attract" "Skill Swap" "Surf" "Waterfall" "Dive" /
+"Water Pulse" "Calm Mind" "Toxic" "Hail" "Sunny Day" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Safeguard" "Iron Tail" "Earthquake" "Dig" "Psychic" "Shadow Ball" "Brick Break" "Flamethrower" "Sludge Bomb" "Sandstorm" "Fire Blast" "Facade" "Rest" "Attract" "Skill Swap" "Surf" "Waterfall" "Dive" /
+"Sunny Day" "Protect" "Brick Break" "Facade" "Rest" "Attract" "Steel Wing" "Rock Smash" /
+"Toxic" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Thunderbolt" "Thunder" "Shadow Ball" "Flamethrower" "Sludge Bomb" "Fire Blast" "Facade" "Rest" "Attract" "Thief" "Overheat" /
+"Calm Mind" "Hail" "Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Safeguard" "Solarbeam" "Thunderbolt" "Thunder" "Psychic" "Shadow Ball" "Brick Break" "Reflect" "Facade" "Rest" "Attract" "Thief" "Skill Swap" /
+"Calm Mind" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Psychic" "Shadow Ball" "Double Team" "Reflect" "Facade" "Rest" "Steel Wing" "Skill Swap" "Fly" /
+"Bulk Up" "Sunny Day" "Taunt" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Brick Break" "Sandstorm" "Aerial Ace" "Facade" "Rest" "Steel Wing" "Fly" "Rock Smash" /
+"Sunny Day" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Safeguard" "Shadow Ball" "Sandstorm" "Aerial Ace" "Facade" "Rest" "Thief" "Steel Wing" "Fly" /
+"Water Pulse" "Calm Mind" "Toxic" "Hail" "Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Safeguard" "Iron Tail" "Earthquake" "Dig" "Psychic" "Shadow Ball" "Brick Break" "Flamethrower" "Sludge Bomb" "Fire Blast" "Facade" "Rest" "Attract" "Skill Swap" "Surf" "Waterfall" "Dive" /
+"Water Pulse" "Calm Mind" "Hail" "Sunny Day" "Ice Beam" "Blizzard" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Earthquake" "Dig" "Psychic" "Shadow Ball" "Reflect" "Sandstorm" "Rock Tomb" "Facade" "Rest" "Attract" "Surf" /
+"Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Protect" "Rain Dance" "Iron Tail" "Thunderbolt" "Thunder" "Dig" "Shadow Ball" "Facade" "Rest" "Attract" "Thief" "Surf" /
+"Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Iron Tail" "Thunderbolt" "Thunder" "Dig" "Shadow Ball" "Facade" "Rest" "Attract" "Thief" "Surf" /
+"Focus Punch" "Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Protect" "Solarbeam" "Dig" "Brick Break" "Flamethrower" "Fire Blast" "Rock Tomb" "Facade" "Rest" "Attract" "Thief" "Overheat" /
+"Focus Punch" "Bulk Up" "Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Solarbeam" "Earthquake" "Dig" "Psychic" "Brick Break" "Flamethrower" "Fire Blast" "Rock Tomb" "Facade" "Rest" "Attract" "Thief" "Overheat" /
+"Calm Mind" "Protect" "Rain Dance" "Safeguard" "Earthquake" "Psychic" "Shadow Ball" "Sandstorm" "Rock Tomb" "Facade" "Rest" "Attract" "Thief" "Skill Swap" /
+"Protect" "Rain Dance" "Earthquake" "Dig" "Sludge Bomb" "Sandstorm" "Rock Tomb" "Facade" "Rest" "Attract" "Surf" /
+"Roar" "Sunny Day" "Protect" "Iron Tail" "Dig" "Flamethrower" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Overheat" "Rock Smash" /
+"Roar" "Sunny Day" "Hyper Beam" "Protect" "Solarbeam" "Iron Tail" "Dig" "Flamethrower" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Thief" "Overheat" "Rock Smash" /
+"Bullet Seed" "Taunt" "Protect" "Rain Dance" "Giga Drain" "Solarbeam" "Thunderbolt" "Thunder" "Reflect" "Facade" "Rest" "Thief" /
+"Bullet Seed" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Giga Drain" "Solarbeam" "Thunderbolt" "Thunder" "Reflect" "Facade" "Rest" "Thief" /
+"Focus Punch" "Calm Mind" "Roar" "Sunny Day" "Hyper Beam" "Protect" "Solarbeam" "Iron Tail" "Earthquake" "Dig" "Shadow Ball" "Brick Break" "Flamethrower" "Fire Blast" "Aerial Ace" "Facade" "Rest" "Overheat" "Rock Smash" /
+"Water Pulse" "Toxic" "Taunt" "Ice Beam" "Blizzard" "Protect" "Rain Dance" "Shadow Ball" "Sludge Bomb" "Facade" "Rest" "Surf" "Waterfall" /
+"Focus Punch" "Calm Mind" "Toxic" "Bulk Up" "Sunny Day" "Taunt" "Protect" "Rain Dance" "Iron Tail" "Dig" "Shadow Ball" "Brick Break" "Sludge Bomb" "Aerial Ace" "Facade" "Rest" "Thief" "Rock Smash" /
+"Water Pulse" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Iron Tail" "Dig" "Brick Break" "Aerial Ace" "Facade" "Rest" "Thief" "Surf" "Rock Smash" "Waterfall" /
+"Bullet Seed" "Sunny Day" "Hyper Beam" "Protect" "Rain Dance" "Giga Drain" "Solarbeam" "Brick Break" "Aerial Ace" "Facade" "Rest" "Rock Smash" /
+"Focus Punch" "Calm Mind" "Roar" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Dig" "Shadow Ball" "Sludge Bomb" "Aerial Ace" "Torment" "Facade" "Rest" "Thief" /
+"Focus Punch" "Calm Mind" "Roar" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Dig" "Psychic" "Shadow Ball" "Brick Break" "Flamethrower" "Sludge Bomb" "Aerial Ace" "Torment" "Facade" "Rest" "Thief" "Rock Smash" /
+"Calm Mind" "Bulk Up" "Sunny Day" "Hyper Beam" "Protect" "Rain Dance" "Psychic" "Shadow Ball" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Fly" "Rock Smash" /
+"Water Pulse" "Sunny Day" "Ice Beam" "Blizzard" "Protect" "Rain Dance" "Iron Tail" "Thunderbolt" "Thunder" "Sludge Bomb" "Sandstorm" "Rock Tomb" "Facade" "Rest" /
+"Dragon Claw" "Water Pulse" "Sunny Day" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Iron Tail" "Thunderbolt" "Thunder" "Earthquake" "Flamethrower" "Sludge Bomb" "Sandstorm" "Fire Blast" "Rock Tomb" "Facade" "Rest" "Surf" "Rock Smash" /
+"Water Pulse" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Earthquake" "Dig" "Sandstorm" "Rock Tomb" "Facade" "Rest" "Rock Smash" /
+"Focus Punch" "Bulk Up" "Bullet Seed" "Sunny Day" "Taunt" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Solarbeam" "Brick Break" "Double Team" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Rock Smash" /
+"Focus Punch" "Calm Mind" "Toxic" "Light Screen" "Protect" "Rain Dance" "Iron Tail" "Thunderbolt" "Thunder" "Dig" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Facade" "Rest" "Attract" "Thief" "Surf" "Strength" "Flash" "Rock Smash" /
+"Focus Punch" "Calm Mind" "Toxic" "Light Screen" "Protect" "Rain Dance" "Iron Tail" "Thunderbolt" "Thunder" "Dig" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Facade" "Rest" "Attract" "Thief" "Surf" "Strength" "Flash" "Rock Smash" /
+"Focus Punch" "Calm Mind" "Toxic" "Light Screen" "Protect" "Rain Dance" "Iron Tail" "Thunderbolt" "Thunder" "Dig" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Facade" "Rest" "Attract" "Thief" "Surf" "Strength" "Flash" "Rock Smash" /
+"Focus Punch" "Calm Mind" "Toxic" "Light Screen" "Protect" "Rain Dance" "Iron Tail" "Thunderbolt" "Thunder" "Dig" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Facade" "Rest" "Attract" "Thief" "Surf" "Strength" "Flash" "Rock Smash" /
+"Focus Punch" "Calm Mind" "Toxic" "Light Screen" "Protect" "Rain Dance" "Iron Tail" "Thunderbolt" "Thunder" "Dig" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Facade" "Rest" "Attract" "Thief" "Surf" "Strength" "Flash" "Rock Smash" /
+"Focus Punch" "Calm Mind" "Toxic" "Light Screen" "Protect" "Rain Dance" "Iron Tail" "Thunderbolt" "Thunder" "Dig" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Facade" "Rest" "Attract" "Thief" "Surf" "Strength" "Flash" "Rock Smash" /
+"Focus Punch" "Calm Mind" "Toxic" "Light Screen" "Protect" "Rain Dance" "Iron Tail" "Thunderbolt" "Thunder" "Dig" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Facade" "Rest" "Attract" "Thief" "Surf" "Strength" "Flash" "Rock Smash" /
+"Focus Punch" "Calm Mind" "Toxic" "Light Screen" "Protect" "Rain Dance" "Iron Tail" "Thunderbolt" "Thunder" "Dig" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Facade" "Rest" "Attract" "Thief" "Surf" "Strength" "Flash" "Rock Smash" /
+"Focus Punch" "Calm Mind" "Toxic" "Light Screen" "Protect" "Rain Dance" "Iron Tail" "Thunderbolt" "Thunder" "Dig" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Facade" "Rest" "Attract" "Thief" "Surf" "Strength" "Flash" "Rock Smash" /
+"Focus Punch" "Calm Mind" "Toxic" "Light Screen" "Protect" "Rain Dance" "Iron Tail" "Thunderbolt" "Thunder" "Dig" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Facade" "Rest" "Attract" "Thief" "Surf" "Strength" "Flash" "Rock Smash" /
+"Focus Punch" "Calm Mind" "Toxic" "Light Screen" "Protect" "Rain Dance" "Iron Tail" "Thunderbolt" "Thunder" "Dig" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Facade" "Rest" "Attract" "Thief" "Surf" "Strength" "Flash" "Rock Smash" /
+"Focus Punch" "Calm Mind" "Toxic" "Light Screen" "Protect" "Rain Dance" "Iron Tail" "Thunderbolt" "Thunder" "Dig" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Facade" "Rest" "Attract" "Thief" "Surf" "Strength" "Flash" "Rock Smash" /
+"Focus Punch" "Calm Mind" "Toxic" "Light Screen" "Protect" "Rain Dance" "Iron Tail" "Thunderbolt" "Thunder" "Dig" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Facade" "Rest" "Attract" "Thief" "Surf" "Strength" "Flash" "Rock Smash" /
+"Focus Punch" "Calm Mind" "Toxic" "Light Screen" "Protect" "Rain Dance" "Iron Tail" "Thunderbolt" "Thunder" "Dig" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Facade" "Rest" "Attract" "Thief" "Surf" "Strength" "Flash" "Rock Smash" /
+"Toxic" "Light Screen" "Protect" "Rain Dance" "Iron Tail" "Thunderbolt" "Thunder" "Double Team" "Reflect" "Shock Wave" "Facade" "Rest" "Attract" "Surf" "Flash" /
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+"Water Pulse" "Toxic" "Hail" "Sunny Day" "Ice Beam" "Blizzard" "Protect" "Rain Dance" "Solarbeam" "Thunderbolt" "Thunder" "Shadow Ball" "Double Team" "Shock Wave" "Flamethrower" "Sandstorm" "Fire Blast" "Facade" "Rest" "Attract" "Thief" "Flash" /
+"Water Pulse" "Toxic" "Hail" "Sunny Day" "Ice Beam" "Blizzard" "Protect" "Rain Dance" "Solarbeam" "Thunderbolt" "Thunder" "Shadow Ball" "Double Team" "Shock Wave" "Flamethrower" "Sandstorm" "Fire Blast" "Facade" "Rest" "Attract" "Thief" "Flash" /
+"Water Pulse" "Toxic" "Hail" "Sunny Day" "Ice Beam" "Blizzard" "Protect" "Rain Dance" "Solarbeam" "Thunderbolt" "Thunder" "Shadow Ball" "Double Team" "Shock Wave" "Flamethrower" "Sandstorm" "Fire Blast" "Facade" "Rest" "Attract" "Thief" "Flash" /
+"Focus Punch" "Water Pulse" "Calm Mind" "Toxic" "Sunny Day" "Taunt" "Ice Beam" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Safeguard" "Solarbeam" "Thunderbolt" "Thunder" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Rock Tomb" "Aerial Ace" "Torment" "Facade" "Rest" "Skill Swap" "Snatch" "Cut" "Strength" "Flash" "Rock Smash" /
+"Focus Punch" "Water Pulse" "Calm Mind" "Toxic" "Sunny Day" "Taunt" "Ice Beam" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Safeguard" "Solarbeam" "Thunderbolt" "Thunder" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Rock Tomb" "Aerial Ace" "Torment" "Facade" "Rest" "Skill Swap" "Snatch" "Cut" "Strength" "Flash" "Rock Smash" /
+"Focus Punch" "Water Pulse" "Calm Mind" "Toxic" "Sunny Day" "Taunt" "Ice Beam" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Safeguard" "Solarbeam" "Thunderbolt" "Thunder" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Rock Tomb" "Aerial Ace" "Torment" "Facade" "Rest" "Skill Swap" "Snatch" "Cut" "Strength" "Flash" "Rock Smash" /
+"Protect" /
+"Protect" /
+"Toxic" "Sunny Day" "Hyper Beam" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Earthquake" "Dig" "Psychic" "Shadow Ball" "Double Team" "Sandstorm" "Rock Tomb" "Facade" "Rest" "Attract" "Thief" "Skill Swap" "Flash" /
+"Toxic" "Sunny Day" "Hyper Beam" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Dig" "Psychic" "Shadow Ball" "Double Team" "Facade" "Rest" "Attract" "Thief" "Skill Swap" "Flash" /
+"Toxic" "Bullet Seed" "Sunny Day" "Hyper Beam" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Double Team" "Facade" "Rest" "Attract" "Flash" /
+"Water Pulse" "Toxic" "Hail" "Ice Beam" "Blizzard" "Protect" "Rain Dance" "Double Team" "Sandstorm" "Rock Tomb" "Facade" "Rest" "Attract" "Surf" "Waterfall" "Dive" /
+"Water Pulse" "Toxic" "Hail" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Earthquake" "Dig" "Double Team" "Sludge Bomb" "Sandstorm" "Rock Tomb" "Facade" "Rest" "Attract" "Surf" "Strength" "Flash" "Rock Smash" "Waterfall" "Dive" /
+"Toxic" "Sunny Day" "Light Screen" "Protect" "Rain Dance" "Thunderbolt" "Thunder" "Shadow Ball" "Double Team" "Reflect" "Shock Wave" "Facade" "Rest" "Thief" "Snatch" "Flash" /
+"Toxic" "Sunny Day" "Light Screen" "Protect" "Rain Dance" "Thunderbolt" "Thunder" "Shadow Ball" "Double Team" "Reflect" "Shock Wave" "Facade" "Rest" "Thief" "Snatch" "Flash" /
+"Toxic" "Sunny Day" "Light Screen" "Protect" "Rain Dance" "Thunderbolt" "Thunder" "Shadow Ball" "Double Team" "Reflect" "Shock Wave" "Facade" "Rest" "Thief" "Snatch" "Flash" /
+"Toxic" "Sunny Day" "Light Screen" "Protect" "Rain Dance" "Thunderbolt" "Thunder" "Shadow Ball" "Double Team" "Reflect" "Shock Wave" "Facade" "Rest" "Thief" "Snatch" "Flash" /
+"Toxic" "Sunny Day" "Light Screen" "Protect" "Rain Dance" "Thunderbolt" "Thunder" "Shadow Ball" "Double Team" "Reflect" "Shock Wave" "Facade" "Rest" "Thief" "Snatch" "Flash" /
+"Dragon Claw" "Roar" "Toxic" "Bulk Up" "Sunny Day" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Safeguard" "Iron Tail" "Thunderbolt" "Thunder" "Earthquake" "Brick Break" "Double Team" "Shock Wave" "Flamethrower" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Overheat" "Cut" "Strength" "Flash" "Rock Smash" /
+"Focus Punch" "Dragon Claw" "Water Pulse" "Roar" "Toxic" "Hail" "Bulk Up" "Sunny Day" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Safeguard" "Thunderbolt" "Thunder" "Earthquake" "Brick Break" "Double Team" "Shock Wave" "Flamethrower" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Cut" "Surf" "Strength" "Rock Smash" "Waterfall" "Dive" /
+"Dragon Claw" "Calm Mind" "Roar" "Toxic" "Sunny Day" "Hyper Beam" "Protect" "Rain Dance" "Safeguard" "Iron Tail" "Thunderbolt" "Thunder" "Earthquake" "Psychic" "Shadow Ball" "Double Team" "Shock Wave" "Aerial Ace" "Facade" "Rest" "Steel Wing" "Cut" "Fly" "Strength" "Rock Smash" /
+"Toxic" "Bullet Seed" "Sunny Day" "Hyper Beam" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Aerial Ace" "Facade" "Rest" "Flash" /
+"Dragon Claw" "Water Pulse" "Calm Mind" "Roar" "Toxic" "Hail" "Bulk Up" "Bullet Seed" "Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Iron Tail" "Thunderbolt" "Thunder" "Earthquake" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Flamethrower" "Sludge Bomb" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Overheat" "Cut" "Fly" "Surf" "Strength" "Flash" "Rock Smash" "Waterfall" "Dive" /
+"Dragon Claw" "Water Pulse" "Calm Mind" "Roar" "Toxic" "Hail" "Bulk Up" "Bullet Seed" "Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Iron Tail" "Thunderbolt" "Thunder" "Earthquake" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Flamethrower" "Sludge Bomb" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Overheat" "Cut" "Fly" "Surf" "Strength" "Flash" "Rock Smash" "Waterfall" "Dive" /
+"Dragon Claw" "Water Pulse" "Calm Mind" "Roar" "Toxic" "Hail" "Bulk Up" "Bullet Seed" "Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Iron Tail" "Thunderbolt" "Thunder" "Earthquake" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Flamethrower" "Sludge Bomb" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Overheat" "Cut" "Fly" "Surf" "Strength" "Flash" "Rock Smash" "Waterfall" "Dive" /
+"Dragon Claw" "Water Pulse" "Calm Mind" "Roar" "Toxic" "Hail" "Bulk Up" "Bullet Seed" "Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Iron Tail" "Thunderbolt" "Thunder" "Earthquake" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Flamethrower" "Sludge Bomb" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Overheat" "Cut" "Fly" "Surf" "Strength" "Flash" "Rock Smash" "Waterfall" "Dive" /
+"Dragon Claw" "Water Pulse" "Calm Mind" "Roar" "Toxic" "Hail" "Bulk Up" "Bullet Seed" "Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Iron Tail" "Thunderbolt" "Thunder" "Earthquake" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Flamethrower" "Sludge Bomb" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Overheat" "Cut" "Fly" "Surf" "Strength" "Flash" "Rock Smash" "Waterfall" "Dive" /
+"Dragon Claw" "Water Pulse" "Calm Mind" "Roar" "Toxic" "Hail" "Bulk Up" "Bullet Seed" "Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Iron Tail" "Thunderbolt" "Thunder" "Earthquake" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Flamethrower" "Sludge Bomb" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Overheat" "Cut" "Fly" "Surf" "Strength" "Flash" "Rock Smash" "Waterfall" "Dive" /
+"Dragon Claw" "Water Pulse" "Calm Mind" "Roar" "Toxic" "Hail" "Bulk Up" "Bullet Seed" "Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Iron Tail" "Thunderbolt" "Thunder" "Earthquake" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Flamethrower" "Sludge Bomb" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Overheat" "Cut" "Fly" "Surf" "Strength" "Flash" "Rock Smash" "Waterfall" "Dive" /
+"Dragon Claw" "Water Pulse" "Calm Mind" "Roar" "Toxic" "Hail" "Bulk Up" "Bullet Seed" "Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Iron Tail" "Thunderbolt" "Thunder" "Earthquake" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Flamethrower" "Sludge Bomb" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Overheat" "Cut" "Fly" "Surf" "Strength" "Flash" "Rock Smash" "Waterfall" "Dive" /
+"Dragon Claw" "Water Pulse" "Calm Mind" "Roar" "Toxic" "Hail" "Bulk Up" "Bullet Seed" "Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Iron Tail" "Thunderbolt" "Thunder" "Earthquake" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Flamethrower" "Sludge Bomb" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Overheat" "Cut" "Fly" "Surf" "Strength" "Flash" "Rock Smash" "Waterfall" "Dive" /
+"Dragon Claw" "Water Pulse" "Calm Mind" "Roar" "Toxic" "Hail" "Bulk Up" "Bullet Seed" "Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Iron Tail" "Thunderbolt" "Thunder" "Earthquake" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Flamethrower" "Sludge Bomb" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Overheat" "Cut" "Fly" "Surf" "Strength" "Flash" "Rock Smash" "Waterfall" "Dive" /
+"Dragon Claw" "Water Pulse" "Calm Mind" "Roar" "Toxic" "Hail" "Bulk Up" "Bullet Seed" "Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Iron Tail" "Thunderbolt" "Thunder" "Earthquake" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Flamethrower" "Sludge Bomb" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Overheat" "Cut" "Fly" "Surf" "Strength" "Flash" "Rock Smash" "Waterfall" "Dive" /
+"Dragon Claw" "Water Pulse" "Calm Mind" "Roar" "Toxic" "Hail" "Bulk Up" "Bullet Seed" "Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Iron Tail" "Thunderbolt" "Thunder" "Earthquake" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Flamethrower" "Sludge Bomb" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Overheat" "Cut" "Fly" "Surf" "Strength" "Flash" "Rock Smash" "Waterfall" "Dive" /
+"Dragon Claw" "Water Pulse" "Calm Mind" "Roar" "Toxic" "Hail" "Bulk Up" "Bullet Seed" "Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Iron Tail" "Thunderbolt" "Thunder" "Earthquake" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Flamethrower" "Sludge Bomb" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Overheat" "Cut" "Fly" "Surf" "Strength" "Flash" "Rock Smash" "Waterfall" "Dive" /
+"Dragon Claw" "Water Pulse" "Calm Mind" "Roar" "Toxic" "Hail" "Bulk Up" "Bullet Seed" "Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Iron Tail" "Thunderbolt" "Thunder" "Earthquake" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Flamethrower" "Sludge Bomb" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Overheat" "Cut" "Fly" "Surf" "Strength" "Flash" "Rock Smash" "Waterfall" "Dive" /
+"Dragon Claw" "Water Pulse" "Calm Mind" "Roar" "Toxic" "Hail" "Bulk Up" "Bullet Seed" "Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Iron Tail" "Thunderbolt" "Thunder" "Earthquake" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Flamethrower" "Sludge Bomb" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Overheat" "Cut" "Fly" "Surf" "Strength" "Flash" "Rock Smash" "Waterfall" "Dive" /
+"Dragon Claw" "Water Pulse" "Calm Mind" "Roar" "Toxic" "Hail" "Bulk Up" "Bullet Seed" "Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Iron Tail" "Thunderbolt" "Thunder" "Earthquake" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Flamethrower" "Sludge Bomb" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Overheat" "Cut" "Fly" "Surf" "Strength" "Flash" "Rock Smash" "Waterfall" "Dive" /
+"Dragon Claw" "Water Pulse" "Calm Mind" "Roar" "Toxic" "Hail" "Bulk Up" "Bullet Seed" "Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Iron Tail" "Thunderbolt" "Thunder" "Earthquake" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Flamethrower" "Sludge Bomb" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Overheat" "Cut" "Fly" "Surf" "Strength" "Flash" "Rock Smash" "Waterfall" "Dive" /
+"Water Pulse" "Toxic" "Hail" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Double Team" "Facade" "Rest" "Attract" "Cut" "Surf" "Waterfall" "Dive" /
+"Water Pulse" "Ice Beam" "Blizzard" "Protect" "Rain Dance" "Facade" "Rest" "Surf" "Waterfall" /
+"Focus Punch" "Roar" "Toxic" "Bulk Up" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Solarbeam" "Earthquake" "Dig" "Psychic" "Brick Break" "Double Team" "Flamethrower" "Fire Blast" "Rock Tomb" "Torment" "Facade" "Rest" "Attract" "Thief" "Snatch" "Overheat" "Strength" "Rock Smash" /
+"Focus Punch" "Bulk Up" "Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Solarbeam" "Earthquake" "Dig" "Psychic" "Brick Break" "Flamethrower" "Fire Blast" "Rock Tomb" "Facade" "Rest" "Attract" "Thief" "Overheat" /
+"Toxic" "Bullet Seed" "Sunny Day" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Dig" "Shadow Ball" "Double Team" "Facade" "Rest" "Attract" "Flash" /
+"Toxic" "Bullet Seed" "Sunny Day" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Dig" "Shadow Ball" "Double Team" "Facade" "Rest" "Attract" "Flash" /
+"Toxic" "Bullet Seed" "Sunny Day" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Dig" "Shadow Ball" "Double Team" "Facade" "Rest" "Attract" "Flash" /
+"Toxic" "Bullet Seed" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Dig" "Shadow Ball" "Double Team" "Facade" "Rest" "Attract" "Cut" "Flash" "Rock Smash" /
+"Toxic" "Bullet Seed" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Dig" "Shadow Ball" "Double Team" "Facade" "Rest" "Attract" "Cut" "Flash" "Rock Smash" /
+"Toxic" "Bullet Seed" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Dig" "Shadow Ball" "Double Team" "Facade" "Rest" "Attract" "Cut" "Flash" "Rock Smash" /
+"Toxic" "Bulk Up" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Iron Tail" "Psychic" "Brick Break" "Double Team" "Sludge Bomb" "Sandstorm" "Aerial Ace" "Torment" "Facade" "Rest" "Attract" "Thief" "Fly" "Strength" "Rock Smash" /
+"Toxic" "Bulk Up" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Iron Tail" "Thunderbolt" "Thunder" "Psychic" "Brick Break" "Double Team" "Shock Wave" "Sludge Bomb" "Torment" "Facade" "Rest" "Attract" "Thief" "Fly" "Strength" "Rock Smash" /
+"Calm Mind" "Toxic" "Bulk Up" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Iron Tail" "Earthquake" "Dig" "Psychic" "Brick Break" "Double Team" "Sludge Bomb" "Sandstorm" "Rock Tomb" "Facade" "Rest" "Attract" "Fly" "Strength" "Rock Smash" /
+"Calm Mind" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Psychic" "Sludge Bomb" "Torment" "Facade" "Rest" "Fly" "Rock Smash" /
+"Dragon Claw" "Roar" "Toxic" "Hail" "Sunny Day" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Safeguard" "Psychic" "Shadow Ball" "Double Team" "Reflect" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Steel Wing" "Cut" "Fly" "Strength" "Rock Smash" /
+"Dragon Claw" "Roar" "Toxic" "Hail" "Sunny Day" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Safeguard" "Psychic" "Shadow Ball" "Double Team" "Reflect" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Steel Wing" "Cut" "Fly" "Strength" "Rock Smash" /
+"Water Pulse" "Calm Mind" "Roar" "Toxic" "Hail" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Safeguard" "Brick Break" "Double Team" "Reflect" "Aerial Ace" "Facade" "Rest" "Cut" "Surf" "Strength" "Rock Smash" /
+"Focus Punch" "Calm Mind" "Toxic" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Safeguard" "Thunderbolt" "Thunder" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Shock Wave" "Facade" "Rest" "Skill Swap" "Snatch" "Strength" "Flash" "Rock Smash" /
+"Toxic" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Solarbeam" "Thunderbolt" "Thunder" "Psychic" "Double Team" "Reflect" "Shock Wave" "Flamethrower" "Aerial Ace" "Facade" "Rest" "Fly" "Flash" /
+"Toxic" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Solarbeam" "Thunderbolt" "Thunder" "Psychic" "Double Team" "Reflect" "Shock Wave" "Flamethrower" "Aerial Ace" "Facade" "Rest" "Fly" "Flash" /
+"Toxic" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Solarbeam" "Thunderbolt" "Thunder" "Psychic" "Double Team" "Reflect" "Shock Wave" "Flamethrower" "Aerial Ace" "Facade" "Rest" "Fly" "Flash" /
+"Toxic" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Solarbeam" "Thunderbolt" "Thunder" "Psychic" "Double Team" "Reflect" "Shock Wave" "Flamethrower" "Aerial Ace" "Facade" "Rest" "Fly" "Flash" /
+"Water Pulse" "Toxic" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Dig" "Brick Break" "Double Team" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Snatch" "Cut" "Surf" "Strength" "Rock Smash" "Waterfall" "Dive" /
+"Water Pulse" "Toxic" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Dig" "Brick Break" "Double Team" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Snatch" "Cut" "Surf" "Strength" "Rock Smash" "Waterfall" "Dive" /
+"Calm Mind" "Toxic" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Flash" /
+"Calm Mind" "Toxic" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Flash" /
+"Calm Mind" "Toxic" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Flash" /
+"Calm Mind" "Toxic" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Flash" /
+"Calm Mind" "Toxic" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Flash" /
+"Calm Mind" "Toxic" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Flash" /
+"Calm Mind" "Toxic" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Flash" /
+"Calm Mind" "Toxic" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Flash" /
+"Calm Mind" "Toxic" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Flash" /
+"Calm Mind" "Toxic" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Flash" /
+"Calm Mind" "Toxic" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Flash" /
+"Calm Mind" "Toxic" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Flash" /
+"Calm Mind" "Toxic" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Flash" /
+"Calm Mind" "Toxic" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Flash" /
+"Calm Mind" "Toxic" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Flash" /
+"Calm Mind" "Toxic" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Flash" /
+"Calm Mind" "Toxic" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Flash" /
+"Calm Mind" "Toxic" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Flash" /
+"Calm Mind" "Toxic" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Flash" /
+"Calm Mind" "Toxic" "Sunny Day" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Facade" "Rest" "Attract" "Flash" /
+"Calm Mind" "Toxic" "Sunny Day" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Facade" "Rest" "Attract" "Flash" /
+"Calm Mind" "Toxic" "Sunny Day" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Facade" "Rest" "Attract" "Flash" /
+"Calm Mind" "Toxic" "Sunny Day" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Facade" "Rest" "Attract" "Flash" /
+"Calm Mind" "Toxic" "Sunny Day" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Facade" "Rest" "Attract" "Skill Swap" "Flash" /
+"Calm Mind" "Toxic" "Sunny Day" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Facade" "Rest" "Attract" "Skill Swap" "Flash" /
+"Calm Mind" "Toxic" "Sunny Day" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Facade" "Rest" "Attract" "Skill Swap" "Flash" /
+"Calm Mind" "Toxic" "Sunny Day" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Facade" "Rest" "Attract" "Skill Swap" "Flash" /
+"Calm Mind" "Toxic" "Sunny Day" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Facade" "Rest" "Attract" "Skill Swap" "Flash" /
+"Calm Mind" "Toxic" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Facade" "Rest" "Attract" "Skill Swap" "Flash" /
+"Calm Mind" "Toxic" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Facade" "Rest" "Attract" "Skill Swap" "Flash" /
+"Calm Mind" "Toxic" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Facade" "Rest" "Attract" "Skill Swap" "Flash" /
+"Calm Mind" "Toxic" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Facade" "Rest" "Attract" "Skill Swap" "Flash" /
+"Roar" "Toxic" "Sunny Day" "Protect" "Rain Dance" "Iron Tail" "Dig" "Double Team" "Facade" "Rest" "Attract" "Surf" "Flash" "Rock Smash" /
+"Roar" "Toxic" "Sunny Day" "Protect" "Rain Dance" "Iron Tail" "Dig" "Double Team" "Facade" "Rest" "Attract" "Surf" "Flash" "Rock Smash" /
+"Roar" "Toxic" "Sunny Day" "Protect" "Rain Dance" "Iron Tail" "Dig" "Double Team" "Facade" "Rest" "Attract" "Surf" "Flash" "Rock Smash" /
+"Roar" "Toxic" "Sunny Day" "Protect" "Rain Dance" "Iron Tail" "Dig" "Double Team" "Facade" "Rest" "Attract" "Surf" "Flash" "Rock Smash" /
+"Roar" "Toxic" "Sunny Day" "Protect" "Rain Dance" "Iron Tail" "Dig" "Double Team" "Facade" "Rest" "Attract" "Surf" "Flash" "Rock Smash" /
+"Roar" "Toxic" "Sunny Day" "Protect" "Rain Dance" "Iron Tail" "Dig" "Double Team" "Facade" "Rest" "Attract" "Surf" "Flash" "Rock Smash" /
+"Roar" "Toxic" "Sunny Day" "Protect" "Rain Dance" "Iron Tail" "Dig" "Double Team" "Facade" "Rest" "Attract" "Surf" "Flash" "Rock Smash" /
+"Roar" "Toxic" "Sunny Day" "Protect" "Rain Dance" "Iron Tail" "Dig" "Double Team" "Facade" "Rest" "Attract" "Surf" "Flash" "Rock Smash" /
+"Roar" "Toxic" "Sunny Day" "Protect" "Rain Dance" "Iron Tail" "Dig" "Double Team" "Facade" "Rest" "Attract" "Surf" "Flash" "Rock Smash" /
+"Calm Mind" "Toxic" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Safeguard" "Iron Tail" "Thunderbolt" "Dig" "Psychic" "Shadow Ball" "Double Team" "Reflect" "Shock Wave" "Torment" "Facade" "Rest" "Attract" "Skill Swap" "Snatch" "Cut" "Flash" /
+"Toxic" "Sunny Day" "Hyper Beam" "Protect" "Rain Dance" "Shadow Ball" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Aerial Ace" "Facade" "Rest" "Attract" "Cut" "Rock Smash" /
+"Toxic" "Bullet Seed" "Sunny Day" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Shadow Ball" "Double Team" "Flamethrower" "Sludge Bomb" "Fire Blast" "Facade" "Rest" "Attract" "Thief" "Skill Swap" "Flash" "Rock Smash" /
+"Toxic" "Bullet Seed" "Sunny Day" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Shadow Ball" "Double Team" "Flamethrower" "Sludge Bomb" "Fire Blast" "Facade" "Rest" "Attract" "Thief" "Skill Swap" "Flash" "Rock Smash" /
+"Toxic" "Bullet Seed" "Sunny Day" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Shadow Ball" "Double Team" "Flamethrower" "Sludge Bomb" "Fire Blast" "Facade" "Rest" "Attract" "Thief" "Skill Swap" "Flash" "Rock Smash" /
+"Toxic" "Bullet Seed" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Shadow Ball" "Double Team" "Flamethrower" "Sludge Bomb" "Fire Blast" "Facade" "Rest" "Attract" "Thief" "Skill Swap" "Flash" "Rock Smash" /
+"Toxic" "Bullet Seed" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Shadow Ball" "Double Team" "Flamethrower" "Sludge Bomb" "Fire Blast" "Facade" "Rest" "Attract" "Thief" "Skill Swap" "Flash" "Rock Smash" /
+"Toxic" "Bullet Seed" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Shadow Ball" "Double Team" "Flamethrower" "Sludge Bomb" "Fire Blast" "Facade" "Rest" "Attract" "Thief" "Skill Swap" "Flash" "Rock Smash" /
+"Calm Mind" "Roar" "Toxic" "Hail" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Thunderbolt" "Thunder" "Psychic" "Double Team" "Reflect" "Facade" "Rest" "Cut" "Flash" /
+"Toxic" "Sunny Day" "Hyper Beam" "Protect" "Safeguard" "Iron Tail" "Earthquake" "Dig" "Brick Break" "Double Team" "Shock Wave" "Sandstorm" "Facade" "Rest" "Strength" "Rock Smash" /
+"Toxic" "Sunny Day" "Hyper Beam" "Protect" "Safeguard" "Iron Tail" "Earthquake" "Dig" "Brick Break" "Double Team" "Shock Wave" "Sandstorm" "Facade" "Rest" "Strength" "Rock Smash" /
+"Toxic" "Sunny Day" "Hyper Beam" "Protect" "Safeguard" "Iron Tail" "Earthquake" "Dig" "Brick Break" "Double Team" "Shock Wave" "Sandstorm" "Facade" "Rest" "Strength" "Rock Smash" /
+"Toxic" "Sunny Day" "Hyper Beam" "Protect" "Safeguard" "Iron Tail" "Earthquake" "Dig" "Brick Break" "Double Team" "Shock Wave" "Sandstorm" "Facade" "Rest" "Strength" "Rock Smash" /
+"Focus Punch" "Calm Mind" "Toxic" "Sunny Day" "Taunt" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Safeguard" "Thunderbolt" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Sandstorm" "Rock Tomb" "Torment" "Facade" "Rest" "Thief" "Skill Swap" "Snatch" "Flash" /
+"Calm Mind" "Toxic" "Sunny Day" "Taunt" "Protect" "Rain Dance" "Safeguard" "Double Team" "Sandstorm" "Aerial Ace" "Facade" "Rest" "Attract" "Steel Wing" "Fly" /
+"Calm Mind" "Toxic" "Sunny Day" "Taunt" "Protect" "Rain Dance" "Safeguard" "Double Team" "Sandstorm" "Aerial Ace" "Facade" "Rest" "Attract" "Steel Wing" "Fly" /
+"Calm Mind" "Toxic" "Sunny Day" "Taunt" "Protect" "Rain Dance" "Safeguard" "Double Team" "Sandstorm" "Aerial Ace" "Facade" "Rest" "Attract" "Steel Wing" "Fly" /
+"Roar" "Toxic" "Taunt" "Protect" "Iron Tail" "Dig" "Double Team" "Sandstorm" "Rock Tomb" "Facade" "Rest" "Attract" /
+"Focus Punch" "Roar" "Toxic" "Bulk Up" "Sunny Day" "Taunt" "Protect" "Iron Tail" "Dig" "Brick Break" "Double Team" "Sandstorm" "Rock Tomb" "Facade" "Rest" "Attract" /
+"Roar" "Toxic" "Bulk Up" "Taunt" "Protect" "Iron Tail" "Dig" "Brick Break" "Double Team" "Sandstorm" "Rock Tomb" "Facade" "Rest" "Attract" /
+"Water Pulse" "Toxic" "Hail" "Ice Beam" "Protect" "Rain Dance" "Iron Tail" "Earthquake" "Double Team" "Facade" "Rest" "Attract" "Surf" "Waterfall" "Dive" /
+"Dragon Claw" "Roar" "Toxic" "Hail" "Sunny Day" "Ice Beam" "Hyper Beam" "Protect" "Rain Dance" "Thunderbolt" "Shadow Ball" "Double Team" "Flamethrower" "Sandstorm" "Aerial Ace" "Facade" "Rest" "Steel Wing" "Surf" /
+"Dragon Claw" "Roar" "Toxic" "Hail" "Sunny Day" "Ice Beam" "Hyper Beam" "Protect" "Rain Dance" "Thunderbolt" "Shadow Ball" "Double Team" "Flamethrower" "Sandstorm" "Aerial Ace" "Facade" "Rest" "Steel Wing" "Surf" /
+"Dragon Claw" "Roar" "Toxic" "Hail" "Sunny Day" "Ice Beam" "Hyper Beam" "Protect" "Rain Dance" "Thunderbolt" "Shadow Ball" "Double Team" "Flamethrower" "Sandstorm" "Aerial Ace" "Facade" "Rest" "Steel Wing" "Surf" /
+"Dragon Claw" "Roar" "Toxic" "Hail" "Sunny Day" "Ice Beam" "Hyper Beam" "Protect" "Rain Dance" "Thunderbolt" "Shadow Ball" "Double Team" "Flamethrower" "Sandstorm" "Aerial Ace" "Facade" "Rest" "Steel Wing" "Surf" /
+"Dragon Claw" "Roar" "Toxic" "Hail" "Sunny Day" "Ice Beam" "Hyper Beam" "Protect" "Rain Dance" "Thunderbolt" "Shadow Ball" "Double Team" "Flamethrower" "Sandstorm" "Aerial Ace" "Facade" "Rest" "Steel Wing" "Surf" /
+"Dragon Claw" "Roar" "Toxic" "Hail" "Sunny Day" "Ice Beam" "Hyper Beam" "Protect" "Rain Dance" "Thunderbolt" "Shadow Ball" "Double Team" "Flamethrower" "Sandstorm" "Aerial Ace" "Facade" "Rest" "Steel Wing" "Surf" /
+"Dragon Claw" "Roar" "Toxic" "Hail" "Sunny Day" "Ice Beam" "Hyper Beam" "Protect" "Rain Dance" "Thunderbolt" "Shadow Ball" "Double Team" "Flamethrower" "Sandstorm" "Aerial Ace" "Facade" "Rest" "Steel Wing" "Surf" /
+"Dragon Claw" "Roar" "Toxic" "Hail" "Sunny Day" "Ice Beam" "Hyper Beam" "Protect" "Rain Dance" "Thunderbolt" "Shadow Ball" "Double Team" "Flamethrower" "Sandstorm" "Aerial Ace" "Facade" "Rest" "Steel Wing" "Surf" /
+"Dragon Claw" "Roar" "Toxic" "Hail" "Sunny Day" "Ice Beam" "Hyper Beam" "Protect" "Rain Dance" "Thunderbolt" "Shadow Ball" "Double Team" "Flamethrower" "Sandstorm" "Aerial Ace" "Facade" "Rest" "Steel Wing" "Surf" /
+"Dragon Claw" "Roar" "Toxic" "Hail" "Sunny Day" "Ice Beam" "Hyper Beam" "Protect" "Rain Dance" "Thunderbolt" "Shadow Ball" "Double Team" "Flamethrower" "Sandstorm" "Aerial Ace" "Facade" "Rest" "Steel Wing" "Surf" /
+"Dragon Claw" "Roar" "Toxic" "Hail" "Sunny Day" "Ice Beam" "Hyper Beam" "Protect" "Rain Dance" "Thunderbolt" "Shadow Ball" "Double Team" "Flamethrower" "Sandstorm" "Aerial Ace" "Facade" "Rest" "Steel Wing" "Surf" /
+"Dragon Claw" "Roar" "Toxic" "Hail" "Sunny Day" "Ice Beam" "Hyper Beam" "Protect" "Rain Dance" "Thunderbolt" "Shadow Ball" "Double Team" "Flamethrower" "Sandstorm" "Aerial Ace" "Facade" "Rest" "Steel Wing" "Surf" /
+"Dragon Claw" "Roar" "Toxic" "Hail" "Sunny Day" "Ice Beam" "Hyper Beam" "Protect" "Rain Dance" "Thunderbolt" "Shadow Ball" "Double Team" "Flamethrower" "Sandstorm" "Aerial Ace" "Facade" "Rest" "Steel Wing" "Surf" /
+"Dragon Claw" "Roar" "Toxic" "Hail" "Sunny Day" "Ice Beam" "Hyper Beam" "Protect" "Rain Dance" "Thunderbolt" "Shadow Ball" "Double Team" "Flamethrower" "Sandstorm" "Aerial Ace" "Facade" "Rest" "Steel Wing" "Surf" /
+"Dragon Claw" "Roar" "Toxic" "Hail" "Sunny Day" "Ice Beam" "Hyper Beam" "Protect" "Rain Dance" "Thunderbolt" "Shadow Ball" "Double Team" "Flamethrower" "Sandstorm" "Aerial Ace" "Facade" "Rest" "Steel Wing" "Surf" /
+"Dragon Claw" "Roar" "Toxic" "Hail" "Sunny Day" "Ice Beam" "Hyper Beam" "Protect" "Rain Dance" "Thunderbolt" "Shadow Ball" "Double Team" "Flamethrower" "Sandstorm" "Aerial Ace" "Facade" "Rest" "Steel Wing" "Surf" /
+"Dragon Claw" "Roar" "Toxic" "Hail" "Sunny Day" "Ice Beam" "Hyper Beam" "Protect" "Rain Dance" "Thunderbolt" "Shadow Ball" "Double Team" "Flamethrower" "Sandstorm" "Aerial Ace" "Facade" "Rest" "Steel Wing" "Surf" /
+"Calm Mind" "Toxic" "Hyper Beam" "Light Screen" "Protect" "Safeguard" "Solarbeam" "Earthquake" "Psychic" "Double Team" "Reflect" "Sandstorm" "Rock Tomb" "Facade" "Rest" "Attract" /
+"Calm Mind" "Toxic" "Hyper Beam" "Light Screen" "Protect" "Safeguard" "Solarbeam" "Earthquake" "Psychic" "Double Team" "Reflect" "Sandstorm" "Rock Tomb" "Facade" "Rest" "Attract" /
+"Calm Mind" "Toxic" "Hyper Beam" "Light Screen" "Protect" "Safeguard" "Solarbeam" "Earthquake" "Psychic" "Double Team" "Reflect" "Sandstorm" "Rock Tomb" "Facade" "Rest" "Attract" /
+"Calm Mind" "Toxic" "Hyper Beam" "Light Screen" "Protect" "Safeguard" "Solarbeam" "Earthquake" "Psychic" "Double Team" "Reflect" "Sandstorm" "Rock Tomb" "Facade" "Rest" "Attract" /
+"Calm Mind" "Toxic" "Hyper Beam" "Light Screen" "Protect" "Safeguard" "Solarbeam" "Earthquake" "Psychic" "Double Team" "Reflect" "Sandstorm" "Rock Tomb" "Facade" "Rest" "Attract" /
+"Calm Mind" "Toxic" "Hyper Beam" "Light Screen" "Protect" "Safeguard" "Solarbeam" "Earthquake" "Psychic" "Double Team" "Reflect" "Sandstorm" "Rock Tomb" "Facade" "Rest" "Attract" /
+"Calm Mind" "Toxic" "Hyper Beam" "Light Screen" "Protect" "Safeguard" "Solarbeam" "Earthquake" "Psychic" "Double Team" "Reflect" "Sandstorm" "Rock Tomb" "Facade" "Rest" "Attract" /
+"Calm Mind" "Toxic" "Hyper Beam" "Light Screen" "Protect" "Safeguard" "Solarbeam" "Earthquake" "Psychic" "Double Team" "Reflect" "Sandstorm" "Rock Tomb" "Facade" "Rest" "Attract" /
+"Calm Mind" "Toxic" "Hyper Beam" "Light Screen" "Protect" "Safeguard" "Solarbeam" "Earthquake" "Psychic" "Double Team" "Reflect" "Sandstorm" "Rock Tomb" "Facade" "Rest" "Attract" /
+"Calm Mind" "Toxic" "Hyper Beam" "Light Screen" "Protect" "Safeguard" "Solarbeam" "Earthquake" "Psychic" "Double Team" "Reflect" "Sandstorm" "Rock Tomb" "Facade" "Rest" "Attract" /
+"Calm Mind" "Toxic" "Hyper Beam" "Light Screen" "Protect" "Safeguard" "Solarbeam" "Earthquake" "Psychic" "Double Team" "Reflect" "Sandstorm" "Rock Tomb" "Facade" "Rest" "Attract" /
+"Calm Mind" "Toxic" "Hyper Beam" "Light Screen" "Protect" "Safeguard" "Solarbeam" "Earthquake" "Psychic" "Double Team" "Reflect" "Sandstorm" "Rock Tomb" "Facade" "Rest" "Attract" /
+"Calm Mind" "Toxic" "Hyper Beam" "Light Screen" "Protect" "Safeguard" "Solarbeam" "Earthquake" "Psychic" "Double Team" "Reflect" "Sandstorm" "Rock Tomb" "Facade" "Rest" "Attract" /
+"Toxic" "Bulk Up" "Sunny Day" "Taunt" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Thunderbolt" "Thunder" "Psychic" "Shadow Ball" "Double Team" "Facade" "Rest" "Attract" "Thief" "Snatch" /
+"Calm Mind" "Toxic" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Solarbeam" "Earthquake" "Psychic" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Sandstorm" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Thief" /
+"Calm Mind" "Toxic" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Solarbeam" "Earthquake" "Psychic" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Sandstorm" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Thief" /
+"Calm Mind" "Toxic" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Solarbeam" "Earthquake" "Psychic" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Sandstorm" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Thief" /
+"Calm Mind" "Sunny Day" "Ice Beam" "Hyper Beam" "Light Screen" "Protect" "Solarbeam" "Thunderbolt" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Facade" "Rest" "Skill Swap" /
+"Water Pulse" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Steel Wing" "Fly" "Surf" "Dive" /
+"Water Pulse" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Steel Wing" "Fly" "Surf" "Dive" /
+"Toxic" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Thunderbolt" "Thunder" "Brick Break" "Shock Wave" "Sludge Bomb" "Facade" "Rest" "Attract" "Thief" /
+"Calm Mind" "Protect" "Giga Drain" "Psychic" "Shadow Ball" "Facade" "Rest" "Skill Swap" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Psychic" "Shadow Ball" "Reflect" "Facade" "Rest" "Skill Swap" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Water Pulse" "Hail" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Reflect" "Facade" "Rest" "Attract" "Surf" "Waterfall" "Dive" /
+"Calm Mind" "Light Screen" "Protect" "Safeguard" "Psychic" "Shadow Ball" "Reflect" "Facade" "Rest" "Attract" "Skill Swap" /
+"Bullet Seed" "Taunt" "Protect" "Thunderbolt" "Thunder" "Brick Break" "Torment" "Facade" "Rest" "Attract" "Thief" /
+"Hyper Beam" "Protect" "Iron Tail" "Dig" "Brick Break" "Facade" "Rest" /
+"Roar" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Safeguard" "Solarbeam" "Iron Tail" "Dig" "Brick Break" "Reflect" "Sandstorm" "Facade" "Rest" /
+"Toxic" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Solarbeam" "Shadow Ball" "Reflect" "Flamethrower" "Sludge Bomb" "Fire Blast" "Facade" "Rest" "Fly" /
+"Focus Punch" "Bulk Up" "Taunt" "Protect" "Rain Dance" "Dig" "Brick Break" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Attract" "Rock Smash" "Waterfall" "Dive" /
+"Focus Punch" "Roar" "Bulk Up" "Bullet Seed" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Giga Drain" "Solarbeam" "Iron Tail" "Dig" "Brick Break" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Thief" /
+"Calm Mind" "Roar" "Hail" "Bullet Seed" "Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Reflect" "Torment" "Facade" "Rest" "Skill Swap" /
+"Calm Mind" "Bullet Seed" "Sunny Day" "Taunt" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Shadow Ball" "Reflect" "Facade" "Rest" "Skill Swap" /
+"Water Pulse" "Calm Mind" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Psychic" "Shadow Ball" "Facade" "Rest" "Surf" "Waterfall" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
 "Bullet Seed" "Taunt" "Protect" "Giga Drain" "Solarbeam" "Facade" "Rest" /
 "Bullet Seed" "Taunt" "Protect" "Giga Drain" "Solarbeam" "Aerial Ace" "Facade" "Rest" /
 "Bullet Seed" "Taunt" "Hyper Beam" "Protect" "Giga Drain" "Solarbeam" "Shadow Ball" "Brick Break" "Double Team" "Aerial Ace" "Facade" "Rest" "Thief" "Skill Swap" /
@@ -1297,7 +1297,7 @@
 "Water Pulse" "Bulk Up" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Brick Break" "Aerial Ace" "Facade" "Rest" "Surf" /
 "Bullet Seed" "Sunny Day" "Protect" "Rain Dance" "Dig" "Facade" "Rest" "Thief" /
 "Bullet Seed" "Sunny Day" "Hyper Beam" "Protect" "Rain Dance" "Dig" "Facade" "Rest" "Thief" /
-/
+"Bullet Seed" "Sunny Day" "Hyper Beam" "Protect" "Rain Dance" "Dig" "Facade" "Rest" "Thief" /
 "Bullet Seed" "Sunny Day" "Protect" "Rain Dance" "Giga Drain" "Facade" "Rest" "Thief" /
 "Bullet Seed" "Sunny Day" "Taunt" "Protect" "Rain Dance" "Giga Drain" "Brick Break" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Thief" /
 "Sunny Day" "Protect" "Rain Dance" "Facade" "Rest" "Thief" /
@@ -1307,16 +1307,16 @@
 "Focus Punch" "Bulk Up" "Sunny Day" "Hyper Beam" "Protect" "Rain Dance" "Thunderbolt" "Thunder" "Dig" "Brick Break" "Rock Tomb" "Facade" "Rest" "Thief" /
 "Water Pulse" "Bullet Seed" "Sunny Day" "Taunt" "Protect" "Rain Dance" "Dig" "Aerial Ace" "Facade" "Rest" "Thief" /
 "Water Pulse" "Bullet Seed" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Dig" "Aerial Ace" "Facade" "Rest" "Thief" /
-/
+"Water Pulse" "Bullet Seed" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Dig" "Aerial Ace" "Facade" "Rest" "Thief" /
 "Roar" "Sunny Day" "Protect" "Rain Dance" "Dig" "Facade" "Rest" /
 "Roar" "Sunny Day" "Hyper Beam" "Protect" "Rain Dance" "Dig" "Facade" "Rest" /
 "Bullet Seed" "Sunny Day" "Protect" "Giga Drain" "Solarbeam" "Facade" "Rest" /
 "Bullet Seed" "Sunny Day" "Protect" "Giga Drain" "Solarbeam" "Facade" "Rest" /
 "Bullet Seed" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Reflect" "Facade" "Rest" /
 "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Aerial Ace" "Torment" "Facade" "Rest" "Thief" "Fly" /
-/
-/
-/
+"Sunny Day" "Taunt" "Hyper Beam" "Protect" "Aerial Ace" "Torment" "Facade" "Rest" "Thief" "Fly" /
+"Sunny Day" "Taunt" "Hyper Beam" "Protect" "Aerial Ace" "Torment" "Facade" "Rest" "Thief" "Fly" /
+"Sunny Day" "Taunt" "Hyper Beam" "Protect" "Aerial Ace" "Torment" "Facade" "Rest" "Thief" "Fly" /
 "Sunny Day" "Protect" "Rain Dance" "Earthquake" "Dig" "Sandstorm" "Facade" "Rest" /
 "Sunny Day" "Hyper Beam" "Protect" "Rain Dance" "Earthquake" "Dig" "Sandstorm" "Facade" "Rest" /
 "Focus Punch" "Sunny Day" "Hyper Beam" "Protect" "Rain Dance" "Earthquake" "Dig" "Brick Break" "Sandstorm" "Rock Tomb" "Facade" "Rest" /
@@ -1350,7 +1350,7 @@
 "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Sandstorm" "Rock Tomb" "Aerial Ace" "Torment" "Facade" "Rest" "Thief" "Fly" /
 "Water Pulse" "Ice Beam" "Blizzard" "Protect" "Rain Dance" "Facade" "Rest" "Surf" "Waterfall" "Dive" /
 "Focus Punch" "Water Pulse" "Bulk Up" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Facade" "Rest" "Surf" "Waterfall" "Dive" /
-/
+"Focus Punch" "Water Pulse" "Bulk Up" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Facade" "Rest" "Surf" "Waterfall" "Dive" /
 "Toxic" "Sunny Day" "Taunt" "Protect" "Rain Dance" "Sludge Bomb" "Sandstorm" "Torment" "Facade" "Rest" "Thief" /
 "Toxic" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Sludge Bomb" "Sandstorm" "Torment" "Facade" "Rest" "Thief" "Overheat" /
 "Dragon Claw" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Iron Tail" "Thunderbolt" "Aerial Ace" "Facade" "Rest" "Thief" "Overheat" /
@@ -1365,13 +1365,13 @@
 "Water Pulse" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Psychic" "Rest" "Surf" "Waterfall" /
 "Water Pulse" "Hyper Beam" "Protect" "Rain Dance" "Earthquake" "Facade" "Rest" "Surf" "Waterfall" "Dive" /
 "Water Pulse" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Facade" "Rest" "Surf" /
-/
-/
+"Water Pulse" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Facade" "Rest" "Surf" /
+"Water Pulse" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Facade" "Rest" "Surf" /
 "Focus Punch" "Bulk Up" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Thunderbolt" "Thunder" "Earthquake" "Dig" "Shadow Ball" "Brick Break" "Rock Tomb" "Facade" "Rest" "Thief" "Overheat" /
 "Water Pulse" "Toxic" "Hyper Beam" "Protect" "Rain Dance" "Earthquake" "Dig" "Sludge Bomb" "Sandstorm" "Rock Tomb" "Facade" "Rest" "Surf" "Waterfall" /
 "Calm Mind" "Roar" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Thunderbolt" "Thunder" "Earthquake" "Psychic" "Shadow Ball" "Reflect" "Facade" "Rest" "Thief" "Skill Swap" /
 "Calm Mind" "Toxic" "Sunny Day" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Solarbeam" "Thunderbolt" "Thunder" "Earthquake" "Dig" "Shadow Ball" "Flamethrower" "Sandstorm" "Fire Blast" "Rock Tomb" "Facade" "Rest" "Thief" /
-/
+"Calm Mind" "Toxic" "Sunny Day" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Solarbeam" "Thunderbolt" "Thunder" "Earthquake" "Dig" "Shadow Ball" "Flamethrower" "Sandstorm" "Fire Blast" "Rock Tomb" "Facade" "Rest" "Thief" /
 "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Dig" "Brick Break" "Sandstorm" "Rock Tomb" "Aerial Ace" "Torment" "Facade" "Rest" "Thief" /
 "Roar" "Bulk Up" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Earthquake" "Dig" "Brick Break" "Sandstorm" "Rock Tomb" "Facade" "Rest" /
 "Water Pulse" "Calm Mind" "Roar" "Bulk Up" "Sunny Day" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Thunderbolt" "Thunder" "Dig" "Psychic" "Reflect" "Flamethrower" "Sandstorm" "Fire Blast" "Rock Tomb" "Facade" "Rest" /
@@ -1389,7 +1389,7 @@
 "Dragon Claw" "Ice Beam" "Blizzard" "Protect" "Rain Dance" "Dig" "Brick Break" "Aerial Ace" "Facade" "Rest" /
 "Dragon Claw" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Earthquake" "Dig" "Brick Break" "Aerial Ace" "Facade" "Rest" /
 "Light Screen" "Protect" "Shadow Ball" "Reflect" "Rest" "Thief" /
-/
+"Light Screen" "Protect" "Shadow Ball" "Reflect" "Rest" "Thief" /
 "Focus Punch" "Hyper Beam" "Light Screen" "Protect" "Thunderbolt" "Thunder" "Psychic" "Shadow Ball" "Reflect" "Sandstorm" "Rest" "Thief" /
 "Bullet Seed" "Sunny Day" "Taunt" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Solarbeam" "Reflect" "Facade" "Rest" /
 "Taunt" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Brick Break" "Aerial Ace" "Facade" "Rest" /
@@ -1399,29 +1399,29 @@
 "Calm Mind" "Taunt" "Hyper Beam" "Light Screen" "Protect" "Thunderbolt" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Reflect" "Aerial Ace" "Rest" "Skill Swap" /
 "Focus Punch" "Dragon Claw" "Roar" "Bulk Up" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Solarbeam" "Dig" "Brick Break" "Flamethrower" "Fire Blast" "Facade" "Rest" "Overheat" "Rock Smash" /
 "Dragon Claw" "Calm Mind" "Taunt" "Hyper Beam" "Light Screen" "Protect" "Solarbeam" "Thunderbolt" "Thunder" "Reflect" "Shock Wave" "Facade" "Rest" "Overheat" /
-/
-/
-/
-/
+"Bulk Up" "Sunny Day" "Hyper Beam" "Protect" "Rain Dance" "Earthquake" "Dig" "Sandstorm" "Rock Tomb" "Facade" "Rest" "Thief" "Surf" /
+"Bulk Up" "Sunny Day" "Hyper Beam" "Protect" "Rain Dance" "Earthquake" "Dig" "Flamethrower" "Sandstorm" "Fire Blast" "Rock Tomb" "Facade" "Rest" "Thief" "Overheat" /
+"Water Pulse" "Bulk Up" "Hyper Beam" "Protect" "Rain Dance" "Earthquake" "Dig" "Sandstorm" "Rock Tomb" "Facade" "Rest" "Thief" "Surf" /
+"Water Pulse" "Toxic" "Protect" "Rain Dance" "Earthquake" "Dig" "Sludge Bomb" "Sandstorm" "Rock Tomb" "Facade" "Rest" "Surf" "Waterfall" /
 "Dragon Claw" "Water Pulse" "Roar" "Sunny Day" "Hyper Beam" "Protect" "Rain Dance" "Flamethrower" "Facade" "Rest" "Surf" "Waterfall" /
 "Calm Mind" "Taunt" "Hyper Beam" "Protect" "Giga Drain" "Solarbeam" "Brick Break" "Aerial Ace" "Facade" "Rest" /
 "Bullet Seed" "Sunny Day" "Hyper Beam" "Protect" "Giga Drain" "Solarbeam" "Reflect" "Facade" "Rest" /
 "Calm Mind" "Protect" "Giga Drain" "Solarbeam" "Shadow Ball" "Reflect" "Rest" /
-/
+"Calm Mind" "Protect" "Giga Drain" "Solarbeam" "Shadow Ball" "Reflect" "Rest" /
 "Calm Mind" "Hyper Beam" "Protect" "Giga Drain" "Solarbeam" "Shadow Ball" "Reflect" "Rest" /
-/
+"Calm Mind" "Hyper Beam" "Protect" "Giga Drain" "Solarbeam" "Shadow Ball" "Reflect" "Rest" /
 "Focus Punch" "Roar" "Toxic" "Bulk Up" "Taunt" "Hyper Beam" "Protect" "Dig" "Brick Break" "Sludge Bomb" "Rock Tomb" "Facade" "Rest" "Thief" /
 "Calm Mind" "Toxic" "Taunt" "Hyper Beam" "Light Screen" "Protect" "Psychic" "Shadow Ball" "Sludge Bomb" "Facade" "Rest" "Thief" /
 "Calm Mind" "Toxic" "Taunt" "Hyper Beam" "Light Screen" "Protect" "Shadow Ball" "Sludge Bomb" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Fly" /
 "Bullet Seed" "Sunny Day" "Taunt" "Protect" "Rain Dance" "Giga Drain" "Solarbeam" "Brick Break" "Sandstorm" "Rock Tomb" "Facade" "Rest" /
-/
-/
-/
-/
-/
-/
-/
-/
+"Bullet Seed" "Sunny Day" "Taunt" "Protect" "Rain Dance" "Giga Drain" "Solarbeam" "Brick Break" "Sandstorm" "Rock Tomb" "Facade" "Rest" /
+"Bullet Seed" "Sunny Day" "Taunt" "Protect" "Rain Dance" "Giga Drain" "Solarbeam" "Brick Break" "Sandstorm" "Rock Tomb" "Facade" "Rest" /
+"Bullet Seed" "Sunny Day" "Taunt" "Protect" "Rain Dance" "Giga Drain" "Solarbeam" "Brick Break" "Sandstorm" "Rock Tomb" "Facade" "Rest" /
+"Bullet Seed" "Sunny Day" "Taunt" "Protect" "Rain Dance" "Giga Drain" "Solarbeam" "Brick Break" "Sandstorm" "Rock Tomb" "Facade" "Rest" /
+"Bullet Seed" "Sunny Day" "Taunt" "Protect" "Rain Dance" "Giga Drain" "Solarbeam" "Brick Break" "Sandstorm" "Rock Tomb" "Facade" "Rest" /
+"Bullet Seed" "Sunny Day" "Taunt" "Protect" "Rain Dance" "Giga Drain" "Solarbeam" "Brick Break" "Sandstorm" "Rock Tomb" "Facade" "Rest" /
+"Bullet Seed" "Sunny Day" "Taunt" "Protect" "Rain Dance" "Giga Drain" "Solarbeam" "Brick Break" "Sandstorm" "Rock Tomb" "Facade" "Rest" /
+"Focus Punch" "Calm Mind" "Roar" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Earthquake" "Dig" "Brick Break" "Rock Tomb" "Facade" "Rest" "Thief" /
 "Dragon Claw" "Roar" "Hyper Beam" "Light Screen" "Protect" "Solarbeam" "Thunderbolt" "Thunder" "Earthquake" "Brick Break" "Reflect" "Rock Tomb" "Facade" "Rest" "Rock Smash" /
 "Bullet Seed" "Sunny Day" "Hyper Beam" "Protect" "Rain Dance" "Giga Drain" "Solarbeam" "Earthquake" "Reflect" "Facade" "Rest" /
 "Dragon Claw" "Roar" "Sunny Day" "Hyper Beam" "Protect" "Earthquake" "Flamethrower" "Fire Blast" "Facade" "Rest" "Overheat" /
@@ -1429,94 +1429,94 @@
 "Taunt" "Hyper Beam" "Protect" "Earthquake" "Psychic" "Brick Break" "Sandstorm" "Rock Tomb" "Aerial Ace" "Facade" "Rest" /
 "Calm Mind" "Hyper Beam" "Protect" "Psychic" "Brick Break" "Facade" "Rest" /
 "Water Pulse" "Calm Mind" "Roar" "Toxic" "Sunny Day" "Ice Beam" "Hyper Beam" "Protect" "Rain Dance" "Solarbeam" "Thunderbolt" "Thunder" "Earthquake" "Flamethrower" "Facade" "Rest" "Surf" /
-/
-/
+"Water Pulse" "Calm Mind" "Roar" "Toxic" "Sunny Day" "Ice Beam" "Hyper Beam" "Protect" "Rain Dance" "Solarbeam" "Thunderbolt" "Thunder" "Earthquake" "Flamethrower" "Facade" "Rest" "Surf" /
+"Water Pulse" "Calm Mind" "Roar" "Toxic" "Sunny Day" "Ice Beam" "Hyper Beam" "Protect" "Rain Dance" "Solarbeam" "Thunderbolt" "Thunder" "Earthquake" "Flamethrower" "Facade" "Rest" "Surf" /
 "Toxic" "Protect" "Shadow Ball" "Sludge Bomb" "Rest" /
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
-/
+"Toxic" "Sunny Day" "Hyper Beam" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Shadow Ball" "Double Team" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Skill Swap" "Flash" /
+"Toxic" "Sunny Day" "Hyper Beam" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Shadow Ball" "Double Team" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Skill Swap" "Flash" /
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+/
+"Protect" /
+"Protect" /
+"Protect" /
+"Protect" /
+"Protect" /
+"Protect" /
+"Protect" /
+"Protect" /
+"Protect" /
+"Protect" /
+"Protect" /
+"Protect" /
+"Protect" /
+"Protect" /
+"Protect" /
+"Protect" /
+"Protect" /
+"Protect" /
+"Protect" /
+"Roar" "Toxic" "Bulk Up" "Sunny Day" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Iron Tail" "Dig" "Shadow Ball" "Double Team" "Shock Wave" "Sludge Bomb" "Torment" "Facade" "Rest" "Attract" "Thief" "Snatch" /
+"Focus Punch" "Roar" "Toxic" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Iron Tail" "Earthquake" "Dig" "Double Team" "Shock Wave" "Sandstorm" "Rock Tomb" "Torment" "Facade" "Rest" "Attract" "Thief" /
+"Toxic" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Solarbeam" "Thunderbolt" "Thunder" "Dig" "Double Team" "Shock Wave" "Facade" "Rest" "Attract" "Fly" /
+"Toxic" "Bullet Seed" "Sunny Day" "Hyper Beam" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Brick Break" "Double Team" "Aerial Ace" "Facade" "Rest" "Attract" /
+"Dragon Claw" "Toxic" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Iron Tail" "Double Team" "Flamethrower" "Sludge Bomb" "Fire Blast" "Torment" "Facade" "Rest" "Attract" "Thief" "Snatch" "Overheat" /
+"Toxic" "Bulk Up" "Sunny Day" "Taunt" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Thunderbolt" "Thunder" "Psychic" "Shadow Ball" "Double Team" "Facade" "Rest" "Attract" "Thief" "Snatch" /
+"Focus Punch" "Dragon Claw" "Water Pulse" "Roar" "Toxic" "Bulk Up" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Safeguard" "Iron Tail" "Earthquake" "Brick Break" "Double Team" "Shock Wave" "Flamethrower" "Sandstorm" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Attract" /
+"Focus Punch" "Toxic" "Sunny Day" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Iron Tail" "Thunderbolt" "Thunder" "Earthquake" "Dig" "Shadow Ball" "Brick Break" "Double Team" "Flamethrower" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" /
+"Calm Mind" "Toxic" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Safeguard" "Solarbeam" "Psychic" "Double Team" "Reflect" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Skill Swap" /
+"Water Pulse" "Toxic" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Double Team" "Reflect" "Facade" "Rest" "Attract" "Surf" "Waterfall" "Dive" /
+"Toxic" "Hyper Beam" "Protect" "Iron Tail" "Thunderbolt" "Thunder" "Double Team" "Reflect" "Shock Wave" "Facade" "Rest" "Attract" "Thief" /
+"Focus Punch" "Calm Mind" "Toxic" "Light Screen" "Protect" "Rain Dance" "Iron Tail" "Thunderbolt" "Thunder" "Dig" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Facade" "Rest" "Attract" "Thief" "Surf" "Strength" "Flash" "Rock Smash" /
+"Calm Mind" "Roar" "Toxic" "Sunny Day" "Protect" "Rain Dance" "Iron Tail" "Dig" "Shadow Ball" "Double Team" "Reflect" "Facade" "Rest" "Attract" /
+"Roar" "Toxic" "Bullet Seed" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Earthquake" "Double Team" "Reflect" "Sludge Bomb" "Facade" "Rest" "Attract" "Cut" "Strength" "Flash" "Rock Smash" /
+"Focus Punch" "Water Pulse" "Roar" "Toxic" "Hail" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Iron Tail" "Earthquake" "Dig" "Brick Break" "Double Team" "Reflect" "Rock Tomb" "Facade" "Rest" "Attract" "Surf" "Strength" "Rock Smash" "Waterfall" "Dive" /
+"Focus Punch" "Dragon Claw" "Roar" "Toxic" "Sunny Day" "Hyper Beam" "Protect" "Solarbeam" "Iron Tail" "Earthquake" "Dig" "Brick Break" "Double Team" "Reflect" "Flamethrower" "Sandstorm" "Fire Blast" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Attract" "Steel Wing" "Overheat" "Cut" "Fly" "Strength" "Rock Smash" /
+"Toxic" "Sunny Day" "Hyper Beam" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Shadow Ball" "Double Team" "Reflect" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Skill Swap" "Flash" /
+"Focus Punch" "Calm Mind" "Toxic" "Light Screen" "Protect" "Rain Dance" "Iron Tail" "Thunderbolt" "Thunder" "Dig" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Facade" "Rest" "Attract" "Thief" "Surf" "Strength" "Flash" "Rock Smash" /
+"Water Pulse" "Toxic" "Sunny Day" "Taunt" "Protect" "Rain Dance" "Iron Tail" "Thunderbolt" "Thunder" "Dig" "Shadow Ball" "Double Team" "Shock Wave" "Aerial Ace" "Torment" "Facade" "Rest" "Attract" "Thief" "Snatch" "Cut" "Flash" /
+"Focus Punch" "Toxic" "Bulk Up" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Earthquake" "Dig" "Brick Break" "Double Team" "Flamethrower" "Fire Blast" "Rock Tomb" "Facade" "Rest" "Attract" "Thief" "Strength" "Rock Smash" /
+"Focus Punch" "Toxic" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Giga Drain" "Thunderbolt" "Thunder" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Sludge Bomb" "Torment" "Facade" "Rest" "Attract" "Thief" "Skill Swap" "Snatch" "Strength" "Rock Smash" /
+"Water Pulse" "Toxic" "Hail" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Dig" "Brick Break" "Double Team" "Rock Tomb" "Facade" "Rest" "Attract" "Thief" "Cut" "Surf" "Strength" "Rock Smash" "Dive" /
+"Water Pulse" "Roar" "Toxic" "Hail" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Safeguard" "Solarbeam" "Iron Tail" "Thunderbolt" "Thunder" "Earthquake" "Psychic" "Double Team" "Reflect" "Shock Wave" "Facade" "Rest" "Attract" "Surf" "Strength" "Rock Smash" "Waterfall" "Dive" /
+"Calm Mind" "Roar" "Toxic" "Sunny Day" "Protect" "Rain Dance" "Iron Tail" "Dig" "Shadow Ball" "Double Team" "Reflect" "Facade" "Rest" "Attract" /
+"Focus Punch" "Water Pulse" "Toxic" "Sunny Day" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Solarbeam" "Thunderbolt" "Thunder" "Earthquake" "Dig" "Psychic" "Shadow Ball" "Brick Break" "Double Team" "Reflect" "Shock Wave" "Flamethrower" "Sandstorm" "Fire Blast" "Rock Tomb" "Facade" "Rest" "Attract" "Snatch" "Surf" "Strength" "Rock Smash" /
+"Toxic" "Sunny Day" "Hyper Beam" "Protect" "Rain Dance" "Giga Drain" "Solarbeam" "Thunderbolt" "Psychic" "Double Team" "Sludge Bomb" "Facade" "Rest" "Attract" "Thief" /
+"Toxic" "Ice Beam" "Hyper Beam" "Protect" "Solarbeam" "Thunderbolt" "Thunder" "Earthquake" "Brick Break" "Rock Tomb" "Facade" "Rest" /
+"Focus Punch" "Bulk Up" "Bullet Seed" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Giga Drain" "Solarbeam" "Earthquake" "Brick Break" "Facade" "Rest" "Attract" "Thief" "Strength" /
+"Bulk Up" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Shadow Ball" "Flamethrower" "Fire Blast" "Facade" "Rest" "Attract" "Overheat" /
+"Water Pulse" "Taunt" "Ice Beam" "Blizzard" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Safeguard" "Shadow Ball" "Double Team" "Reflect" "Facade" "Rest" "Attract" "Surf" "Waterfall" "Dive" /
+"Bulk Up" "Sunny Day" "Taunt" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Reflect" "Aerial Ace" "Facade" "Rest" "Attract" "Thief" "Steel Wing" "Fly" "Rock Smash" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Shadow Ball" "Reflect" "Facade" "Rest" "Attract" "Skill Swap" /
+"Water Pulse" "Ice Beam" "Blizzard" "Hyper Beam" "Protect" "Rain Dance" "Iron Tail" "Earthquake" "Dig" "Sandstorm" "Rock Tomb" "Facade" "Rest" "Attract" "Surf" "Waterfall" "Dive" /
+"Sunny Day" "Hyper Beam" "Protect" "Solarbeam" "Earthquake" "Dig" "Reflect" "Flamethrower" "Sandstorm" "Fire Blast" "Rock Tomb" "Facade" "Rest" "Attract" "Overheat" /
+"Bullet Seed" "Sunny Day" "Hyper Beam" "Protect" "Giga Drain" "Solarbeam" "Aerial Ace" "Facade" "Rest" "Attract" "Fly" /
+"Bullet Seed" "Sunny Day" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Solarbeam" "Earthquake" "Reflect" "Facade" "Rest" "Attract" /
+"Hyper Beam" "Protect" "Earthquake" "Dig" "Sandstorm" "Rock Tomb" "Facade" "Rest" "Attract" /
+"Toxic" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Thunderbolt" "Thunder" "Brick Break" "Shock Wave" "Sludge Bomb" "Facade" "Rest" "Attract" "Thief" /
+"Toxic" "Sunny Day" "Taunt" "Hyper Beam" "Protect" "Rain Dance" "Thunderbolt" "Thunder" "Brick Break" "Shock Wave" "Sludge Bomb" "Facade" "Rest" "Attract" "Thief" /
+"Sunny Day" "Hyper Beam" "Protect" "Solarbeam" "Flamethrower" "Fire Blast" "Facade" "Rest" "Attract" "Overheat" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Psychic" "Shadow Ball" "Reflect" "Facade" "Rest" "Attract" "Skill Swap" /
+"Focus Punch" "Bulk Up" "Taunt" "Hyper Beam" "Light Screen" "Protect" "Brick Break" "Reflect" "Torment" "Facade" "Rest" "Attract" "Thief" /
+"Calm Mind" "Hyper Beam" "Light Screen" "Protect" "Giga Drain" "Safeguard" "Solarbeam" "Psychic" "Facade" "Rest" "Attract" /
+"Taunt" "Hyper Beam" "Protect" "Earthquake" "Dig" "Brick Break" "Sandstorm" "Rock Tomb" "Facade" "Rest" "Attract" "Strength" "Rock Smash" /
+"Dragon Claw" "Roar" "Hyper Beam" "Light Screen" "Protect" "Solarbeam" "Thunderbolt" "Thunder" "Brick Break" "Reflect" "Rock Tomb" "Facade" "Rest" "Attract" "Rock Smash" /
+"Focus Punch" "Roar" "Bulk Up" "Taunt" "Protect" "Dig" "Brick Break" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Attract" "Rock Smash" /
+"Focus Punch" "Bulk Up" "Taunt" "Protect" "Rain Dance" "Dig" "Brick Break" "Rock Tomb" "Aerial Ace" "Facade" "Rest" "Attract" "Rock Smash" "Waterfall" "Dive" /
+"Toxic" "Bulk Up" "Sunny Day" "Taunt" "Hyper Beam" "Light Screen" "Protect" "Rain Dance" "Giga Drain" "Safeguard" "Thunderbolt" "Thunder" "Psychic" "Shadow Ball" "Double Team" "Facade" "Rest" "Attract" "Thief" "Snatch" /

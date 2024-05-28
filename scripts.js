@@ -1614,6 +1614,8 @@ var output = '';
 var output2 = '';
 var output3 = '';
 var output4 = '';
+var output5 = '';
+var output6 = '';
 for (const mon of mons) {
     var hpev = 0;
     var atkev = 0;
@@ -1654,8 +1656,28 @@ for (const mon of mons) {
         if (HMAJSON[mon].teachablelearnset && HMAJSON[mon].teachablelearnset.includes(movename)) output4 += '"' + movename.replace('Solar Beam', 'Solarbeam') + '" ';
     }
     output4 += '/\n';
+    if (HMAJSON[mon].leveluplearnset) {
+        output5 += '@{ '
+        for (const movename in HMAJSON[mon].leveluplearnset) {
+            if (!gens.get(3).moves.get(movename)) continue;
+            const level = HMAJSON[mon].leveluplearnset[movename];
+            output5 += '+"' + movename.replace('Soft-Boiled', 'Softboiled').replace('Solar Beam', 'Solarbeam').replace('Ancient Power', 'Ancientpower').replace('Bubble Beam', 'Bubblebeam').replace('Double Slap', 'Doubleslap').replace('Dragon Breath', 'Dragonbreath').replace('Dynamic Punch', 'Dynamicpunch').replace('Extreme Speed', 'Extremespeed').replace('Feint Attack', 'Faint Attack').replace('Feather Dance', 'Featherdance').replace('Grass Whistle', 'Grasswhistle').replace('High Jump Kick', 'Hi Jump Kick').replace('Poison Powder', 'Poisonpowder').replace('Sand Attack', 'Sand-Attack').replace('Self-Destruct', 'Selfdestruct').replace('Smelling Salts', 'Smellingsalt').replace('Sonic Boom', 'Sonicboom').replace('Thunder Punch', 'Thunderpunch').replace('Thunder Shock', 'Thundershock').replace('Vise Grip', 'Vicegrip') + '", ' + level + '\n';
+        }
+        output5 += '[] @}\n';
+    }
+    else output5 += '@{ [] @}\n';
+    if (HMAJSON[mon].eggmoves && HMAJSON[mon].eggmoves.length > 0) {
+        output6 += '[' + mon + ']\n'
+        for (var movename of HMAJSON[mon].eggmoves) {
+            if (!gens.get(3).moves.get(toID(movename))) continue;
+            movename = gens.get(3).moves.get(toID(movename)).name;
+            output6 += movename.replace('Soft-Boiled', 'Softboiled').replace('Solar Beam', 'Solarbeam').replace('Ancient Power', 'Ancientpower').replace('Bubble Beam', 'Bubblebeam').replace('Double Slap', 'Doubleslap').replace('Dragon Breath', 'Dragonbreath').replace('Dynamic Punch', 'Dynamicpunch').replace('Extreme Speed', 'Extremespeed').replace('Feint Attack', 'Faint Attack').replace('Feather Dance', 'Featherdance').replace('Grass Whistle', 'Grasswhistle').replace('High Jump Kick', 'Hi Jump Kick').replace('Poison Powder', 'Poisonpowder').replace('Sand Attack', 'Sand-Attack').replace('Self-Destruct', 'Selfdestruct').replace('Smelling Salts', 'Smellingsalt').replace('Sonic Boom', 'Sonicboom').replace('Thunder Punch', 'Thunderpunch').replace('Thunder Shock', 'Thundershock').replace('Vise Grip', 'Vicegrip') + '\n';
+        }
+    }
 }
 fs.writeFileSync('output.txt', output);
 fs.writeFileSync('output2.txt', output2);
 fs.writeFileSync('output3.txt', output3);
 fs.writeFileSync('output4.txt', output4);
+fs.writeFileSync('output5.txt', output5);
+fs.writeFileSync('output6.txt', output6);

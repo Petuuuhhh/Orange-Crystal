@@ -1,0 +1,2943 @@
+[Bulbasaur]
+Skull Bash
+Charm
+Petal Dance
+Magical Leaf
+Grasswhistle
+Curse
+Ingrain
+Nature Power
+Amnesia
+Sludge
+Endure
+Giga Drain
+[Charmander]
+Belly Drum
+Ancientpower
+Bite
+Outrage
+Beat Up
+Dragon Dance
+Crunch
+Metal Claw
+Counter
+Focus Punch
+Air Cutter
+[Squirtle]
+Mirror Coat
+Haze
+Mist
+Foresight
+Flail
+Refresh
+Mud Sport
+Yawn
+Muddy Water
+Fake Out
+Water Spout
+[Pidgey]
+Pursuit
+Faint Attack
+Foresight
+Steel Wing
+Air Cutter
+Uproar
+[Rattata]
+Screech
+Flame Wheel
+Fury Swipes
+Bite
+Counter
+Reversal
+Uproar
+Revenge
+[Spearow]
+Faint Attack
+Scary Face
+Quick Attack
+Tri Attack
+Astonish
+Sky Attack
+Whirlwind
+Uproar
+Featherdance
+Steel Wing
+Razor Wind
+[Ekans]
+Pursuit
+Slam
+Spite
+Beat Up
+Poison Fang
+Scary Face
+Poison Tail
+Disable
+Iron Tail
+Snatch
+[Sandshrew]
+Flail
+Counter
+Rapid Spin
+Metal Claw
+Crush Claw
+Mud Shot
+Endure
+[Nidoran\sf]
+Supersonic
+Disable
+Take Down
+Focus Energy
+Charm
+Counter
+Beat Up
+Pursuit
+Skull Bash
+Iron Tail
+Poison Tail
+Endure
+[Nidoran\sm]
+Counter
+Disable
+Supersonic
+Take Down
+Amnesia
+Confusion
+Beat Up
+Iron Tail
+Poison Tail
+Endure
+[Vulpix]
+Faint Attack
+Hypnosis
+Flail
+Spite
+Disable
+Howl
+Heat Wave
+Extrasensory
+Secret Power
+[Zubat]
+Quick Attack
+Pursuit
+Faint Attack
+Gust
+Whirlwind
+Curse
+Hypnosis
+Giga Drain
+Steel Wing
+[Oddish]
+Razor Leaf
+Flail
+Synthesis
+Charm
+Ingrain
+Tickle
+Teeter Dance
+Secret Power
+Nature Power
+[Paras]
+Screech
+Counter
+Psybeam
+Flail
+Sweet Scent
+Pursuit
+Metal Claw
+Agility
+Endure
+Leech Seed
+[Venonat]
+Baton Pass
+Screech
+Giga Drain
+Signal Beam
+Agility
+Morning Sun
+Secret Power
+Skill Swap
+[Diglett]
+Faint Attack
+Screech
+Ancientpower
+Pursuit
+Beat Up
+Uproar
+Astonish
+Reversal
+Headbutt
+Endure
+Memento
+[Meowth]
+Spite
+Charm
+Hypnosis
+Amnesia
+Assist
+Odor Sleuth
+Flail
+Tail Whip
+Snatch
+Iron Tail
+[Psyduck]
+Hypnosis
+Psybeam
+Foresight
+Future Sight
+Cross Chop
+Refresh
+Confuse Ray
+Yawn
+Encore
+Secret Power
+Sleep Talk
+[Mankey]
+Foresight
+Meditate
+Counter
+Reversal
+Beat Up
+Revenge
+Encore
+Focus Punch
+Sleep Talk
+[Growlithe]
+Body Slam
+Crunch
+Thrash
+Fire Spin
+Howl
+Heat Wave
+Double-Edge
+Morning Sun
+Covet
+Iron Tail
+Double Kick
+[Poliwag]
+Mist
+Splash
+Bubblebeam
+Haze
+Mind Reader
+Water Sport
+Ice Ball
+Mud Shot
+Refresh
+Endeavor
+Encore
+Endure
+Water Pulse
+[Abra]
+Encore
+Barrier
+Knock Off
+Fire Punch
+Thunderpunch
+Ice Punch
+Skill Swap
+[Machop]
+Meditate
+Rolling Kick
+Encore
+Counter
+Fire Punch
+Thunderpunch
+Ice Punch
+Knock Off
+Tickle
+[Bellsprout]
+Encore
+Synthesis
+Leech Life
+Ingrain
+Magical Leaf
+Tickle
+Weather Ball
+Bullet Seed
+Giga Drain
+[Tentacool]
+Aurora Beam
+Mirror Coat
+Rapid Spin
+Haze
+Confuse Ray
+Knock Off
+Muddy Water
+Bubble
+Tickle
+[Geodude]
+Mega Punch
+Block
+Flail
+Curse
+Focus Punch
+Endure
+[Ponyta]
+Flame Wheel
+Thrash
+Double Kick
+Hypnosis
+Charm
+Double-Edge
+Horn Drill
+Morning Sun
+Low Kick
+[Slowpoke]
+Belly Drum
+Future Sight
+Stomp
+Mud Sport
+Sleep Talk
+Snore
+Block
+[Farfetch'd]
+Steel Wing
+Foresight
+Mirror Move
+Gust
+Quick Attack
+Flail
+Featherdance
+Curse
+Covet
+Mud-Slap
+Leaf Blade
+Revenge
+[Doduo]
+Quick Attack
+Supersonic
+Haze
+Faint Attack
+Flail
+Endeavor
+Mirror Move
+[Seel]
+Lick
+Perish Song
+Disable
+Horn Drill
+Slam
+Encore
+Fake Out
+Icicle Spear
+Signal Beam
+Stockpile
+Swallow
+Spit Up
+Water Pulse
+Iron Tail
+Sleep Talk
+[Grimer]
+Haze
+Mean Look
+Lick
+Imprison
+Curse
+Shadow Punch
+Stockpile
+Swallow
+Spit Up
+Scary Face
+[Shellder]
+Bubblebeam
+Take Down
+Barrier
+Rapid Spin
+Screech
+Icicle Spear
+Mud Shot
+Rock Blast
+Water Pulse
+Twineedle
+[Gastly]
+Psywave
+Perish Song
+Haze
+Astonish
+Grudge
+Fire Punch
+Ice Punch
+Thunderpunch
+Disable
+Scary Face
+Smog
+[Onix]
+Flail
+Block
+Defense Curl
+Rollout
+Rock Blast
+[Drowzee]
+Barrier
+Assist
+Role Play
+Fire Punch
+Thunderpunch
+Ice Punch
+Flatter
+Secret Power
+Skill Swap
+[Krabby]
+Haze
+Amnesia
+Flail
+Slam
+Knock Off
+Tickle
+Ancientpower
+Agility
+Endure
+Bide
+[Exeggcute]
+Synthesis
+Moonlight
+Ancientpower
+Ingrain
+Curse
+Nature Power
+Giga Drain
+Skill Swap
+Block
+[Cubone]
+Ancientpower
+Belly Drum
+Screech
+Skull Bash
+Perish Song
+Double Kick
+Detect
+Endure
+Curse
+[Lickitung]
+Belly Drum
+Magnitude
+Body Slam
+Curse
+Sleep Talk
+Snore
+Amnesia
+Muddy Water
+Thrash
+[Koffing]
+Screech
+Psywave
+Psybeam
+Destiny Bond
+Pain Split
+Grudge
+Spite
+Curse
+Stockpile
+Swallow
+Spit Up
+[Rhyhorn]
+Crunch
+Reversal
+Counter
+Magnitude
+Curse
+Crush Claw
+Skull Bash
+Iron Tail
+[Chansey]
+Present
+Metronome
+Heal Bell
+Aromatherapy
+Counter
+Helping Hand
+Endure
+Seismic Toss
+[Tangela]
+Flail
+Confusion
+Mega Drain
+Amnesia
+Leech Seed
+Nature Power
+Endeavor
+Giga Drain
+[Kangaskhan]
+Stomp
+Foresight
+Focus Energy
+Disable
+Counter
+Crush Claw
+Double-Edge
+Endeavor
+Focus Punch
+Uproar
+[Horsea]
+Flail
+Aurora Beam
+Octazooka
+Disable
+Splash
+Dragon Rage
+Dragonbreath
+Signal Beam
+Razor Wind
+Muddy Water
+Water Pulse
+Outrage
+[Goldeen]
+Psybeam
+Haze
+Hydro Pump
+Sleep Talk
+Mud Sport
+Mud-Slap
+Body Slam
+Mud Shot
+Skull Bash
+Signal Beam
+[Mr. Mime]
+Future Sight
+Hypnosis
+Mimic
+Fake Out
+Trick
+Confuse Ray
+Teeter Dance
+Icy Wind
+[Scyther]
+Counter
+Baton Pass
+Razor Wind
+Reversal
+Endure
+Silver Wind
+Steel Wing
+[Pinsir]
+Fury Attack
+Flail
+Faint Attack
+Quick Attack
+Superpower
+[Lapras]
+Foresight
+Tickle
+Refresh
+Dragon Dance
+Curse
+Sleep Talk
+Horn Drill
+Ancientpower
+Whirlpool
+Fissure
+Future Sight
+[Eevee]
+Charm
+Flail
+Endure
+Curse
+Tickle
+Wish
+Yawn
+Fake Tears
+Covet
+Detect
+[Omanyte]
+Bubblebeam
+Aurora Beam
+Slam
+Supersonic
+Haze
+Spikes
+Knock Off
+Muddy Water
+Bide
+Water Pulse
+Whirlpool
+[Kabuto]
+Bubblebeam
+Aurora Beam
+Rapid Spin
+Flail
+Knock Off
+Confuse Ray
+Mud Shot
+Icy Wind
+Screech
+Giga Drain
+Foresight
+Take Down
+[Aerodactyl]
+Whirlwind
+Pursuit
+Foresight
+Steel Wing
+Dragonbreath
+Curse
+[Snorlax]
+Lick
+Charm
+Double-Edge
+Curse
+Fissure
+Whirlwind
+Pursuit
+Counter
+[Dratini]
+Mist
+Haze
+Supersonic
+Dragonbreath
+Dragon Dance
+Extremespeed
+Water Pulse
+Iron Tail
+[Chikorita]
+Vine Whip
+Leech Seed
+Counter
+Ancientpower
+Flail
+Nature Power
+Ingrain
+Grasswhistle
+Aromatherapy
+Body Slam
+Refresh
+[Cyndaquil]
+Fury Swipes
+Quick Attack
+Reversal
+Thrash
+Foresight
+Covet
+Howl
+Crush Claw
+Double-Edge
+Double Kick
+Extrasensory
+Nature Power
+[Totodile]
+Crunch
+Thrash
+Hydro Pump
+Ancientpower
+Mud Sport
+Water Sport
+Ice Punch
+Metal Claw
+Dragon Dance
+Fake Tears
+Block
+Water Pulse
+Flatter
+[Sentret]
+Double-Edge
+Pursuit
+Slash
+Focus Energy
+Reversal
+Trick
+Assist
+Charm
+Covet
+Iron Tail
+[Hoothoot]
+Mirror Move
+Supersonic
+Faint Attack
+Wing Attack
+Whirlwind
+Sky Attack
+Featherdance
+Agility
+Night Shade
+Mean Look
+[Ledyba]
+Psybeam
+Bide
+Silver Wind
+Screech
+Encore
+Knock Off
+Focus Punch
+Dizzy Punch
+Endure
+Counter
+[Spinarak]
+Psybeam
+Disable
+Sonicboom
+Baton Pass
+Pursuit
+Signal Beam
+Twineedle
+Megahorn
+[Chinchou]
+Flail
+Screech
+Amnesia
+Psybeam
+Whirlpool
+Agility
+Mist
+Shock Wave
+Water Pulse
+[Pichu]
+Reversal
+Bide
+Present
+Encore
+Doubleslap
+Wish
+Charge
+Fake Out
+Thunderpunch
+Tickle
+Flail
+Endure
+[Cleffa]
+Present
+Metronome
+Amnesia
+Belly Drum
+Splash
+Mimic
+Wish
+Fake Tears
+Covet
+Aromatherapy
+Tickle
+[Igglybuff]
+Perish Song
+Present
+Faint Attack
+Wish
+Fake Tears
+Covet
+Sleep Talk
+[Togepi]
+Present
+Mirror Move
+Peck
+Foresight
+Future Sight
+Extrasensory
+Secret Power
+Morning Sun
+[Natu]
+Haze
+Drill Peck
+Quick Attack
+Faint Attack
+Steel Wing
+Featherdance
+Refresh
+Skill Swap
+[Mareep]
+Take Down
+Body Slam
+Screech
+Odor Sleuth
+Charge
+Flatter
+Sand-Attack
+Iron Tail
+Agility
+[Marill]
+Present
+Amnesia
+Future Sight
+Belly Drum
+Perish Song
+Supersonic
+Superpower
+Refresh
+Body Slam
+Water Sport
+Muddy Water
+Camouflage
+[Sudowoodo]
+Selfdestruct
+Headbutt
+Harden
+Defense Curl
+Rollout
+Sand Tomb
+Curse
+Endure
+[Hoppip]
+Confusion
+Encore
+Double-Edge
+Amnesia
+Helping Hand
+Aromatherapy
+Endure
+[Aipom]
+Counter
+Screech
+Pursuit
+Agility
+Spite
+Slam
+Doubleslap
+Beat Up
+Fake Out
+Covet
+Bounce
+Revenge
+[Sunkern]
+Grasswhistle
+Encore
+Leech Seed
+Nature Power
+Curse
+Helping Hand
+Ingrain
+Sweet Scent
+Endure
+Bide
+Morning Sun
+[Yanma]
+Whirlwind
+Reversal
+Leech Life
+Signal Beam
+Silver Wind
+Faint Attack
+Pursuit
+Double-Edge
+Secret Power
+[Wooper]
+Body Slam
+Ancientpower
+Curse
+Mud Sport
+Stockpile
+Swallow
+Spit Up
+Counter
+Encore
+Double Kick
+Recover
+Sleep Talk
+[Murkrow]
+Whirlwind
+Drill Peck
+Mirror Move
+Wing Attack
+Sky Attack
+Confuse Ray
+Featherdance
+Perish Song
+Screech
+Faint Attack
+Flatter
+[Misdreavus]
+Screech
+Destiny Bond
+Imprison
+Memento
+Curse
+Spite
+Skill Swap
+[Girafarig]
+Take Down
+Amnesia
+Foresight
+Future Sight
+Beat Up
+Wish
+Magic Coat
+Double Kick
+Mirror Coat
+Razor Wind
+Skill Swap
+Secret Power
+Mean Look
+[Pineco]
+Pin Missile
+Flail
+Swift
+Counter
+Sand Tomb
+Revenge
+Double-Edge
+Endure
+[Dunsparce]
+Bide
+Ancientpower
+Bite
+Headbutt
+Astonish
+Curse
+Magic Coat
+Snore
+Agility
+Secret Power
+Sleep Talk
+[Gligar]
+Metal Claw
+Wing Attack
+Razor Wind
+Counter
+Sand Tomb
+Agility
+Baton Pass
+Double-Edge
+Poison Tail
+[Snubbull]
+Metronome
+Faint Attack
+Present
+Crunch
+Heal Bell
+Snore
+Focus Punch
+Double-Edge
+Mimic
+Fake Tears
+[Qwilfish]
+Flail
+Haze
+Bubblebeam
+Supersonic
+Astonish
+Signal Beam
+Water Pulse
+[Shuckle]
+Sweet Scent
+Knock Off
+Helping Hand
+Sand Tomb
+Mud-Slap
+Acid
+Rock Blast
+[Heracross]
+Harden
+Bide
+Flail
+Revenge
+Pursuit
+Double-Edge
+Seismic Toss
+Focus Punch
+Megahorn
+Rock Blast
+[Sneasel]
+Counter
+Spite
+Foresight
+Bite
+Crush Claw
+Fake Out
+Pursuit
+Ice Punch
+Assist
+[Teddiursa]
+Crunch
+Take Down
+Seismic Toss
+Counter
+Metal Claw
+Fake Tears
+Yawn
+Sleep Talk
+Cross Chop
+Double-Edge
+Belly Drum
+[Slugma]
+Acid Armor
+Heat Wave
+Curse
+Smokescreen
+Memento
+Stockpile
+Spit Up
+Swallow
+Rollout
+[Swinub]
+Take Down
+Bite
+Body Slam
+Ancientpower
+Mud Shot
+Icicle Spear
+Double-Edge
+Fissure
+Curse
+Mud Shot
+[Corsola]
+Screech
+Mist
+Amnesia
+Barrier
+Ingrain
+Confuse Ray
+Icicle Spear
+Nature Power
+Curse
+Bide
+Water Pulse
+Camouflage
+[Remoraid]
+Aurora Beam
+Octazooka
+Supersonic
+Haze
+Screech
+Rock Blast
+Snore
+Flail
+Water Spout
+Mud Shot
+Swift
+Water Pulse
+[Delibird]
+Aurora Beam
+Quick Attack
+Future Sight
+Splash
+Rapid Spin
+Ice Ball
+Ice Punch
+Fake Out
+Icy Wind
+Destiny Bond
+Spikes
+Counter
+[Mantine]
+Twister
+Hydro Pump
+Haze
+Slam
+Mud Sport
+Mirror Coat
+Water Sport
+Splash
+Amnesia
+[Skarmory]
+Drill Peck
+Pursuit
+Whirlwind
+Sky Attack
+Curse
+Endure
+[Houndour]
+Fire Spin
+Rage
+Pursuit
+Counter
+Spite
+Reversal
+Beat Up
+Destiny Bond
+[Phanpy]
+Focus Energy
+Body Slam
+Ancientpower
+Snore
+Counter
+Fissure
+Endeavor
+Mud-Slap
+[Stantler]
+Spite
+Disable
+Bite
+Extrasensory
+Thrash
+Double Kick
+Megahorn
+Mud Sport
+Rage
+[Tyrogue]
+Rapid Spin
+Hi Jump Kick
+Mach Punch
+Mind Reader
+Helping Hand
+Counter
+Endure
+Pursuit
+[Smoochum]
+Meditate
+Fake Out
+Wish
+Ice Punch
+[Elekid]
+Karate Chop
+Barrier
+Rolling Kick
+Meditate
+Cross Chop
+Fire Punch
+Ice Punch
+Dynamicpunch
+Focus Punch
+[Magby]
+Karate Chop
+Mega Punch
+Barrier
+Screech
+Cross Chop
+Thunderpunch
+Mach Punch
+Dynamicpunch
+Belly Drum
+Iron Tail
+Focus Energy
+[Miltank]
+Present
+Reversal
+Seismic Toss
+Endure
+Curse
+Helping Hand
+Sleep Talk
+Dizzy Punch
+Double-Edge
+[Larvitar]
+Pursuit
+Stomp
+Outrage
+Focus Energy
+Ancientpower
+Dragon Dance
+Curse
+Iron Defense
+Iron Tail
+[Treecko]
+Crunch
+Mud Sport
+Endeavor
+Leech Seed
+Dragonbreath
+Crush Claw
+Double Kick
+Grasswhistle
+Synthesis
+Magical Leaf
+Razor Wind
+Bullet Seed
+[Torchic]
+Counter
+Reversal
+Endure
+Crush Claw
+Baton Pass
+Agility
+Featherdance
+Curse
+Low Kick
+[Mudkip]
+Refresh
+Uproar
+Curse
+Stomp
+Ice Ball
+Mirror Coat
+Counter
+Ancientpower
+Whirlpool
+Bite
+Double-Edge
+Yawn
+Sludge
+Barrier
+[Poochyena]
+Astonish
+Poison Fang
+Covet
+Leer
+Yawn
+Snatch
+Sleep Talk
+[Zigzagoon]
+Charm
+Pursuit
+Tickle
+Trick
+Helping Hand
+Mud-Slap
+Sleep Talk
+Extremespeed
+[Lotad]
+Synthesis
+Razor Leaf
+Sweet Scent
+Leech Seed
+Flail
+Water Gun
+Tickle
+Counter
+Giga Drain
+Teeter Dance
+[Seedot]
+Leech Seed
+Amnesia
+Quick Attack
+Razor Wind
+Take Down
+Beat Up
+Bullet Seed
+[Taillow]
+Pursuit
+Supersonic
+Refresh
+Mirror Move
+Rage
+Sky Attack
+Whirlwind
+Steel Wing
+[Wingull]
+Mist
+Twister
+Agility
+Gust
+Water Sport
+Knock Off
+[Ralts]
+Disable
+Mean Look
+Memento
+Destiny Bond
+Grudge
+Confuse Ray
+Encore
+Skill Swap
+[Surskit]
+Foresight
+Mud Shot
+Psybeam
+Hydro Pump
+Mind Reader
+Signal Beam
+Endure
+[Shroomish]
+Fake Tears
+Charm
+Helping Hand
+Bullet Seed
+Focus Punch
+[Slakoth]
+Pursuit
+Slash
+Body Slam
+Snore
+Crush Claw
+Curse
+Sleep Talk
+Tickle
+[Nincada]
+Endure
+Faint Attack
+Gust
+Silver Wind
+[Whismur]
+Take Down
+Snore
+Extrasensory
+Smokescreen
+Endeavor
+Fake Tears
+Whirlwind
+[Makuhita]
+Faint Attack
+Detect
+Foresight
+Helping Hand
+Cross Chop
+Revenge
+Dynamicpunch
+Counter
+Focus Punch
+[Azurill]
+Encore
+Sing
+Refresh
+Slam
+Tickle
+Fake Tears
+Body Slam
+Water Sport
+Muddy Water
+Camouflage
+[Nosepass]
+Magnitude
+Rollout
+Double-Edge
+Block
+Endure
+[Skitty]
+Helping Hand
+Uproar
+Fake Tears
+Wish
+Baton Pass
+Tickle
+Fake Out
+Cosmic Power
+[Sableye]
+Recover
+Moonlight
+Flatter
+Trick
+Mean Look
+Imprison
+[Mawile]
+Poison Fang
+Ancientpower
+Tickle
+Slam
+Seismic Toss
+[Aron]
+Endeavor
+Body Slam
+Stomp
+Curse
+Screech
+Superpower
+Reversal
+[Meditite]
+Fire Punch
+Thunderpunch
+Ice Punch
+Foresight
+Fake Out
+Baton Pass
+Dynamicpunch
+Secret Power
+[Electrike]
+Crunch
+Headbutt
+Uproar
+Curse
+Swift
+Shock Wave
+[Plusle]
+Wish
+Sing
+Sweet Kiss
+Charm
+Fake Tears
+[Minun]
+Wish
+Sing
+Sweet Kiss
+Charm
+Fake Tears
+[Volbeat]
+Baton Pass
+Silver Wind
+Trick
+Encore
+Dizzy Punch
+Seismic Toss
+[Illumise]
+Baton Pass
+Silver Wind
+Growth
+Encore
+Fake Tears
+Confuse Ray
+Aromatherapy
+[Roselia]
+Spikes
+Synthesis
+Pin Missile
+Cotton Spore
+Sleep Powder
+Razor Leaf
+Mind Reader
+Giga Drain
+Grasswhistle
+Bullet Seed
+[Gulpin]
+Acid Armor
+Smog
+Pain Split
+Curse
+Destiny Bond
+Mud-Slap
+[Carvanha]
+Hydro Pump
+Double-Edge
+Thrash
+Ancientpower
+Swift
+Destiny Bond
+[Wailmer]
+Double-Edge
+Thrash
+Snore
+Sleep Talk
+Curse
+Fissure
+Tickle
+Defense Curl
+Body Slam
+[Numel]
+Howl
+Scary Face
+Body Slam
+Rollout
+Defense Curl
+Stomp
+Yawn
+Ancientpower
+Heat Wave
+Stockpile
+Swallow
+Spit Up
+Endure
+Growth
+[Torkoal]
+Eruption
+Endure
+Sleep Talk
+Yawn
+Fissure
+Skull Bash
+Superpower
+[Spoink]
+Future Sight
+Extrasensory
+Trick
+Amnesia
+Mirror Coat
+Skill Swap
+Whirlwind
+Endure
+[Spinda]
+Encore
+Assist
+Disable
+Baton Pass
+Wish
+Trick
+Fake Out
+Role Play
+Fake Tears
+Rapid Spin
+Icy Wind
+Water Pulse
+[Trapinch]
+Focus Energy
+Quick Attack
+Gust
+Flail
+Fury Cutter
+Mud Shot
+Endure
+Signal Beam
+[Cacnea]
+Grasswhistle
+Acid
+Teeter Dance
+Dynamicpunch
+Counter
+Low Kick
+Magical Leaf
+Disable
+Block
+[Swablu]
+Agility
+Haze
+Pursuit
+Rage
+Featherdance
+Hyper Voice
+Steel Wing
+[Zangoose]
+Flail
+Double Kick
+Razor Wind
+Counter
+Curse
+Fury Swipes
+Metal Claw
+Disable
+Iron Tail
+Belly Drum
+[Seviper]
+Stockpile
+Swallow
+Spit Up
+Body Slam
+Scary Face
+Iron Tail
+[Barboach]
+Thrash
+Whirlpool
+Spark
+Hydro Pump
+Flail
+Take Down
+Dragon Dance
+Mud Shot
+Muddy Water
+[Corphish]
+Mud Sport
+Endeavor
+Body Slam
+Ancientpower
+Knock Off
+Superpower
+Metal Claw
+Dragon Dance
+Double-Edge
+[Lileep]
+Barrier
+Recover
+Mirror Coat
+Tickle
+Curse
+Mega Drain
+Endure
+[Anorith]
+Rapid Spin
+Knock Off
+Screech
+Sand-Attack
+Curse
+Iron Defense
+Water Pulse
+[Feebas]
+Mirror Coat
+Dragonbreath
+Mud Sport
+Hypnosis
+Confuse Ray
+Mist
+Haze
+Tickle
+Iron Tail
+[Castform]
+Future Sight
+Disable
+Amnesia
+Cosmic Power
+[Kecleon]
+Disable
+Magic Coat
+Trick
+Fake Out
+Dizzy Punch
+Recover
+Skill Swap
+Snatch
+Camouflage
+[Shuppet]
+Disable
+Destiny Bond
+Foresight
+Astonish
+Imprison
+Pursuit
+Confuse Ray
+[Duskull]
+Imprison
+Destiny Bond
+Pain Split
+Grudge
+Memento
+Faint Attack
+Skill Swap
+Haze
+[Tropius]
+Headbutt
+Slam
+Razor Wind
+Leech Seed
+Nature Power
+Synthesis
+Curse
+Leaf Blade
+Dragon Dance
+Bullet Seed
+[Chimecho]
+Disable
+Curse
+Hypnosis
+Wish
+Future Sight
+Recover
+Skill Swap
+Cosmic Power
+Perish Song
+[Absol]
+Baton Pass
+Faint Attack
+Double-Edge
+Magic Coat
+Curse
+Mean Look
+Megahorn
+Perish Song
+[Snorunt]
+Block
+Spikes
+Rollout
+Disable
+Bide
+Weather Ball
+Fake Tears
+[Spheal]
+Water Sport
+Stockpile
+Swallow
+Spit Up
+Yawn
+Curse
+Fissure
+Signal Beam
+Rollout
+Sleep Talk
+Water Pulse
+Belly Drum
+[Clamperl]
+Refresh
+Mud Sport
+Body Slam
+Supersonic
+Barrier
+Confuse Ray
+Muddy Water
+Water Pulse
+Endure
+[Relicanth]
+Magnitude
+Skull Bash
+Water Sport
+Amnesia
+Sleep Talk
+Snore
+Mud-Slap
+Muddy Water
+Mud Shot
+[Luvdisc]
+Splash
+Supersonic
+Water Sport
+Mud Sport
+[Bagon]
+Hydro Pump
+Thrash
+Dragon Rage
+Twister
+Dragon Dance
+Endure
+Defense Curl
+[Turtwig]
+Growth
+Tickle
+Body Slam
+Double-Edge
+Sand Tomb
+Thrash
+Amnesia
+Superpower
+Stockpile
+Swallow
+Spit Up
+[Chimchar]
+Fire Punch
+Thunderpunch
+Double Kick
+Encore
+Heat Wave
+Focus Energy
+Helping Hand
+Fake Out
+Blaze Kick
+Counter
+Assist
+Focus Punch
+Submission
+[Piplup]
+Supersonic
+Yawn
+Mud Sport
+Mud-Slap
+Snore
+Flail
+Agility
+Hydro Pump
+Featherdance
+Bide
+Icy Wind
+[Starly]
+Featherdance
+Fury Attack
+Pursuit
+Astonish
+Sand-Attack
+Foresight
+Double-Edge
+Steel Wing
+Uproar
+Detect
+Revenge
+Mirror Move
+[Bidoof]
+Quick Attack
+Water Sport
+Double-Edge
+Fury Swipes
+Defense Curl
+Rollout
+Odor Sleuth
+Sleep Talk
+Endure
+Skull Bash
+Mud Sport
+[Shinx]
+Quick Attack
+Howl
+Take Down
+Shock Wave
+Swift
+Double Kick
+Signal Beam
+Helping Hand
+Fake Tears
+[Budew]
+Spikes
+Synthesis
+Pin Missile
+Cotton Spore
+Sleep Powder
+Razor Leaf
+Mind Reader
+Extrasensory
+Giga Drain
+Grasswhistle
+[Cranidos]
+Crunch
+Thrash
+Double-Edge
+Leer
+Slam
+Stomp
+Whirlwind
+Curse
+Iron Tail
+[Shieldon]
+Headbutt
+Scary Face
+Focus Energy
+Double-Edge
+Rock Blast
+Body Slam
+Screech
+Curse
+Fissure
+Counter
+[Pachirisu]
+Covet
+Bite
+Fake Tears
+Defense Curl
+Rollout
+Flatter
+Flail
+Iron Tail
+Tail Whip
+Follow Me
+Charge
+[Buizel]
+Mud-Slap
+Headbutt
+Fury Swipes
+Slash
+Odor Sleuth
+Doubleslap
+Fury Cutter
+Baton Pass
+Helping Hand
+[Cherubi]
+Razor Leaf
+Sweet Scent
+Tickle
+Nature Power
+Grasswhistle
+Aromatherapy
+Weather Ball
+Defense Curl
+Rollout
+[Shellos]
+Counter
+Mirror Coat
+Stockpile
+Swallow
+Spit Up
+Yawn
+Memento
+Curse
+Amnesia
+Fissure
+Sludge
+Mist
+Acid Armor
+[Drifloon]
+Memento
+Body Slam
+Destiny Bond
+Disable
+Haze
+Hypnosis
+Weather Ball
+[Buneary]
+Fake Tears
+Fake Out
+Encore
+Sweet Kiss
+Low Kick
+Sky Uppercut
+Thunderpunch
+Ice Punch
+Fire Punch
+Flail
+Focus Punch
+Teeter Dance
+Cosmic Power
+Mud Sport
+[Glameow]
+Bite
+Tail Whip
+Quick Attack
+Sand-Attack
+Fake Tears
+Flail
+Snatch
+[Chingling]
+Disable
+Curse
+Hypnosis
+Wish
+Future Sight
+Recover
+Skill Swap
+Cosmic Power
+[Stunky]
+Pursuit
+Leer
+Smog
+Double-Edge
+Crunch
+Scary Face
+Astonish
+Haze
+Iron Tail
+[Bonsly]
+Selfdestruct
+Headbutt
+Harden
+Defense Curl
+Rollout
+Sand Tomb
+Curse
+Endure
+[Mime Jr.]
+Future Sight
+Hypnosis
+Mimic
+Fake Out
+Trick
+Confuse Ray
+Teeter Dance
+Charm
+Icy Wind
+[Happiny]
+Present
+Metronome
+Heal Bell
+Aromatherapy
+Counter
+Helping Hand
+Endure
+[Chatot]
+Encore
+Night Shade
+Agility
+Supersonic
+Steel Wing
+Sleep Talk
+Air Cutter
+[Spiritomb]
+Destiny Bond
+Pain Split
+Smokescreen
+Imprison
+Grudge
+Nightmare
+Disable
+[Gible]
+Dragonbreath
+Outrage
+Twister
+Scary Face
+Double-Edge
+Thrash
+Metal Claw
+Sand Tomb
+Body Slam
+Mud Shot
+Iron Tail
+[Munchlax]
+Lick
+Charm
+Double-Edge
+Curse
+Whirlwind
+Pursuit
+Counter
+Selfdestruct
+[Riolu]
+Cross Chop
+Detect
+Bite
+Mind Reader
+Sky Uppercut
+Hi Jump Kick
+Agility
+Crunch
+Low Kick
+Iron Defense
+Blaze Kick
+Follow Me
+Meteor Mash
+[Hippopotas]
+Stockpile
+Swallow
+Spit Up
+Curse
+Slack Off
+Body Slam
+Sand Tomb
+Revenge
+Sleep Talk
+Whirlwind
+[Skorupi]
+Faint Attack
+Screech
+Sand-Attack
+Slash
+Confuse Ray
+Whirlwind
+Agility
+Pursuit
+Iron Tail
+Twineedle
+Poison Tail
+[Croagunk]
+Dynamicpunch
+Headbutt
+Meditate
+Fake Out
+Cross Chop
+Counter
+[Carnivine]
+Sleep Powder
+Stun Spore
+Razor Leaf
+Slam
+Synthesis
+Magical Leaf
+Leech Seed
+Giga Drain
+Grasswhistle
+[Finneon]
+Sweet Kiss
+Charm
+Flail
+Splash
+Psybeam
+Tickle
+Agility
+Aurora Beam
+Signal Beam
+Confuse Ray
+[Mantyke]
+Twister
+Hydro Pump
+Haze
+Slam
+Mud Sport
+Mirror Coat
+Water Sport
+Splash
+Signal Beam
+Amnesia
+[Snover]
+Leech Seed
+Magical Leaf
+Growth
+Double-Edge
+Mist
+Stomp
+Skull Bash
+Bullet Seed
+[Snivy]
+Glare
+Iron Tail
+Magical Leaf
+Sweet Scent
+Mirror Coat
+Pursuit
+Mean Look
+Twister
+[Tepig]
+Covet
+Body Slam
+Thrash
+Magnitude
+Superpower
+Curse
+Endeavor
+Yawn
+Sleep Talk
+[Oshawott]
+Detect
+Screech
+[Patrat]
+Foresight
+Iron Tail
+Screech
+Pursuit
+Revenge
+Flail
+Bullet Seed
+[Lillipup]
+Howl
+Sand-Attack
+Mud-Slap
+Lick
+Charm
+Endure
+Yawn
+Pursuit
+[Purrloin]
+Pay Day
+Faint Attack
+Fake Tears
+Charm
+Encore
+Yawn
+Covet
+[Pansage]
+Covet
+Low Kick
+Tickle
+Role Play
+Astonish
+Grasswhistle
+Magical Leaf
+Bullet Seed
+[Pansear]
+Covet
+Low Kick
+Tickle
+Role Play
+Astonish
+Sleep Talk
+Fire Spin
+Fire Punch
+Heat Wave
+[Panpour]
+Covet
+Low Kick
+Tickle
+Role Play
+Astonish
+Mud Sport
+Hydro Pump
+[Munna]
+Sleep Talk
+Secret Power
+Barrier
+Magic Coat
+Helping Hand
+Baton Pass
+Swift
+Curse
+Sonicboom
+[Pidove]
+Steel Wing
+Hypnosis
+Uproar
+Wish
+Morning Sun
+[Blitzle]
+Take Down
+Sand-Attack
+Double Kick
+Screech
+Rage
+Endure
+Double-Edge
+Shock Wave
+Snatch
+[Roggenrola]
+Magnitude
+Curse
+Rock Tomb
+Lock-On
+Take Down
+[Woobat]
+Charm
+Knock Off
+Fake Tears
+Supersonic
+Flatter
+Helping Hand
+[Drilbur]
+Iron Defense
+Rapid Spin
+Crush Claw
+Metal Sound
+Submission
+Skull Bash
+[Audino]
+Wish
+Heal Bell
+Encore
+Sweet Kiss
+Yawn
+Sleep Talk
+Amnesia
+[Timburr]
+Endure
+Counter
+Comet Punch
+Foresight
+Detect
+Reversal
+Mach Punch
+[Tympole]
+Water Pulse
+Refresh
+Mud Sport
+Sleep Talk
+Snore
+Mist
+[Sewaddle]
+Silver Wind
+Screech
+Razor Wind
+Mind Reader
+Agility
+Baton Pass
+Camouflage
+[Venipede]
+Twineedle
+Pin Missile
+Spikes
+Take Down
+[Cottonee]
+Encore
+Tickle
+Fake Tears
+Grasswhistle
+Memento
+Beat Up
+[Petilil]
+Charm
+Endure
+Ingrain
+Grasswhistle
+Sweet Scent
+Bide
+Encore
+[Basculin]
+Swift
+Bubblebeam
+Mud Shot
+Muddy Water
+Agility
+Whirlpool
+Rage
+Revenge
+[Sandile]
+Double-Edge
+Pursuit
+Uproar
+Beat Up
+Focus Energy
+Counter
+Mean Look
+[Darumaka]
+Sleep Talk
+Focus Punch
+Focus Energy
+Endure
+Take Down
+Flame Wheel
+Encore
+Yawn
+Snatch
+Extrasensory
+[Maractus]
+Bullet Seed
+Bounce
+Leech Seed
+Spikes
+Grasswhistle
+[Dwebble]
+Endure
+Iron Defense
+Sand Tomb
+Counter
+Curse
+Spikes
+Block
+[Scraggy]
+Counter
+Dragon Dance
+Detect
+Fake Out
+Fire Punch
+Ice Punch
+Thunderpunch
+Amnesia
+Faint Attack
+[Sigilyph]
+Ancientpower
+Steel Wing
+Skill Swap
+Future Sight
+[Yamask]
+Memento
+Fake Tears
+Endure
+Imprison
+Nightmare
+Disable
+[Tirtouga]
+Water Pulse
+Knock Off
+Rock Throw
+Slam
+Iron Defense
+Flail
+Whirlpool
+Body Slam
+Bide
+[Archen]
+Steel Wing
+Knock Off
+Bite
+[Trubbish]
+Spikes
+Rollout
+Haze
+Curse
+Rock Blast
+Sand-Attack
+Mud Sport
+Selfdestruct
+[Zorua]
+Detect
+Snatch
+Memento
+Extrasensory
+Counter
+[Minccino]
+Iron Tail
+Tail Whip
+Mud-Slap
+Knock Off
+Fake Tears
+Sleep Talk
+Endure
+Flail
+[Gothita]
+Mirror Coat
+Uproar
+Mean Look
+[Solosis]
+Night Shade
+Astonish
+Confuse Ray
+Acid Armor
+Trick
+Imprison
+Secret Power
+Astonish
+Helping Hand
+[Ducklett]
+Steel Wing
+Gust
+Air Cutter
+Mirror Move
+Mud Sport
+[Vanillite]
+Water Pulse
+Imprison
+Iron Defense
+Powder Snow
+[Deerling]
+Fake Tears
+Synthesis
+Odor Sleuth
+Agility
+Sleep Talk
+Baton Pass
+Grasswhistle
+Headbutt
+[Emolga]
+Iron Tail
+Astonish
+Shock Wave
+Charm
+Covet
+Tickle
+Baton Pass
+[Karrablast]
+Megahorn
+Pursuit
+Counter
+Horn Attack
+Faint Attack
+Screech
+Knock Off
+[Foongus]
+Growth
+Poisonpowder
+Stun Spore
+Rollout
+Defense Curl
+Endure
+Body Slam
+[Frillish]
+Acid Armor
+Confuse Ray
+Pain Split
+Mist
+Recover
+Constrict
+[Alomomola]
+Pain Split
+Refresh
+Tickle
+Mirror Coat
+Mist
+Endure
+[Joltik]
+Pin Missile
+Poison Sting
+Pursuit
+Disable
+Faint Attack
+Camouflage
+[Ferroseed]
+Bullet Seed
+Leech Seed
+Spikes
+[Elgyem]
+Teleport
+Disable
+Astonish
+Barrier
+Skill Swap
+Cosmic Power
+[Litwick]
+Acid Armor
+Heat Wave
+Haze
+Endure
+Acid
+[Axew]
+Counter
+Focus Energy
+Reversal
+Endure
+Razor Wind
+Endeavor
+Iron Tail
+Harden
+[Cubchoo]
+Yawn
+Encore
+Ice Punch
+Sleep Talk
+Focus Punch
+[Shelmet]
+Endure
+Baton Pass
+Double-Edge
+Encore
+Mind Reader
+Mud-Slap
+Spikes
+Pursuit
+[Stunfisk]
+Shock Wave
+Yawn
+Sleep Talk
+Astonish
+Curse
+Spite
+Spark
+Pain Split
+[Mienfoo]
+Endure
+Vital Throw
+Baton Pass
+Low Kick
+Knock Off
+[Druddigon]
+Crush Claw
+Faint Attack
+Pursuit
+Iron Tail
+Poison Tail
+Snatch
+Metal Claw
+Glare
+[Pawniard]
+Revenge
+Pursuit
+Headbutt
+Mean Look
+[Bouffalant]
+Stomp
+Headbutt
+Skull Bash
+Mud Shot
+Mud-Slap
+Amnesia
+[Vullaby]
+Steel Wing
+Mean Look
+Scary Face
+Knock Off
+Fake Tears
+[Heatmor]
+Pursuit
+Wrap
+Curse
+Body Slam
+Heat Wave
+Faint Attack
+Tickle
+Sleep Talk
+[Durant]
+Screech
+Endure
+Baton Pass
+Faint Attack
+[Deino]
+Astonish
+Screech
+[Larvesta]
+String Shot
+Harden
+Foresight
+Endure
+Morning Sun
+[Chespin]
+Synthesis
+Belly Drum
+Curse
+Spikes
+Defense Curl
+Rollout
+[Fennekin]
+Wish
+Hypnosis
+Heat Wave
+Magic Coat
+[Froakie]
+Mind Reader
+Mud Sport
+Camouflage
+Water Sport
+[Bunnelby]
+Spikes
+Defense Curl
+Rollout
+[Fletchling]
+Snatch
+[Scatterbug]
+Stun Spore
+Poisonpowder
+[Litleo]
+Yawn
+Snatch
+Fire Spin
+[Flabébé]
+Camouflage
+[Skiddo]
+Defense Curl
+Rollout
+Milk Drink
+[Pancham]
+[Furfrou]
+Role Play
+Mimic
+Refresh
+[Espurr]
+Trick
+Yawn
+Assist
+Barrier
+[Honedge]
+Metal Sound
+Destiny Bond
+[Spritzee]
+Disable
+Wish
+Refresh
+[Swirlix]
+Yawn
+Belly Drum
+[Inkay]
+Camouflage
+Flatter
+Destiny Bond
+[Binacle]
+Tickle
+Helping Hand
+Water Sport
+[Skrelp]
+Haze
+Acid Armor
+[Clauncher]
+Endure
+Crabhammer
+Helping Hand
+[Helioptile]
+Agility
+Glare
+Camouflage
+[Tyrunt]
+Dragon Dance
+Poison Fang
+Curse
+[Amaura]
+Haze
+Barrier
+Mirror Coat
+[Hawlucha]
+Agility
+Mud Sport
+Baton Pass
+[Dedenne]
+Covet
+Helping Hand
+[Goomy]
+Acid Armor
+Curse
+Iron Tail
+Poison Tail
+Counter
+Endure
+[Klefki]
+Thief
+Lock-On
+Iron Defense
+[Phantump]
+Grudge
+Imprison
+[Pumpkaboo]
+Disable
+Destiny Bond
+Curse
+[Bergmite]
+Recover
+Mist
+Barrier
+Mirror Coat
+[Noibat]
+Snatch
+Outrage
+[Rowlet]
+Curse
+Confuse Ray
+Haze
+Baton Pass
+[Litten]
+Body Slam
+Crunch
+Fake Out
+Revenge
+Heat Wave
+[Popplio]
+Charm
+Amnesia
+Perish Song
+[Pikipek]
+Mirror Move
+Uproar
+[Yungoos]
+Revenge
+[Grubbin]
+Harden
+Mud Shot
+Endure
+[Crabrawler]
+Superpower
+Endeavor
+Amnesia
+[Oricorio]
+Safeguard
+[Cutiefly]
+Baton Pass
+Skill Swap
+[Rockruff]
+Crush Claw
+Thrash
+[Wishiwashi]
+Muddy Water
+Mist
+Water Pulse
+Water Sport
+Whirlpool
+[Mareanie]
+Stockpile
+Swallow
+Spit Up
+Haze
+[Mudbray]
+Body Slam
+Double-Edge
+Magnitude
+[Dewpider]
+Aurora Beam
+Stockpile
+Spit Up
+[Fomantis]
+Weather Ball
+Giga Drain
+Aromatherapy
+[Morelull]
+Amnesia
+Poisonpowder
+Stun Spore
+Growth
+Leech Seed
+[Salandit]
+Knock Off
+Sand-Attack
+Snatch
+Fake Out
+[Stufful]
+Ice Punch
+Thunderpunch
+Endure
+Mega Kick
+[Bounsweet]
+Grasswhistle
+Synthesis
+Charm
+[Comfey]
+Endure
+Amnesia
+[Oranguru]
+Extrasensory
+[Passimian]
+Seismic Toss
+Vital Throw
+Quick Attack
+[Wimpod]
+Spikes
+Metal Claw
+Harden
+[Sandygast]
+Amnesia
+Destiny Bond
+Ancientpower
+Stockpile
+Swallow
+Spit Up
+Curse
+[Pyukumuku]
+Endure
+Tickle
+Spite
+[Komala]
+Charm
+Wish
+Sing
+[Turtonator]
+Revenge
+Fire Spin
+[Togedemaru]
+Reversal
+Present
+Encore
+Twineedle
+Wish
+Fake Out
+Tickle
+Flail
+[Mimikyu]
+Grudge
+Destiny Bond
+Curse
+Nightmare
+[Bruxish]
+Water Pulse
+Poison Fang
+Rage
+[Drampa]
+Razor Wind
+Mist
+[Jangmo-o]
+Counter
+Reversal
+Dragonbreath
+[Grookey]
+Growth
+Fake Out
+Strength
+Nature Power
+Leech Seed
+[Scorbunny]
+Hi Jump Kick
+Sand-Attack
+Super Fang
+[Sobble]
+Double Team
+Mist
+Haze
+[Skwovet]
+Rollout
+Defense Curl
+Belly Drum
+[Rookidee]
+Sky Attack
+Sand-Attack
+Rock Smash
+Spite
+[Blipbug]
+Supersonic
+Recover
+[Nickit]
+Knock Off
+Howl
+Torment
+[Gossifleur]
+Growth
+Leech Seed
+Poisonpowder
+Stun Spore
+Sleep Powder
+[Wooloo]
+Stomp
+Swagger
+Counter
+[Chewtle]
+Skull Bash
+[Yamper]
+Double-Edge
+Sand-Attack
+Howl
+[Rolycoly]
+Explosion
+Mud-Slap
+Block
+[Applin]
+Rollout
+Defense Curl
+Recycle
+[Silicobra]
+Mud-Slap
+Poison Tail
+[Cramorant]
+Aerial Ace
+Featherdance
+[Arrokuda]
+Thrash
+Slash
+[Toxel]
+Endeavor
+Metal Sound
+[Sizzlipede]
+Knock Off
+Rollout
+Defense Curl
+[Clobbopus]
+Pain Split
+Seismic Toss
+[Hatenna]
+[Milcery]
+[Pincurchin]
+Memento
+[Snom]
+Mirror Coat
+[Stonjourne]
+Curse
+Ancientpower
+[Eiscue]
+Belly Drum
+Double-Edge
+[Indeedee]
+Psych Up
+Fake Out
+Extrasensory
+[Morpeko]
+Swagger
+Super Fang
+Charge
+Tickle
+Rapid Spin
+Fake Out
+[Cufant]
+Double-Edge
+Curse
+Slam
+Fissure
+Swagger
+Whirlwind
+Defense Curl
+[Duraludon]
+Slash
+Mirror Coat
+[Dreepy]
+Curse
+Grudge
+Confuse Ray
+Double Team
+Disable
+[Sprigatito]
+Leech Seed
+[Fuecoco]
+Curse
+Encore
+Slack Off
+[Quaxly]
+Detect
+Rapid Spin
+[Lechonk]
+Endeavor
+Spit Up
+Stockpile
+Swallow
+[Tarountula]
+Memento
+[Nymble]
+Counter
+[Pawmi]
+Fake Out
+Mach Punch
+Sweet Kiss
+Wish
+[Tandemaus]
+Baton Pass
+Bite
+Tickle
+[Fidough]
+Howl
+Sweet Scent
+Wish
+Yawn
+[Smoliv]
+Memento
+Synthesis
+Weather Ball
+[Sqawkabily]
+Double-Edge
+Flatter
+[Nacli]
+Ancientpower
+Curse
+Fissure
+[Charcadet]
+Destiny Bond
+Disable
+Spite
+[Tadbulb]
+Muddy Water
+[Wattrel]
+Endeavor
+Featherdance
+Spit Up
+Stockpile
+Swallow
+Weather Ball
+[Maschiff]
+Destiny Bond
+Endeavor
+[Shroodle]
+Super Fang
+Swagger
+Toxic
+[Bramblin]
+Beat Up
+Block
+Leech Seed
+[Toedscool]
+Knock Off
+Leech Seed
+Mirror Coat
+Rapid Spin
+Tickle
+Toxic
+[Klawf]
+Ancientpower
+Crabhammer
+Endeavor
+Knock Off
+[Capsakid]
+Ingrain
+Leech Seed
+Rollout
+[Rellor]
+Cosmic Power
+Memento
+Recover
+Weather Ball
+[Flittle]
+Hypnosis
+[Tinkatink]
+[Wiglett]
+Memento
+[Bombirdier]
+Featherdance
+Sky Attack
+[Finizen]
+Bounce
+Counter
+Haze
+Tickle
+[Varoom]
+Haze
+Selfdestruct
+Torment
+Toxic
+[Cyclizar]
+Iron Tail
+Knock Off
+[Orthworm]
+Curse
+[Glimmet]
+Explosion
+Memento
+Toxic
+[Greavard]
+Destiny Bond
+Disable
+Howl
+Memento
+Yawn
+[Flamigo]
+Double Team
+Sky Attack
+[Cetoddle]
+Belly Drum
+Superpower
+Yawn
+[Veluza]
+Recover
+Thrash
+[Dondozo]
+Curse
+Fissure
+Thrash
+Yawn
+[Tatsugiri]
+Baton Pass
+Counter
+Rapid Spin
+[Frigibax]
+Icicle Spear
