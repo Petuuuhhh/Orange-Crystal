@@ -7,6 +7,12 @@ ShowRawIVByteForTrainer = False
 
 #################################
 [[NamedAnchors]]
+Name = '''graphics.pokemon.sprites.footprint'''
+Address = 0x894F40
+Format = '''[footprint<`ucs1x2x2`>]data.pokemon.names'''
+DefaultHash = '''21D7E9E7'''
+
+[[NamedAnchors]]
 Name = '''data.header.title'''
 Address = 0x0000A0
 Format = '''`asc`12'''
@@ -651,7 +657,7 @@ DefaultHash = '''2136B223'''
 [[NamedAnchors]]
 Name = '''data.pokemon.moves.levelup'''
 Address = 0x729D00
-Format = '''[movesFromLevel<[pair:|t|move::::.data.pokemon.moves.names|level:::.]!FFFF>]data.pokemon.names'''
+Format = '''[movesFromLevel<[move:data.pokemon.moves.names level.]!0000FF>]data.pokemon.names'''
 DefaultHash = '''BBF82701'''
 
 [[NamedAnchors]]

@@ -130,3 +130,5 @@ dist
 .pnp.*
 *.gba
 *.bak
+* - Copy*.toml
+* - Copy*.ini
