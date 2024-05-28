@@ -1549,7 +1549,69 @@ const movetutormoves = [
     'blastburn',
     'hydrocannon'
 ]
+
+const tms = [
+    'focuspunch',
+    'dragonclaw',
+    'waterpulse',
+    'calmmind',
+    'roar',
+    'toxic',
+    'hail',
+    'bulkup',
+    'bulletseed',
+    'hiddenpower',
+    'sunnyday',
+    'taunt',
+    'icebeam',
+    'blizzard',
+    'hyperbeam',
+    'lightscreen',
+    'protect',
+    'raindance',
+    'gigadrain',
+    'safeguard',
+    'frustration',
+    'solarbeam',
+    'irontail',
+    'thunderbolt',
+    'thunder',
+    'earthquake',
+    'return',
+    'dig',
+    'psychic',
+    'shadowball',
+    'brickbreak',
+    'doubleteam',
+    'reflect',
+    'shockwave',
+    'flamethrower',
+    'sludgebomb',
+    'sandstorm',
+    'fireblast',
+    'rocktomb',
+    'aerialace',
+    'torment',
+    'facade',
+    'secretpower',
+    'rest',
+    'attract',
+    'thief',
+    'steelwing',
+    'skillswap',
+    'snatch',
+    'overheat',
+    'cut',
+    'fly',
+    'surf',
+    'strength',
+    'flash',
+    'rocksmash',
+    'waterfall',
+    'dive',
+]
 var output = '';
+var output2 = '';
 for (const mon of mons) {
     var hpev = 0;
     var atkev = 0;
@@ -1578,5 +1640,8 @@ for (const mon of mons) {
     var expyield = HMAJSON[mon].expyield;
     if (expyield > 255) expyield = 255;
     output += HMAJSON[mon].hp + ', ' + HMAJSON[mon].attack + ', ' + HMAJSON[mon].defense + ', ' + HMAJSON[mon].speed + ', ' + HMAJSON[mon].spatk + ', ' + HMAJSON[mon].spdef + ', ' + HMAJSON[mon].type1 + ', ' + HMAJSON[mon].type2 + ', ' + HMAJSON[mon].catchrate + ', ' + expyield + ', (' + hpev + ', ' + atkev + ', ' + defev + ', ' + speev + ', ' + spaev + ', ' + spdev + '), "' + itemcommon + '", "' + itemrare + '", "' + HMAJSON[mon].genderratio + '", ' + HMAJSON[mon].eggcycles + ', ' + friendship + ', "' + HMAJSON[mon].growthrate + '", "' + HMAJSON[mon].egggroup1 + '", "' + HMAJSON[mon].egggroup2 + '", "' + ability1 + '", "' + ability2 + '", ' + HMAJSON[mon].safarizonefleerate + ', (Red false), 0\n';
+    if (HMAJSON[mon].iconpal) output2 += HMAJSON[mon].iconpal.index + ', ';
+    else output2 += 0 + ', ';
 }
 fs.writeFileSync('output.txt', output);
+fs.writeFileSync('output2.txt', output2);
