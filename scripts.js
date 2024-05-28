@@ -1555,6 +1555,8 @@ for (const mon of mons) {
     if (!gens.get(3).abilities.get(ability2)) ability2 = '-------';
     var friendship = HMAJSON[mon].friendship;
     if (friendship == 50) friendship = 70;
-    output += HMAJSON[mon].hp + ', ' + HMAJSON[mon].attack + ', ' + HMAJSON[mon].defense + ', ' + HMAJSON[mon].speed + ', ' + HMAJSON[mon].spatk + ', ' + HMAJSON[mon].spdef + ', ' + HMAJSON[mon].type1 + ', ' + HMAJSON[mon].type2 + ', ' + HMAJSON[mon].catchrate + ', ' + HMAJSON[mon].expyield + ', (' + hpev + ', ' + atkev + ', ' + defev + ', ' + speev + ', ' + spaev + ', ' + spdev + '), "' + itemcommon + '", "' + itemrare + '", "' + HMAJSON[mon].genderratio + '", ' + HMAJSON[mon].eggcycles + ', ' + friendship + ', "' + HMAJSON[mon].growthrate + '", "' + HMAJSON[mon].egggroup1 + '", "' + HMAJSON[mon].egggroup2 + '", "' + ability1 + '", "' + ability2 + '", ' + HMAJSON[mon].safarizonefleerate + ', (Red false), 0\n';
+    var expyield = HMAJSON[mon].expyield;
+    if (expyield > 255) expyield = 255;
+    output += HMAJSON[mon].hp + ', ' + HMAJSON[mon].attack + ', ' + HMAJSON[mon].defense + ', ' + HMAJSON[mon].speed + ', ' + HMAJSON[mon].spatk + ', ' + HMAJSON[mon].spdef + ', ' + HMAJSON[mon].type1 + ', ' + HMAJSON[mon].type2 + ', ' + HMAJSON[mon].catchrate + ', ' + expyield + ', (' + hpev + ', ' + atkev + ', ' + defev + ', ' + speev + ', ' + spaev + ', ' + spdev + '), "' + itemcommon + '", "' + itemrare + '", "' + HMAJSON[mon].genderratio + '", ' + HMAJSON[mon].eggcycles + ', ' + friendship + ', "' + HMAJSON[mon].growthrate + '", "' + HMAJSON[mon].egggroup1 + '", "' + HMAJSON[mon].egggroup2 + '", "' + ability1 + '", "' + ability2 + '", ' + HMAJSON[mon].safarizonefleerate + ', (Red false), 0\n';
 }
 fs.writeFileSync('output.txt', output);
