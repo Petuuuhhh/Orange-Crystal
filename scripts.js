@@ -1529,6 +1529,26 @@ const mons = [
 	"Urshifu4",
 	"Mimikyu4"
 ]
+const movetutormoves = [
+	'megapunch',
+	'swordsdance',
+	'megakick',
+	'bodyslam',
+	'doubleedge',
+	'counter',
+	'seismictoss',
+	'mimic',
+	'metronome',
+	'softboiled',
+	'dreameater',
+	'thunderwave',
+	'explosion',
+	'rockslide',
+	'substitute',
+	'frenzyplant',
+    'blastburn',
+    'hydrocannon'
+]
 var output = '';
 for (const mon of mons) {
     var hpev = 0;
