@@ -1,17 +1,5 @@
 TMs expanded to 120
 - Figure out what TMs
-Select later Gen moves
-- Akame
-- C injection
-Select later Gen items
-- Akame
-- C injection
-No later Gen Abilities
-Gen 4-9 mons with Gen 3 Abilities
-- pokeemerald-expansion ripper
-- Haven
-Physical/Special/Status Split
-Exp All
 Soft level caps
 - pokeemerald port
 Badge mon/level scaling (& evolutions) on select trainers and areas
@@ -23,17 +11,15 @@ Tweaked level-up learnsets
 New areas
 - Demonheadge
 - Vytron
-Later Gen move updates
-Fairy type
-No Megas, Z-Moves, or Dynamax
 Drop tables
+Quest menu
 
 ---------------------------------------------
 ---------------------------------------------
 
 TMs:
 
-Later Gen moves:
+Later Gen TM/move tutor move ideas:
 U-Turn
 Stealth Rock
 Close Combat
@@ -96,7 +82,7 @@ Grass Knot
 Power Gem
 Wild Charge
 
-Later Gen items:
+Later Gen competitive item vendor ideas:
 Heavy-Duty Boots
 Focus Sash
 Choice Scarf
