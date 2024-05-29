@@ -26,6 +26,7 @@ New areas
 Later Gen move updates
 Fairy type
 No Megas, Z-Moves, or Dynamax
+Drop tables
 
 ---------------------------------------------
 ---------------------------------------------
@@ -129,3 +130,23 @@ Visit certain map and catch certain amount of Pokemon in wild
 Visit certain map and defeat certain amount of trainers, gathering detailed species info on their teams
 Visit certain map and defeat certain amount of Pokemon in wild
 Obtain certain item by finding it on a wild Pokemon (25% chance, only found specifically on those quests)
+
+Quest 1
+Go to Valencia Park for initiation and:
+KO 5 Shroodles
+Catch 3 Blipbugs
+Defeat 20 Pokemon altogether
+Catch 5 Pokemon altogether
+Defeat 5 trainers
+Obtain Silverpowder by catching/defeating Shroodles/Blipbugs
+
+Valencia Park
+Shroodle 20 20%
+Blipbug 20 20%
+Gloom 21 10%
+Weepinbell 21 10%
+Pancham 22 10%
+Joltik 22 10%
+Foongus 23 10%
+Sewaddle 20 5%
+Venipe 22 5%
